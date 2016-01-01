@@ -9,8 +9,8 @@
         <script src="public/bootstrap/dist/js/bootstrap.min.js"></script>
         
     </head>
-  <body>
-    <div class="alert alert-warning alert-dismissible" role="alert">
+  <body ng-app="webApp" ng-control="webCtrl">
+    <div class="alert alert-warning alert-dismissible" role="alert" >
       <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
       <strong>提示!</strong> 本站检测到您是在中国区域，由于 GFW 的限制，本站的部分功能，比如 Google Map 等将会无法使用，请使用 <a href="http://gjsq.me/3475690">VPN</a> 来访问本站。
     </div>
@@ -19,6 +19,10 @@
     <div id="preview"> </div>
     
     <script>
+        Angular.module("webApp", [])
+        .controller('webCtrl', function("$scope"){
+            
+        });
       function Editor(input, preview) {
         this.update = function () {
           preview.innerHTML = markdown.toHTML(input.value);
