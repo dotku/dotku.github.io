@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<title>DIV 下拉菜单</title>
+<style>
+	table {
+		border-collapse: collapse;
+	}
+	.menu > li{
+		float: left;
+		list-style-type: none;
+		width: 200px;
+		background-color: #fcf;
+	}
+	.menu {
+		position: relative;
+	}
+	.menu td {
+		vertical-align: top;
+		background-color: #efc;
+		width: 120px;
+	}
+</style>
+<div class="">
+	<table class="menu">
+		<tr><td onmouseover="displaySubMenu(table1, this)" onmouseout="hiddenSubMenu(table1)">菜单1
+			<table id="table1" style="display: none">
+				<tr><td>子菜单1</td></tr>
+				<tr><td>子菜单1</td></tr>
+				<tr><td>子菜单1</td></tr>
+			</table>
+		</td>
+		<td onmouseover="displaySubMenu(table2, this)" onmouseout="hiddenSubMenu(table2)">菜单2
+			<table id="table2" style="display: none">
+				<tr><td>子菜单2</td></tr>
+				<tr><td>子菜单2</td></tr>
+				<tr><td>子菜单2</td></tr>
+			</table>
+		</td>
+		<td onmouseover="displaySubMenu(table3, this)" onmouseout="hiddenSubMenu(table3)">菜单3
+			<table id="table3" style="display: none">
+				<tr><td>子菜单3</td></tr>
+				<tr><td>子菜单3</td></tr>
+				<tr><td>子菜单3</td></tr>
+			</table>
+		</td></tr>
+	</table>
+</div>
+<div style="clear: both"></div>
+<div>
+	根据 table 子菜单修改
+</div>
+<script>
+	function displaySubMenu(id, obj) {
+		id.style.display = "";
+		id.style.position = "absolute";
+		id.style.zIndex = 999;
+	}
+	function hiddenSubMenu(id) {
+		id.style.display = "none";
+	}
+</script>

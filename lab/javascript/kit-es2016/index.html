@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Aurelia</title>
+    <link rel="stylesheet" href="jspm_packages/npm/font-awesome@4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styles/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body aurelia-app>
+    <template>
+  <section>
+    <h2>${heading}</h2>
+
+    <form submit.trigger="submit()">
+      <div>
+        <label>First Name</label>
+        <input type="text" value.bind="firstName">
+      </div>
+      <div>
+        <label>Last Name</label>
+        <input type="text" value.bind="lastName">
+      </div>
+      <div>
+        <label>Full Name</label>
+        <p>${fullName}</p>
+      </div>
+      <button type="submit">Submit</button>
+    </form>
+  </section>
+</template>
+    <script src="jspm_packages/system.js"></script>
+    <script src="config.js"></script>
+    <script>
+      System.import('aurelia-bootstrapper');
+    </script>
+  </body>
+</html>

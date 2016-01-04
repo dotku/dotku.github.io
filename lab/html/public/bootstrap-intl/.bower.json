@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-intl",
+  "homepage": "https://github.com/dotku/bootstrap-intl",
+  "_release": "bab2b0c73b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bab2b0c73be79c810cad9054a31412422b7c496b"
+  },
+  "_source": "git://github.com/dotku/bootstrap-intl.git",
+  "_target": "*",
+  "_originalSource": "bootstrap-intl",
+  "_direct": true
+}

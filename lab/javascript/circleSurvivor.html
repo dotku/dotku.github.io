@@ -1,0 +1,61 @@
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="http://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    
+</head>
+<body>
+<div ng-app="circleSurvivor">
+    <div id="chartContainer" style="height: 500px"></div>
+    <div ng-click="next" class="btn btn-primary">Next</div>
+</div>
+<script type="text/javascript">
+var app = angular.module("circleSurvivor", []);
+app.controller('myCtrl'), function($scope) {
+    $scope.dataPoints = [];
+});
+var max = 100;
+var dataPoints = [];
+for (i = 1; i <= max; i++) {
+    dataPoints.push({  y: 1, legendText:'#'+i, label: '#'+i });
+}
+
+window.onload = function () {
+	var chart = new CanvasJS.Chart("chartContainer",
+	{
+		title:{
+			text: "Circle Survivor"
+		},
+        //animationEnabled: true,
+		legend:{
+			verticalAlign: "center",
+			horizontalAlign: "left",
+			fontSize: 10,
+			fontFamily: "Arial",
+            maxHeight: 300,
+            itemWidth: 50
+		},
+		theme: "theme2",
+		data: [
+		{        
+			type: "doughnut",       
+			indexLabelFontFamily: "Garamond",       
+			indexLabelFontSize: 12,
+			//indexLabel: "{label} {y}%",
+			startAngle:-20,      
+			showInLegend: true,
+			//toolTipContent:"{legendText} {y}%",
+			dataPoints: dataPoints
+		}
+		]
+	});
+	chart.render();
+}
+</script>
+</body>
+</html>

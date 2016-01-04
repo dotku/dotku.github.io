@@ -1,0 +1,54 @@
+<ul class="dirList">
+			<li>Java
+			<li>C++
+			<li>C
+			<li>C#
+			<li>Objective-C
+			<li>HTML
+			<li>CSS
+			<li>JavaScript
+			<li>Python
+			<li>PHP
+			<li>Ruby
+			<li>NodeJS
+		</ul>
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script>
+var s = 'c#';
+
+$(function(){
+				$(".dirList li").each(function(i, o){
+					var keyword = $(o).text().toLowerCase();
+					var sUrl = './foldername'; // no exists folder
+					
+					keyword = keyword.replace('#', 'sharp');
+					console.log('update1');
+					console.log(keyword);
+					switch (keyword) {
+						case 'c++':
+							keyword = 'cpp';
+							break;
+						case 'c#':
+							console.log(keyword);
+							keyword = 'csharp';
+							break;
+						default:
+							// do nothing ...
+					}
+					
+					sUrl = './' + keyword;
+					$.ajax({
+						url: sUrl, 
+						type: 'HEAD',
+						success: function(){
+							$(o).html('<a href="./' + keyword+'">' + $(o).text() + '</a>');
+						},
+						error: function(jqXHR, textStatus, errorThrown){
+							if (jqXHR.status = 404) {
+								// do nothing ...
+							}
+						}
+					})
+				})
+			})
+</script>

@@ -1,0 +1,88 @@
+<style>
+.items li
+{
+	float: left;
+	margin: 0px 5px 5px 0px;
+	text-transform: uppercase;
+}
+  
+.items li .outerContainer
+{
+	display: table;
+	height: 180px;
+	overflow: hidden;
+	width: 200px;
+	background-color: #EBEBEB;
+	border-bottom: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+}
+  
+.items li .outerContainer:Hover
+{
+	background-color: red;
+}
+
+.items li .outerContainer .innerContainer
+{
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+  
+.items li .outerContainer .innerContainer .element a
+{
+	color: #999999;
+	text-decoration: none;
+	padding: 0px 10px;
+	display: block;
+}
+  
+.items li .outerContainer:Hover .innerContainer .element a
+{
+	color: #FFFFFF;
+	text-decoration: none;  	  
+}
+</style>
+<!--[if lt IE 8]>
+<link rel="stylesheet" media="screen, projection" href="css/ie7.css" />
+<![endif]-->
+  <div class="items">
+  <ul>
+  
+  <li>
+  <div class="outerContainer">
+  <div class="innerContainer">
+  <div class="element"><a href="#">Just one line</a></div>
+  </div>
+  </div>
+  </li>
+  
+  <li>
+  <div class="outerContainer">
+  <div class="innerContainer">
+  <div class="element"><a href="#">Now on two lines, tricky</a></div>
+  </div>
+  </div>
+  </li>
+  
+  <li>
+  <div class="outerContainer">
+  <div class="innerContainer">
+  <div class="element"><a href="#">Its now over three lines, its getting crazy</a></div>
+  </div>
+  </div>
+  </li>
+  
+  <li>
+  <div class="outerContainer">
+  <div class="innerContainer">
+  <div class="element"><a href="#">Finally over four lines, all the code is the same for each list item</a></div>
+  </div>
+  </div>
+  </li>
+  
+  
+  </ul>
+  </div>

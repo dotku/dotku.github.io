@@ -1,0 +1,150 @@
+<head>
+    <meta charset="utf-8">
+    <title>D3 - JavaScript - Weijing Lin</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+</head>
+<body>
+    <h1>D3.js</h1>
+    <p>D3 不是那么简单的东西，D3 包含了类似 jQuery 的功能，比如:</p>
+    <pre>
+        &lt;p class=&quot;target&quot;&gt;&#23601;&#20462;&#25913;&#20102;&#27573;&#33853;&#30340;&#39068;&#33394;&#20102;&#12290;&lt;/p&gt;
+        &lt;script&gt;
+        d3.selectAll(&quot;.target&quot;).style(&quot;color&quot;, &quot;blue&quot;);
+        &lt;/script&gt;
+    </pre>
+    <p class="target">就修改了段落的颜色了。</p>
+    <script>
+        d3.selectAll(".target").style("color", "blue");
+    </script>
+    <p>当然，D3 主要的功能还是用来画图，制表，以下简单的制表</p>
+    <pre>
+&lt;style&gt;
+
+.chart rect {
+  fill: steelblue;
+}
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+&lt;/style&gt;
+    &lt;svg class=&quot;chart&quot;&gt;&lt;/svg&gt;
+    &lt;script&gt;
+
+var data = [4, 8, 15, 16, 23, 42];
+
+var width = 420,
+    barHeight = 20;
+
+var x = d3.scale.linear()
+    .domain([0, d3.max(data)])
+    .range([0, width]);
+
+var chart = d3.select(&quot;.chart&quot;)
+    .attr(&quot;width&quot;, width)
+    .attr(&quot;height&quot;, barHeight * data.length);
+
+var bar = chart.selectAll(&quot;g&quot;)
+    .data(data)
+  .enter().append(&quot;g&quot;)
+    .attr(&quot;transform&quot;, function(d, i) { return &quot;translate(0,&quot; + i * barHeight + &quot;)&quot;; });
+
+bar.append(&quot;rect&quot;)
+    .attr(&quot;width&quot;, x)
+    .attr(&quot;height&quot;, barHeight - 1);
+
+bar.append(&quot;text&quot;)
+    .attr(&quot;x&quot;, function(d) { return x(d) - 3; })
+    .attr(&quot;y&quot;, barHeight / 2)
+    .attr(&quot;dy&quot;, &quot;.35em&quot;)
+    .text(function(d) { return d; });
+
+&lt;/script&gt;
+</pre>
+<style>
+
+.chart rect {
+  fill: steelblue;
+}
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+</style>
+    <svg class="chart"></svg>
+    <script>
+
+var data = [4, 8, 15, 16, 23, 42];
+
+var width = 420,
+    barHeight = 20;
+
+var x = d3.scale.linear()
+    .domain([0, d3.max(data)])
+    .range([0, width]);
+
+var chart = d3.select(".chart")
+    .attr("width", width)
+    .attr("height", barHeight * data.length);
+
+var bar = chart.selectAll("g")
+    .data(data)
+  .enter().append("g")
+    .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
+
+bar.append("rect")
+    .attr("width", x)
+    .attr("height", barHeight - 1);
+
+bar.append("text")
+    .attr("x", function(d) { return x(d) - 3; })
+    .attr("y", barHeight / 2)
+    .attr("dy", ".35em")
+    .text(function(d) { return d; });
+
+</script>
+甚至画地图都是可以的
+<div id="map"></div>
+<style>
+
+path {
+  fill: #ccc;
+  stroke: #fff;
+  stroke-width: .5px;
+}
+
+path:hover {
+  fill: red;
+}
+
+</style>
+<script>
+
+var width = 960,
+    height = 500;
+
+var path = d3.geo.path();
+
+var svg = d3.select("#map").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+d3.json("./us.json", function(error, topology) {
+  //if (error) throw error;
+  console.log(error);
+
+  svg.selectAll("path")
+      .data(topojson.feature(topology, topology.objects.states).features)
+    .enter().append("path")
+      .attr("d", path);
+});
+
+</script>
+</body>

@@ -1,0 +1,139 @@
+<meta charset="UTF-8">
+<style>
+ul,li{ 
+margin:0px; 
+padding:0px; 
+} 
+li{ 
+display:inline; 
+list-style:none; 
+list-style-position:outside; 
+text-align:center; 
+font-weight:bold; 
+float:left; 
+} 
+a:link{ 
+color:#336601; 
+text-decoration:none; 
+float:left; 
+width:100px; 
+padding:3px 5px 0px 5px; 
+} 
+a:visited{ 
+color:#336601; 
+text-decoration:none; 
+float:left; 
+padding:3px 5px 0px 5px; 
+width:100px; 
+} 
+a:hover{ 
+color:white; 
+float:left; 
+padding:3px 3px 0px 20px; 
+width:88px; 
+text-decoration:none; 
+background-color:#539D26; 
+} 
+a:active{ 
+color:white; 
+float:left; 
+padding:3px 3px 0px 20px; 
+width:88px; 
+text-decoration:none; 
+background-color:#539D26; 
+}
+#nav{ 
+	position: relative;
+width:1002px; 
+height:25px; 
+border-bottom:0px; 
+z-index:2;
+padding-top:116px;
+}
+.list{ 
+	line-height:20px; 
+	text-align:left; 
+	padding:4px; 
+	font-weight:normal; 
+} 
+.menu1{ 
+	width:120px; 
+	height:auto; 
+	margin:6px 4px 0px 0px; 
+	border:1px solid #9CDD75; 
+	background-color:#F1FBEC; 
+	color:#336601; 
+	padding:6px 0px 0px 0px; 
+	cursor:hand; 
+	overflow-y:hidden; 
+	filter:Alpha(opacity=70); 
+	-moz-opacity:0.7; 
+} 
+.menu2{ 
+width:120px; 
+height:18px; 
+margin:6px 4px 0px 0px; 
+background-color:#F5F5F5; 
+color:#999999; 
+border:1px solid #EEE8DD; 
+padding:6px 0px 0px 0px; 
+overflow-y:hidden; 
+cursor:hand;
+}
+</style>
+<script>
+	function dropDown(o, id) {
+		o.style.position = 'relative';
+		id.style.position = "absolute";
+		//id.style.z-index = "999";
+		
+	}
+</script>
+<div id="nav"> 
+<ul> 
+<li class="menu2" onMouseOver="this.className='menu1'" onMouseOut="this.className='menu2'" >首页
+</li> 
+<li class="menu2" onMouseOver="dropDown(this, list2)" onMouseOut="this.className='menu2'">关于东软 
+<div class="list" id="list2"> 
+   <a href="#">东软简介</a><br /> 
+         <a href="#">学院荣誉</a><br /> 
+         <a href="#">教育系部</a><br /> 
+         <a href="#">学院组织</a><br /> 
+         <a href="#">学院社团</a><br /> 
+</div> 
+</li> 
+<li class="menu2" onMouseOver="this.className='menu1'" onMouseOut="this.className='menu2'">FTP资源  
+<div class="list"> 
+   <a href="#">计机资源</a><br /> 
+         <a href="#">信管资源</a><br /> 
+         <a href="#">数字资源</a><br /> 
+         <a href="#">英日系资源</a><br />
+         <a href="#">合作部资源</a><br />
+         <a href="#">作品资源</a><br />
+         <a href="#">其他资源</a><br />
+</div> 
+</li> 
+<li class="menu2" onMouseOver="this.className='menu1'" onMouseOut="this.className='menu2'">大学生活  
+<div class="list"> 
+   <a href="#">最新活动</a><br /> 
+         <a href="#">学在东软</a><br /> 
+         <a href="#">食在东软</a><br /> 
+         <a href="#">住在东软</a><br /> 
+         <a href="#">行在东软</a><br /> 
+         <li class="menu2" onMouseOver="this.className='menu1'" onMouseOut="this.className='menu2'">意见反馈  
+<div class="list"> 
+   <a href="#">学院办公室</a><br /> 
+         <a href="#">计机系办公室</a><br /> 
+         <a href="#">信管系办公室</a><br /> 
+         <a href="#">数艺系办公室</a><br /> 
+         <a href="#">国合部办公室</a><br />
+         <a href="#">各社团组织</a><br />
+         <li class="menu2" onMouseOver="this.className='menu1'" onMouseOut="this.className='menu2'">学生论坛  
+<div class="list">
+</div> 
+</li>
+</ul> 
+<div style="clear: both"></div>
+</div>
+
+ETST

@@ -1,0 +1,32 @@
+<html>
+<head>
+    <title>数据岛测试</title>
+    <script type="text/javascript">
+        function btnOnclick()
+        {
+            var xmlDoc = document.getElementById("XmlData");
+            
+            xmlDoc.documentElement.selectSingleNode("name").text = "abc";
+        }
+    </script>
+</head>
+<body>
+    <xml src="book.xml" id="XmlData"></xml>
+    
+    <div>
+        <span>书名：</span>
+        <span datasrc="#XmlData" datafld="name"></span>
+        <br />
+        
+        <span>作者：</span>
+        <span datasrc="#XmlData" datafld="author"></span>
+        <br />
+        
+        <span>日期：</span>
+        <span datasrc="#XmlData" datafld="date"></span>
+    </div>
+    
+    <input type="button" value="改变XML值" onclick="btnOnclick()" />
+    
+</body>
+</html>

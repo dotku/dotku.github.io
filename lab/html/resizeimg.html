@@ -1,0 +1,26 @@
+<head>
+
+</head>
+<body>
+<div class="imgContainer" style="height:100px; width:500px; overflow:hidden; background-color: black">
+	<img src="http://dev.isaacsonwebdevelopment.com/sites/development/files/views-slideshow-settings-jquery-cycle-custom-options-message.png" id="imgCat">
+</div>
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.3.min.js"></script>
+<script>
+	$(window).load(function() {
+		var heightRate =$("#imgCat").height() / $("#imgCat").parent(".imgContainer").height();
+		var widthRate = $("#imgCat").width() / $("#imgCat").parent(".imgContainer").width();
+		
+		if (window.console) {
+			console.log($("#imgCat").height());
+			console.log(heightRate);
+			console.log(widthRate);
+			console.log(heightRate > widthRate);
+		}
+		if (heightRate <= widthRate) {
+			$("#imgCat").height($("#imgCat").parent(".imgContainer").height());
+		} else {
+			$("#imgCat").width($("#imgCat").parent(".imgContainer").width());
+		}
+	});
+</script>

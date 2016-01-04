@@ -1,0 +1,83 @@
+{
+  "name": "aurelia-task-queue",
+  "version": "1.0.0-beta.1",
+  "description": "A simple task queue for the browser that enables the queuing of both standard tasks and micro tasks.",
+  "keywords": [
+    "aurelia",
+    "queue",
+    "task",
+    "micro task"
+  ],
+  "homepage": "http://aurelia.io",
+  "bugs": {
+    "url": "https://github.com/aurelia/task-queue/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Rob Eisenberg",
+    "email": "rob@bluespire.com",
+    "url": "http://robeisenberg.com/"
+  },
+  "main": "aurelia-task-queue",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aurelia/task-queue"
+  },
+  "jspmNodeConversion": false,
+  "jspm": {
+    "main": "aurelia-task-queue",
+    "format": "amd",
+    "directories": {
+      "lib": "dist/amd"
+    },
+    "dependencies": {
+      "aurelia-pal": "npm:aurelia-pal@^1.0.0-beta.1"
+    },
+    "devDependencies": {
+      "aurelia-pal-browser": "npm:aurelia-pal-browser@^1.0.0-beta.1",
+      "babel": "npm:babel-core@^5.1.13",
+      "babel-runtime": "npm:babel-runtime@^5.1.13",
+      "core-js": "npm:core-js@^1.2.6"
+    }
+  },
+  "devDependencies": {
+    "aurelia-pal-browser": "npm:aurelia-pal-browser@^1.0.0-beta.1",
+    "babel": "npm:babel-core@^5.1.13",
+    "babel-runtime": "npm:babel-runtime@^5.1.13",
+    "core-js": "npm:core-js@^1.2.6"
+  },
+  "aurelia": {
+    "documentation": {
+      "articles": []
+    }
+  },
+  "gitHead": "728314882879e10090a3c0b1a89d9573c29f8486",
+  "_id": "aurelia-task-queue@1.0.0-beta.1",
+  "scripts": {},
+  "_shasum": "c88b4d06b3e10a8d4b6b88c50ef36e395c656d06",
+  "_from": ".",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "aureliaeffect",
+    "email": "info@durandal.io"
+  },
+  "dist": {
+    "shasum": "c88b4d06b3e10a8d4b6b88c50ef36e395c656d06",
+    "tarball": "http://registry.npmjs.org/aurelia-task-queue/-/aurelia-task-queue-1.0.0-beta.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "aureliaeffect",
+      "email": "info@durandal.io"
+    }
+  ],
+  "directories": {
+    "lib": "dist/amd"
+  },
+  "format": "amd",
+  "registry": "npm",
+  "dependencies": {
+    "aurelia-pal": "npm:aurelia-pal@^1.0.0-beta.1"
+  }
+}
