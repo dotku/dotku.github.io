@@ -1,14 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="">
 	<head>
 		<meta charset="UTF-8"/>
 		<title>PHP</title>
-		<?php
-			$path_inc_bootstrap = "../../template/inc/bootstrap.php";
-			if(file_exists($path_inc_bootstrap)){
-				include_once($path_inc_bootstrap);
-			}
-		?>
+		<script src="/lib/angular/angular.min.js"></script>
+    <ng-include src="'../../view/common.bootstrap.htm'"></ng-include>
 	</head>
 	<body class="container">
 		<h1>PHP</h1>
