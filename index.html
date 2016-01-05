@@ -6,6 +6,7 @@
         <link href="lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
         <link href="lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
         <script src="lib/jquery/dist/jquery.min.js"></script>
+        <script src="lib/angular/angular.min.js"></script>
         <script src="lib/markdown/lib/markdown.js"></script>
         <script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
         
@@ -29,9 +30,14 @@
     <p>感觉还是要有一个自己的服务器才行！</p>
     </div>
     <script>
-        Angular.module("webApp", [])
-        .controller('webCtrl', function("$scope"){
-            
+      var ipApi = "http://ip-api.com/json";
+      var app = angular.module("webApp", []);
+        app.controller("webCtrl", function($scope, $http){
+          $http.get(ipApi)
+          .then(function(response) {
+            $scope.country = response.data.country;
+            console.log(response.data);
+          });
         });
       function Editor(input, preview) {
         this.update = function () {
