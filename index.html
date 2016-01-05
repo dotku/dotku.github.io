@@ -31,14 +31,14 @@
     </div>
     <script>
       var ipApi = "http://ip-api.com/json";
-      var app = angular.module("webApp", []);
-        app.controller("webCtrl", function($scope, $http){
-          $http.get(ipApi)
-          .then(function(response) {
-            $scope.country = response.data.country;
-            console.log(response.data);
+      var app = angular.module('webApp', []);
+      app.controller('webCtrl', function($scope, $http) {
+        $http.get("http://ip-api.com/json")
+        .then(function (response) {
+          $scope.names = response.data;
+          console.log(response.data);
           });
-        });
+      });
       function Editor(input, preview) {
         this.update = function () {
           preview.innerHTML = markdown.toHTML(input.value);
