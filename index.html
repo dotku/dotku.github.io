@@ -6,22 +6,16 @@
         <link href="lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
         <link href="lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
         <script src="lib/jquery/dist/jquery.min.js"></script>
-        <script src="lib/angular/angular.min.js"></script>
         <script src="lib/markdown/lib/markdown.js"></script>
+        <script src="lib/angular/angular.min.js"></script>
         <script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
-        
     </head>
-  <body ng-app="webApp" ng-control="webCtrl">
-    <div class="alert alert-warning alert-dismissible" role="alert" >
+  <body ng-app="myApp" ng-controller="myCtrl">
+    <div class="alert alert-warning alert-dismissible gfwAlert" role="alert" style="display:none">
       <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
       <strong>提示!</strong> 本站检测到您是在中国区域，由于 GFW 的限制，本站的部分功能，比如 Google Map 等将会无法使用，请使用 <a href="http://gjsq.me/3475690">VPN</a> 来访问本站。
     </div>
     <div class="container">
-    <textarea id="text-input" oninput="this.editor.update()"
-              rows="6" cols="60">Type **Markdown** here.</textarea>
-    <div id="preview"> </div>
-    I think github io might be down?!
-    What do you think?
     <h2>AngularJS</h2>
     <p>AngularJS 的 ng-include 仍然有很多限制，比如部分情况下不能使用 script，有时候包含 controller 会有错误等；有一些特殊的处理方式，不过看得不是太懂 :(</p>
     <h3>2016/01/04</h3>
@@ -30,24 +24,17 @@
     <p>感觉还是要有一个自己的服务器才行！</p>
     </div>
     <script>
-      var ipApi = "http://ip-api.com/json";
-      var app = angular.module('webApp', []);
-      app.controller('webCtrl', function($scope, $http) {
+      var app = angular.module('myApp', []);
+      app.controller('myCtrl', function($scope, $http) {
         $http.get("http://ip-api.com/json")
         .then(function (response) {
-          $scope.names = response.data;
-          console.log(response.data);
-          });
+          $scope.ipData = response.data;
+          if ($scope.ipData.countryCode == 'cn') {
+            $(".gfwAlert").show();
+            window.console ? console.log("countryCode: " + $scope.ipData.countryCode) : '';
+          }
+        });
       });
-      function Editor(input, preview) {
-        this.update = function () {
-          preview.innerHTML = markdown.toHTML(input.value);
-        };
-        input.editor = this;
-        this.update();
-      }
-      var $ = function (id) { return document.getElementById(id); };
-      new Editor($("text-input"), $("preview"));
     </script>
   </body>
 </html>
