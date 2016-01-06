@@ -1,0 +1,6 @@
+IndexOptions +Charset=UTF-8
+AddType text/html .shtml
+AddHandler server-parsed .html
+AddHandler server-parsed .shtml
+Options Indexes FollowSymLinks Includes
+DirectoryIndex index.shtml index.html 
