@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?php echo C('SITE_TITLE'); ?> - <?php echo C('SITE_SUBTITLE'); ?></title>
+    <title>KIWICH.com - a location based news portal</title>
     <meta name="Keywords" content="media, news, video, global, news, location based news">
     <meta name="description" content="A local media website, you can read, search video, news base on location.">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -23,7 +23,6 @@
 <div data-role="popup" id="{{titleNoFormatting}}" class="popup_news" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;">
       <a href="#" data-rel="back" class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right">Close</a>
       <div role="main" class="ui-content">
-        
             <h3 class="ui-title">{{titleNoFormatting}}</h3>
             <iframe height="500px" width="100%" src="{{unescapedUrl}}" style="border:0px;"></iframe>
             <a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-b" data-rel="back">Close</a>
@@ -69,6 +68,7 @@ $.getJSON("http://weijinglin.name/api/googlenews", function(data) {
   template = Handlebars.compile($("#popup-template").html());
   for (i = 0; i < news_ajax.length; i ++) {
     $("#"+news_ajax[i].titleNoFormatting).parent().css('height', $(window).height());
+    $("#"+news_ajax[i].titleNoFormatting).parent().css('width', $(window).width());
   }
   $(".section-popup").html(template(news_ajax)).enhanceWithin();
   
