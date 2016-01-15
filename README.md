@@ -17,4 +17,8 @@ Thank you,
 ## Updates
 - Jan 15, 2016  
 Welcome to my github space, I current just reconstruct the folders,
-make them separated by languages.
+make them separated by languages, inlcuding [English] and [Chinese].
+I guest it would be a better way for construct the content.
+
+[English]: '/en'
+[Chinese]: '/cn'

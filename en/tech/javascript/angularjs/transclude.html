@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TITLE</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>TITLE</h1>
+      <div ng-app="Demo">
+
+        <div ng-controller="demoCtrl">
+
+            <input ng-model="words" />
+
+            <my-div>{{words}}</my-div>
+
+        </div>
+
+    </div>
+
+    <script>
+
+        angular.module("Demo", [])
+
+        .directive("myDiv", function () {
+
+            return {
+
+                restrict: 'E',
+
+                transclude: true,
+
+                template:"<div><p>ngTransclude:</p><p ng-transclude></p><p>End</p></div>"
+
+            }
+
+        })
+
+        .controller("demoCtrl", ["$scope", function ($scope) {
+
+            $scope.words = "Hello World";
+
+        }])
+
+</script>
+    </div>
+  </body>
+</html>
