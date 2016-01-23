@@ -1,0 +1,54 @@
+{
+  "name": "dotku.github.io",
+  "homepage": "dotku.github.io",
+  "authors": [
+    "Jay Lin <weijingjaylin@gmail.com>"
+  ],
+  "description": "my personal github webiste",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "dotku",
+    "jay",
+    "leyant",
+    "weijing",
+    "lin"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-markdown-directive": "~0.3.1",
+    "angular-md5": "~0.1.10",
+    "angularjs": "~1.4.8",
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "datetimepicker": "~2.4.5",
+    "d3": "~3.5.12",
+    "ember-1.13.12": "ember#1.13.12",
+    "eonasdan-bootstrap-datetimepicker": "~4.17.37",
+    "ember": "~2.2.1",
+    "handlebars": "~4.0.5",
+    "javascript-md5": "~2.1.0",
+    "jquery-1.9.0": "jquery#1.9.0",
+    "jquery-qrcode": "*",
+    "jquery-mobile": "~1.4.5",
+    "jquery-migrate": "~1.2.1",
+    "knockout": "knockoutjs#~3.4.0",
+    "leaflet": "~0.7.7",
+    "markdown": "~0.5.0",
+    "less": "~2.5.3",
+    "moment": "~2.10.6",
+    "qrcode.js": "qrcode#~1.0.2",
+    "perfect-scrollbar": "~0.6.8",
+    "showdown": "~1.3.0",
+    "slick-carousel": "slick.js#~1.5.9"
+  }
+}
