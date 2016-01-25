@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TITLE</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="../app/toolbox/config.js"></script>
+    <script src="../app/toolbox/init.js"></script>
+  </head>
+  <body>
+    <div class="container col-md-3">
+      <h1>TITLE</h1>
+      <div class="app-description"></div>
+      <div class="menu"></div>
+    </div>
+    <div class="container col-md-9">
+      <h2>Slash Switch</h2>
+      <input class="form-control slash-switch-input" placeholder="place your path here, will switch slash around"/>
+      <p style="margin-top: 10px">eg. C:\www\dotku.github.io\app\toolbox</p>
+      <div class="input-group">
+        
+        <input class="form-control slash-switch-result" id="slash-switch-result" placeholder="C:/www/dotku.github.io/app/toolbox"/>
+        <label class="input-group-addon btn btn-default slash-switch-copy" for="slash-switch-result">Copy</label>
+      </div>
+      <script>
+        $(".slash-switch-copy").on('click', function(){
+          $('.slash-switch-result').select();
+          try {
+              var successful = document.execCommand('copy');
+              var msg = successful ? 'successful' : 'unsuccessful';
+              console.log('Copying text command was ' + msg);
+            } catch (err) {
+              console.log('Oops, unable to copy');
+            }
+        });
+        $(".slash-switch-input").on('paste keyup change', function(){
+           var obj = this;
+          setTimeout(function(){
+            //console.log($('.slash-switch-input').val());
+            sResult = $(obj).prop('value').replace(/\\/g,"/");
+            //console.log(sResult);
+            $('.slash-switch-result').val(sResult);
+          }, 1);
+        })
+      </script>
+    </div>
+  </body>
+</html>
