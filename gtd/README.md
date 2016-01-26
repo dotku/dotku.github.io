@@ -1,5 +1,7 @@
 #GTD 
 ## Diary 
+### FTP Backup Automation
+Crated Date: Jan 25 2015  
 I was trying to have personal website http://www.weijinglin.name sync with 
 github project, but unfortunately due to http limit it won't work with directory 
 reading, and github doesn't provide FTP service either. I'm thinking of sync my 

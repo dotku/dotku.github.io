@@ -212,7 +212,7 @@ section .post-navbar .slick-slide {
 	max-width: 240px;
 	margin: 0 6px;
 }
-section .post-navbar .slick-slide a {
+section .post-navbar .slick-slide .cl {
 	display: block;
 	margin-bottom:12px;
 	background: #fff;
