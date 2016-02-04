@@ -1,0 +1,22 @@
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<style>.t1{background:red}</style>
+<script>
+var cur;
+window.onload=function(){
+  $("li").click(function(){
+	console.log($(this).get());
+	console.log($(this).get()[0].clientWidth);
+	if(cur == $(this)) return false;
+	if(cur != null) cur[0].className = "";
+	$(this)[0].className = "t1";
+	cur = $(this);
+  })
+}
+</script>
+<ul> 
+<li>aaaaa </li> 
+<li>bbb </li> 
+<li>ccc </li> 
+</ul>
+<div id="#result"></div>

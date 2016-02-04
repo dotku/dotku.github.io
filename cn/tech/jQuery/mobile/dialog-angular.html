@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>dialog demo</title>
+  <link rel="stylesheet" href="/lib/jquery.mobile-1.4.5/jquery.mobile-1.4.5.css">
+      <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dotku/dist/css/sticky-footer.css" rel="stylesheet"/>
+    <link href="/lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
+    
+    <script src="/lib/angularjs/angular.js"></script>
+    <script src="/lib/jquery/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/lib/jquery.mobile-1.4.5/jquery.mobile-1.4.5.js"></script>
+    <script src="/lib/dotku/dist/js/mobile.js"></script>
+</head>
+<body>
+<div ng-controller="MyCtrl">
+    <a ng-click="open()">Open Dialog</a>
+    <div id="modal-to-open" title="My Title" ui-jq="dialog" ui-options="{width: 300, autoOpen: false, modal: true}">
+        Dialog Text
+    </div>
+</div>
+<script>
+function MyCtrl($scope) 
+{
+    $scope.open = function () {
+        $('#modal-to-open').dialog('open');
+    }
+}
+</script>
+</body>
+
+</html>

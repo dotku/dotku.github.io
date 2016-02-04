@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>dotku.github.io</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+     <script src="/lib/angular-sanitize/angular-sanitize.js"></script>
+     <script src="/lib/showdown/dist/showdown.js"></script>
+    <script src="/lib/angular-markdown-directive/markdown.js"></script>
+   
+    
+    
+  </head>
+  <body>
+    <div class="container" ng-app="myApp" ng-controller="myCtrl">
+      <div btf-markdown ng-include="'long-chinese-phrase.md'"></div>
+    </div>
+    <script>
+
+      angular.module('myApp', [
+        'ngSanitize',
+        'btford.markdown'
+      ])
+      .controller('myCtrl', function($window){
+        console.log($("span.testSpan").html());
+      })
+      $(function(){
+        console.log($(".ng-scope").html());
+      })
+    </script>
+  </body>
+</html>

@@ -405,7 +405,7 @@ footer dl dd a:hover {
 
 .scrollTop {
 	position: fixed;
-	top: 70%;
+	top: 50%;
 	width: 70px;
 	right: 1%;
 	z-index: 2;
@@ -425,15 +425,31 @@ footer dl dd a:hover {
 }
 
 .scrollTop .scrolltop2 {
-	background: url(../images/scrollTop.png) no-repeat 0 -73px;
+	background: url(../images/scrollTop.png) no-repeat 0 -72px;
 }
 
 .scrollTop .scrolltop2:hover {
-	background: url(../images/scrollTop.png) no-repeat -92px -73px;
+	background: url(../images/scrollTop.png) no-repeat -92px -72px;
 }
 
 .scrollTop .scrolltop3 {
-	background: url(../images/scrollTop.png) no-repeat 0 -145px;
+	background: url(../images/scrollTop.png) no-repeat 0 -287px;
+}
+
+.scrollTop .scrolltop4 {
+	background: url(../images/scrollTop.png) no-repeat 0 -144px;
+}
+
+.scrollTop .scrolltop4:hover {
+	background: url(../images/scrollTop.png) no-repeat -92px -144px;
+}
+
+.scrollTop .scrolltop5 {
+	background: url(../images/scrollTop.png) no-repeat 0 -216px;
+}
+
+.scrollTop .scrolltop5:hover {
+	background: url(../images/scrollTop.png) no-repeat -92px -216px;
 }
 
 .form-signin {
