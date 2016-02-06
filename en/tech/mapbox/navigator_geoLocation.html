@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <title>Navigation Geo Location</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Navigation Geo Location</h1>
+      <p class="result">content</p>
+      <p>The Geolocation API defines a high-level interface to location information associated only with the device hosting the implementation, such as latitude and longitude. The API itself is agnostic of the underlying location information sources. Common sources of location information include Global Positioning System (GPS) and location inferred from network signals such as IP address, RFID, WiFi and Bluetooth MAC addresses, and GSM/CDMA cell IDs, as well as user input. No guarantee is given that the API returns the device's actual location. [via https://dev.w3.org/geo/api/spec-source.html]</p>
+      <script>
+        if (!navigator.geolocation) {
+          $('.result').html('Geolocation is not available');
+          } else {
+              navigator.geolocation.getCurrentPosition(function(position) {
+                $('.result').html(position.coords.latitude + ', ' + position.coords.longitude);
+              });
+          }
+      </script>
+    </div>
+  </body>
+</html>
