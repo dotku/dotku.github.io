@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <title>Mapbox</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
+    <link href='https://api.mapbox.com/mapbox.js/v2.2.4/mapbox.css' rel='stylesheet' />
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src='https://api.mapbox.com/mapbox.js/v2.2.4/mapbox.js'></script>
+    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+    <style>
+      html, body { margin:0; padding:0; }
+      #map { width:100%; }
+    </style>
+
+  </head>
+  <body>
+    <div class="container">
+      <h1>Mapbox</h1>
+      <div id="map" style="height:500px;width:100%"></div>
+    </div>
+  </body>
+</html>
+
+    <script>
+      L.mapbox.accessToken= 'pk.eyJ1IjoiZG90a3UiLCJhIjoiNGUxMGIxMjkzZmYwOTUzMjgyYmMxNGZlODU4ZTMzY2MifQ.W0MDDWRM98L52sJIsJ-iwA';
+      var map = L.mapbox.map('map', 'mapbox.streets')
+        .setView([40, -74.50], 7)
+        .addLayer(L.mapbox.tileLayer('mapbox.light'));
+        if ( navigator.geolocation ) {
+        function success(pos) {
+              // Location found, show map with these coordinates
+              // drawMap(new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude));
+              map.setView([pos.coords.latitude, pos.coords.longitude]);
+              setMarker(pos);
+        }
+        function fail(error) {
+            // drawMap(defaultLatLng);  // Failed to find location, show default map
+            map.setView([40, -74.50], 7);
+        }
+        // Find the users current position.  Cache the location for 5 minutes, timeout after 6 seconds
+        navigator.geolocation.getCurrentPosition(success, fail, {maximumAge: 500000, enableHighAccuracy:true, timeout: 6000});
+        } else {
+          // drawMap(defaultLatLng);  // No geolocation support, show default map
+          map.setView([40, -74.50], 7);
+        }
+        function setMarker(pos) {
+            L.marker([pos.coords.latitude, pos.coords.longitude]).addTo(map);
+            console.log(pos.coords.latitude);
+            console.log(pos.coords.longitude);
+        }
+    </script>

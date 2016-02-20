@@ -26,4 +26,3 @@ I guest it would be a better way for construct the content.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dotku/dotku.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
