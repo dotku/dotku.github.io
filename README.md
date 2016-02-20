@@ -21,8 +21,8 @@ Welcome to my github space, I current just reconstruct the folders,
 make them separated by languages, inlcuding [English] and [Chinese].
 I guest it would be a better way for construct the content.
 
-[English]: '/en'
-[Chinese]: '/cn'
+[English]: en
+[Chinese]: cn
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dotku/dotku.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
