@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <title>International Map Service List</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>International Map Service List</h1>
+      <p>I'm working on a map related project recently. I have working on this project over a month.
+      Recently, I'm getting stacked on choosing a proper map service. The map service should have 
+      international language support.</p>
+      <p>At first, I was assumed Google map would be the best match, but later I found that there is
+      few data entries just don't work properly, for example, when I looking for "台北" in simplified
+      Chinese characters it would returns "新北市." Well, in English they are pretty close matched,
+      "台北" is Taibei in English and "新北市" is "New Taibei" in English. That just only one sample.
+      There are many other Asian locations are mistakenly matched. Since the geo location is very 
+      important part in the project, so I star looking for a better service, and finally, Here API 
+      fits our needs, and the complete list of map service I have gone through are list below. Some 
+      folks might want check them out.</p>
+      <table class="table">   
+        <tr><th>Service Name  </th><th>Free Limit</th><th>Lowest Rate      </th><th>Note                            </th></tr>
+        <tr><td>OpenCageData  </td><td>2.k/day   </td><td>$50/mo           </td><td>                                </td></tr>
+        <tr><td>IP-API        </td><td>          </td><td>                 </td><td>Not Stable                      </td></tr>
+        <tr><td>GeoPlugin     </td><td>120/min   </td><td>15Eur/mo ~ 2m/day</td><td>Stack-overflow Best Rated       </td></tr>
+        <tr><td>smart-ip.net  </td><td>5k/day    </td><td>Unkown           </td><td>                                </td></tr>
+        <tr><td>ipinfo.io     </td><td>1k/day    </td><td>$50/mo ~ 10k/day </td><td>                                </td></tr>
+        <tr><td>snoopi.io     </td><td>14k/day   </td><td>$20/mo ~ 100k/day</td><td>2015 yr 8 Aug Relase Beta       </td></tr>
+        <tr><td>PICKPOINT.io  </td><td>2.5k/day  </td><td>                 </td><td>Data Source: OpenStreetMap      </td></tr>
+        <tr><td>HostIP.info   </td><td>          </td><td>                 </td><td>Data Source: MaxMind, Down      </td></tr>
+        <tr><td>Yahoo!        </td><td>          </td><td>$8/1000/query    </td><td>Expensive, and poorly supported </td></tr>
+        <tr><td>Google Map    </td><td>1k/day    </td><td>                 </td><td>Doesn't support Asian very well </td></tr>
+        <tr><td>Free Geo IP   </td><td>10k/hr    </td><td>Free             </td><td>Data Source: MaxMind            </td></tr>
+        <tr><td>MapQuest      </td><td>15k/mo    </td><td>$99/mo           </td><td>Data Source: OpenStreetMap      </td></tr>
+        <tr><td>Sina Geo API  </td><td>Unkown    </td><td>Unkown           </td><td>Need long time verification     </td></tr>
+        <tr><td>HERE MAP API  </td><td>10k/mo    </td><td>$59/mo ~ 15k/mo  </td><td>Facebook officially supported   </td></tr>
+        <tr><td>Baidu Map API </td><td>Unlimited </td><td>Unkown           </td><td>It has data for China only      </td></tr>
+      </table>
+      <p>In conclusion, Google Map is the best one if you want to focusing on English language world. 
+      Many other Asian service have almost no western Geo data. Here Map API is now the best international 
+      supported service.</p>
+      <div class="clearfix">
+        <div class="pull-right">
+          <dl>
+            <dt class="sr-only">Author Name</dt>
+            <dd>Weijing Jay Lin</dd>
+            <dt class="sr-only">Date</dt>
+            <dd>Feb. 19, 2016</dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
