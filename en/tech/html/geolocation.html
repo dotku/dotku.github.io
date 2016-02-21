@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to get your coordinates.</p>
+
+<button onclick="getLocation()">Try It</button>
+
+<p id="demo"></p>
+
+<script>
+var x = document.getElementById("demo");
+navigator.geolocation.getCurrentPosition(showPosition);
+
+function getLocation() {
+    if (navigator.geolocation) {
+      console.log('navigator.geolocation', navigator.geolocation.getCurrentPosition(showPosition));
+        if (!navigator.geolocation.getCurrentPosition(showPosition)){
+          x.innerHTML = 'Chrome 浏览器定位在中国区域无法使用, 请切换到其他浏览器';
+        };
+    } else { 
+        x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+    if(position) {
+      x.innerHTML = "Latitude: " + position.coords.latitude + 
+    "<br>Longitude: " + position.coords.longitude;
+  } else {
+    x.innerHTML = 'geolocation service is blocked in your location'
+  }
+    	
+}
+</script>
+
+</body>
+</html>
