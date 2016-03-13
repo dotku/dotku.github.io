@@ -1,0 +1,13 @@
+<script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
+<div id="target">
+  Click here
+</div>
+<script>
+$("#target").on('click', function(){
+  $( "#target" ).toggle(function() {
+    alert( "First handler for .toggle() called." );
+  }, function() {
+    alert( "Second handler for .toggle() called." );
+  });
+});
+</script>
