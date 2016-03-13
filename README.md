@@ -21,6 +21,13 @@ Welcome to my github space, I current just reconstruct the folders,
 make them separated by languages, inlcuding [English] and [Chinese].
 I guest it would be a better way for construct the content.
 
+- March 13, 2016
+想了想，还是想要把中英文合并在一起，分离的工作量还真不小，
+而且有时候又想写中文，有时候又想写英文，心情难以琢磨（我也不太了解我自己呀)。
+
+## Plan
+- 计划整合中英文资源。
+
 [English]: en
 [Chinese]: cn
 
