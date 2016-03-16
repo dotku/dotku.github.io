@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <title>Facebook Video</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dotku/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Facebook Video</h1>
+      <p>比如下面的视频，在中国是无法访问的，这就很麻烦，我们需要一个可以中国访问的跨墙服务，又不会导致受到政府政策影响的。Facebook 不愿意提供过滤服务，咱们来提供吧！</p>
+      <div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="fb-video" data-allowfullscreen="1" data-href="/futurism/videos/vb.352364611609411/536922609820276/?type=3">
+    <div class="fb-xfbml-parse-ignore">
+        <blockquote cite="https://www.facebook.com/futurism/videos/536922609820276/"><a href="https://www.facebook.com/futurism/videos/536922609820276/">Tree Planting Drones</a>
+            <p>Since the dawn of human civilization, the global tree count has fallen by 46%. Drones could fix this...</p>Posted by <a href="https://www.facebook.com/futurism/">Futurism</a> on Friday, March 11, 2016</blockquote>
+    </div>
+</div>
+    </div>
+  </body>
+</html>
+
+

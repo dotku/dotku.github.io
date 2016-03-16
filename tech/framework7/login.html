@@ -9,11 +9,11 @@
     <!-- Your app title -->
     <title>My App</title>
     <!-- Path to Framework7 iOS CSS theme styles-->
-    <link rel="stylesheet" href="lib/Framework7/dist/css/framework7.ios.min.css">
+    <link rel="stylesheet" href="/lib/Framework7/dist/css/framework7.ios.min.css">
     <!-- Path to Framework7 iOS related color styles -->
-    <link rel="stylesheet" href="lib/Framework7/dist/css/framework7.ios.colors.min.css">
+    <link rel="stylesheet" href="/lib/Framework7/dist/css/framework7.ios.colors.min.css">
     <!-- Path to your custom app styles-->
-    <link rel="stylesheet" href="path/to/my-app.css">
+    <link rel="stylesheet" href="asset/css/login.css">
   </head>
   <body>
     <!-- Status bar overlay for full screen mode (PhoneGap) -->
@@ -44,36 +44,48 @@
     <div class="login-screen modal-in">
   <div class="view">
     <div class="page">
-      <div class="page-content login-screen-content">
+      <div class="page-content content-block login-screen-content"
+      style="">
         <div class="login-screen-title">KIWICH</div>
         <form>
           <div class="list-block">
             <ul>
               <li class="item-content">
                 <div class="item-inner">
-                  <div class="item-title label">Username</div>
+                  <div class="item-title label">邮箱</div>
                   <div class="item-input">
-                    <input type="text" name="username" placeholder="Your username">
+                    <input type="email" name="email" placeholder="您的邮箱">
                   </div>
                 </div>
               </li>
               <li class="item-content">
                 <div class="item-inner">
-                  <div class="item-title label">Password</div>
+                  <div class="item-title label">密码</div>
                   <div class="item-input">
-                    <input type="password" name="password" placeholder="Your password">
+                    <input type="password" name="password" placeholder="您的密码">
                   </div>
                 </div>
               </li>
             </ul>
           </div>
           <div class="list-block">
+            <p class="buttons-row"><a href="#" class="button button-big button-fill color-teal">登录</a></p>
             <ul>
-              <li><a href="#" class="item-link list-button">Sign In</a></li>
+              <li></li>
             </ul>
             <div class="list-block-label">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-              <p><a href="#" class="close-login-screen">Close Login Screen</a></p>
+              <p>让我们一起来探索奇异的世界吧！</p>
+              
+              <div class="row">
+                <span class="col-33"> </span>
+                <span class="col-33"><a href="#" class="close-login-screen button ">注册</a></span>
+                <span class="col-33"> </span>
+              </div>
+              <div class="row">
+                <span class="col-25"> </span>
+                <span class="col-50"><p>没有账号？请先注册</p></span>
+                <span class="col-25"> </span>
+              </div>
             </div>
           </div>
         </form>
@@ -87,7 +99,7 @@
       </div>
     </div>
     <!-- Path to Framework7 Library JS-->
-    <script type="text/javascript" src="lib/Framework7/dist/js/framework7.min.js"></script>
+    <script type="text/javascript" src="/lib/Framework7/dist/js/framework7.min.js"></script>
         <!-- Path to your app js-->
         <script>
     // Initialize app
