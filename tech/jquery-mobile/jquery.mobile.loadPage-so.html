@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery.mobile.loadPage demo</title>
+  <link rel="stylesheet" href="/lib/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.css">
+  <script src="/lib/jquery-1.9.0/jquery.min.js"></script>
+  <script src="/lib/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+ 
+  <div>
+    <div data-role="page">
+     <div id="container" data-role="content">
+      <button id="clickButton">Click me!</button>
+     </div>
+    </div>
+  </div>
+ 
+<script>
+  $('#clickButton').on("click",function(){
+    $.mobile.loadPage("page.html",{pageContainer: $('#container')})
+  });
+  
+</script>
+ 
+</body>
+</html>
