@@ -16,6 +16,7 @@
           <h1>Page 1</h1>
         </div>
         <div role="main" class="ui-content">
+          <span id="btn-loadpage" class="ui-btn ui-corner-all ui-btn-inline">loadPage</span>
           <a href="#page2" class="ui-btn ui-corner-all ui-btn-inline">Go To Page 2</a>
         </div>
       </div>
@@ -29,8 +30,11 @@
       </div>
     </div>
     <script>
-
-    $( ":mobile-pagecontainer" ).pagecontainer( "load", "page.html");
+    $(".btn-loadpage").on('click', function(){
+      //$( "#page1" ).pagecontainer( "load", "page.html");
+      $.mobile.changePage('#page2');
+    })
+    
     </script>
   </body>
 </html>
