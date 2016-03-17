@@ -1,0 +1,9 @@
+<script>
+location.href = location.href+"#test";
+alert('add hash: ' + location.href);
+alert('get hash: ' + location.hash);
+var dehash = location.href.replace(location.hash,'');
+alert('remove hash: ' + location.href.replace(location.hash,''));
+location.href = dehash;
+alert('dehash: ' + location.href);
+</script>
