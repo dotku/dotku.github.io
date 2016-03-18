@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <title>TITLE</title>
+    <link rel="stylesheet" href="/lib/Framework7/dist/css/framework7.ios.css">
+    <link rel="stylesheet" href="/lib/Framework7/dist/css/framework7.ios.colors.css">
+    <script type="text/javascript" src="/lib/Framework7/dist/js/framework7.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>TITLE</h1>
+      <p>content</p>
+    </div>
+    <script>
+    var $$ = Dom7;
+    $$('.something').on('click', function (e) {
+    $$(this).addClass('hello').attr('title', 'world').insertAfter('.something-else');
+});
+    </script>
+  </body>
+</html>
