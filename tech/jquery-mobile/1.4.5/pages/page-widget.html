@@ -1,0 +1,57 @@
+<HTML>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Page Create</title>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+  </head>
+  <body>
+    <div data-role="page" data-dialog="true" id="home">
+      <div data-role="header">
+        <h2>Home</h2>
+      </div>
+      <div class="ui-content" role="main">
+        <h2>Are you sure you wish to exit the application?</h2>
+        <p>You have unsaved changes. If you exit without saving them, you will lose them.</p>
+        <div class="ui-grid-a">
+          <div class="ui-block-a">
+            <a href="#Lorem" id="exit-button" 
+              class="ui-btn ui-btn-b ui-shadow ui-corner-all">Lorem</a>
+          </div>
+          <div class="ui-block-b">
+            <a href="#" id="cancel-button" 
+              class="ui-btn ui-shadow ui-corner-all">Cancel</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div data-role="page" data-dialog="true" id="Lorem">
+      <div data-role="header">
+        <h2>Lorem</h2>
+      </div>
+      <div class="ui-content" role="main">
+        <h2>Are you sure you wish to exit the application?</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at nibh felis. Nunc consequat diam et tellus tempor gravida. Donec hendrerit aliquet risus, ut tempor purus dictum sit amet. Integer sit amet lacus eget ipsum pulvinar interdum. Proin semper turpis sed placerat dapibus. Sed iaculis id nibh a viverra. Sed vitae tellus sed purus lacinia dignissim. Aenean sagittis interdum leo in molestie. Aliquam sodales in diam eu consectetur. Sed posuere a orci id imperdiet.</p>
+        <div class="ui-grid-a">
+          <div class="ui-block-a">
+            <a href="#home" id="exit-button" 
+              class="ui-btn ui-btn-b ui-shadow ui-corner-all">Home</a>
+          </div>
+          <div class="ui-block-b">
+            <a href="#" id="cancel-button" 
+              class="ui-btn ui-shadow ui-corner-all">Cancel</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      $( "#Lorem" ).page({
+        create: function( event, ui ) {
+          console.log('fire lorem');
+          location.href = location.href.replace(window.location.hash,"") + '#home';
+        }
+      });
+    </script>
+  </body>
+</HTML>

@@ -8,22 +8,16 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <!-- Your app title -->
     <title>My App</title>
-    <!-- Path to Framework7 iOS CSS theme styles-->
-    <link rel="stylesheet" href="lib/Framework7/dist/css/framework7.ios.min.css">
-    <!-- Path to Framework7 iOS related color styles -->
-    <link rel="stylesheet" href="lib/Framework7/dist/css/framework7.ios.colors.min.css">
+    <!-- Path to Framework7 Library CSS, iOS Theme -->
+    <link rel="stylesheet" href="/lib/Framework7/dist/css/framework7.ios.min.css">
+    <!-- Path to Framework7 color related styles, iOS Theme -->
+    <link rel="stylesheet" href="/lib/Framework7/dist/css/framework7.ios.colors.min.css">
     <!-- Path to your custom app styles-->
-    <link rel="stylesheet" href="path/to/my-app.css">
+    <link rel="stylesheet" href="/lib/Dpatch/dist/css/f7patch.css">
   </head>
   <body>
-    <!-- Panels overlay-->
-    <div class="panel-overlay"></div>
-    <!-- Left panel with reveal effect-->
-    <div class="panel panel-left panel-reveal">
-      <div class="content-block">
-        <p>Left panel content goes here</p>
-      </div>
-    </div>
+    <!-- Status bar overlay for full screen mode (PhoneGap) -->
+    <div class="statusbar-overlay"></div>
     <!-- Views -->
     <div class="views">
       <!-- Your main view, should have "view-main" class -->
@@ -33,13 +27,6 @@
           <div class="navbar-inner">
             <!-- We need cool sliding animation on title element, so we have additional "sliding" class -->
             <div class="center sliding">Awesome App</div>
-            <div class="right">
-              <!-- 
-                Right link contains only icon - additional "icon-only" class
-                Additional "open-panel" class tells app to open panel when we click on this link
-              -->
-              <a href="#" class="link icon-only open-panel"><i class="icon icon-bars"></i></a>
-            </div>
           </div>
         </div>
         <!-- Pages container, because we use fixed-through navbar and toolbar, it has additional appropriate classes-->
@@ -65,20 +52,7 @@
       </div>
     </div>
     <!-- Path to Framework7 Library JS-->
-    <script type="text/javascript" src="lib/Framework7/dist/js/framework7.min.js"></script>
-    <!-- Path to your app js-->
-        <script>
-    // Initialize app
-var myApp = new Framework7();
- 
-// If we need to use custom DOM library, let's save it to $$ variable:
-var $$ = Dom7;
- 
-// Add view
-var mainView = myApp.addView('.view-main', {
-  // Because we want to use dynamic navbar, we need to enable it for this view:
-  dynamicNavbar: true
-});
-    </script>
+    <script type="text/javascript" src="/lib/Framework7/dist/js/framework7.min.js"></script>
+    <script type="text/javascript" src="/lib/Framework7/dist/js/my-app.js"></script>
   </body>
-</html>  
+</html> 
