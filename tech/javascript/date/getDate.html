@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <title>PHP TIME To JAVACRIPT DATE</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dpatch/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/lib/jquery-dateFormat/dist/dateFormat.js"></script>
+  </head>
+  <body>
+    <div class="container" ng-app="myApp" ng-controller="myCtrl">
+      <h1>PHP TIME To JAVACRIPT TIME</h1>
+      <p>convert php time to javascript date.</p>
+
+      <input 
+        ng-change="updateResult()"
+        ng-model="input"
+        placeholder="place php time in seconds here"
+        class="form-control"
+      />
+      <div class="col-md-5">
+      <p>result: {{content}}</p>
+      </div>
+    </div>
+    <script>
+      var app = angular.module('myApp', [])
+      .factory('myFactory', function(){
+        var service = {};
+
+        service.getDateFormat = function(){
+          return DateFormat;
+        }
+        return service;
+      })
+      .controller('myCtrl', function($scope, $http, myFactory){
+        $scope.content="hello world!";
+        $scope.updateResult = function(){
+          if(!isNaN($scope.input)){
+            var d = new Date($scope.input*1000);
+            var df = myFactory.getDateFormat();
+            console.log(d.get);
+
+            $scope.content = df.format.date(d.getTime(), "hh:mm dd/MM/yyyy");
+          } else {
+            console.log('php time must be a number format');
+          }
+          
+
+        }
+      })
+      
+    </script>
+  </body>
+</html>

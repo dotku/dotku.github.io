@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <title>UCenter 数据字典</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dpatch/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>UCenter 数据字典</h1>
+      <p>UCenter 似乎是康盛用户系统的绝版了，版本号 1.6 已经存在好多年了，没有再改进过。</p>
+      <p>UCenter 除了涉及用户相关的信息外，还包括应用，内容检索方面的内容。</p>
+      <p>以下是 Ucenter 数据字典</p>
+
+      <strong>Discuz! 3.x 安装的时候是以 ucenter_ 开始的，而不是 uc_</strong>
+      <table class="table">
+        <tr>
+          <th>表名</th>
+          <th>描述</th>
+          <th>备注</th>
+        </tr>
+
+        <tr>
+          <td>uc_admins </td>
+          <td>管理员权限表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_applications </td>
+          <td>应用列表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_badwords </td>
+          <td>词语过滤表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_domains </td>
+          <td>域名-IP 映射表，用来避免频繁的DNS解析。</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_failedlogins </td>
+          <td>记录登陆失败次数，用来防止暴力猜解管理员密码</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_feeds</td>
+          <td>feed 数据表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_friends </td>
+          <td>关系表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_mailqueue </td>
+          <td>发送邮件队列表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_members </td>
+          <td>用户表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_mergemembers </td>
+          <td>需要合并的用户名列表，用来解决应用合并时重名的问题。</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_newpm</td>
+          <td>新短消息表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_notelist</td>
+          <td>通知列表，用来将 UCenter 的数据分发到各个应用</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_pm_indexes</td>
+          <td>用户短消息索引表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_pm_lists </td>
+          <td>短消息会话表。</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_pm_members </td>
+          <td>用户短消息状态表。</td>
+          <td>模块: 后台管理</td>
+        </tr>
+
+        <tr>
+          <td>uc_pm_messages_n</td>
+          <td>用户短消息数据表。</td>
+          <td>模块: 后台管理</td>
+        </tr>
+        <tr>
+          <td>uc_pms</td>
+          <td>短消息表</td>
+          <td>(Discuz! 3.x 安装的时候不存在)</td>
+        </tr>
+
+        <tr>
+          <td>uc_protectedmembers </td>
+          <td>保护用户记录表</td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>uc_settings</td>
+          <td>UCenter 的各项设置</td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>uc_sqlcache</td>
+          <td>缓存mysql查询记录的表</td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>uc_tags</td>
+          <td>tag 表</td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>uc_vars</td>
+          <td>存放运行期间产生的数据的临时内存表（可以随时清空）</td>
+          <td></td>
+        </tr>
+      </table>
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1414 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <title>Discuz 3.x 数据字典</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dpatch/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <style>
+      .container {max-width: 1000px;}
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Discuz 3.x 数据字典</h1>
+      <p>研究了一下 Discuz 3.x 的数据表结构，大概分为以下几个模块。</p>
+      <ul>
+        <li>后台管理 admincp</li>
+        <li>广告管理 advertisement</li>
+        <li>安全管理 banned, perm, patch ...</li>
+        <li>插件管理 block, plugin</li>
+        <li>系统管理 cache, process, file, attachment ...</li>
+        <li>支付管理 card</li>
+        <li>积分管理 credit</li>
+        <li>站点管理 domain, setting</li>
+        <li>运营管理 district, forum, portal, home, diy, invite, magic, mail</li>
+        <li>用户管理 member</li>
+        <li>统计分析 stat</li>
+        <li>检索搜查 search, tag</li>
+        <li>模板界面 template</li>
+        <li>电商系统 order, card</li>
+      </ul>
+      <p>Discuz! 的用户系统基本上都迁移到 UCenter 去了，包括私信系统等。[<a href="dict-uc.html">UCenter 字典</a>]</p>
+      <table class="table">
+        <tr>
+          <th>表名</th>
+          <th>描述</th>
+          <th>备注</th>
+        </tr>
+        <tr>
+          <td>pre_common_admincp_cmenu</td>
+          <td>后台菜单收藏表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+        <tr>
+          <td>pre_common_admincp_group</td>
+          <td>后台管理组</td>
+          <td>模块: 后台管理</td>
+        </tr>
+        <tr>
+          <td>pre_common_admincp_member</td>
+          <td>后台管理成员</td>
+          <td>模块: 后台管理</td>
+        </tr>
+        <tr>
+          <td>pre_common_admincp_perm</td>
+          <td>后台权限表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+        <tr>
+          <td>pre_common_admincp_session</td>
+          <td>后台session表</td>
+          <td>模块: 后台管理(研究级别: 中)</td>
+        </tr>
+        <tr>
+          <td>pre_common_adminnote</td>
+          <td>后台留言表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+        <tr>
+          <td>pre_common_advertisement</td>
+          <td>广告数据表</td>
+          <td>模块: 后台管理/广告</td>
+        </tr>
+        <tr>
+          <td>pre_common_advertisement_custom</td>
+          <td>自定义广告数据表</td>
+          <td>模块: 后台管理/广告</td>
+        </tr>
+        <tr>
+          <td>pre_common_banned</td>
+          <td>禁止访问表</td>
+          <td>模块: 后台管理</td>
+        </tr>
+        <tr>
+          <td>pre_common_block</td>
+          <td>模块表</td>
+          <td>模块: 后台管理/插件</td>
+        </tr>
+        <tr>
+          <td>pre_common_block_favorite</td>
+          <td>模块收藏表</td>
+          <td>模块: 后台管理/插件</td>
+        </tr>
+        <tr>
+          <td>pre_common_block_item </td>
+          <td>模块数据表</td>
+          <td>模块: 后台管理/插件</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_block_item_data </td>
+          <td>模块推荐信息表</td>
+          <td>模块: 后台管理/插件</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_block_permission</td>
+          <td>模块权限表</td>
+          <td>模块: 后台管理/插件</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_block_pic</td>
+          <td>模块使用图片表</td>
+          <td>模块: 后台管理/插件</td>
+        </tr>
+        
+        <tr>
+          <td>pre_common_block_style</td>
+          <td>模块模板表</td>
+          <td>模块: 后台管理/插件</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_block_xml </td>
+          <td>模块 XML 扩展类数据表</td>
+          <td>模块: 后台管理/插件</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_cache</td>
+          <td>通用缓存表</td>
+          <td>模块: 后台管理/缓存</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_card</td>
+          <td>充值卡密表</td>
+          <td>模块: 后台管理/支付</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_card_log</td>
+          <td>充值卡密表</td>
+          <td>模块: 后台管理/支付</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_card_type</td>
+          <td>卡片分类表</td>
+          <td>模块: 后台管理/支付</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_credit_log</td>
+          <td>积分日志表</td>
+          <td>模块: 后台管理/积分(已使用)</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_credit_log_field </td>
+          <td>积分日志详情</td>
+          <td>模块: 后台管理/积分</td>
+        </tr>
+        
+        <tr>
+          <td>pre_common_credit_rule</td>
+          <td>积分规则表</td>
+          <td>模块: 后台管理/积分</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_credit_rule_log</td>
+          <td>积分规则日志表</td>
+          <td>模块: 后台管理/积分</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_credit_rule_log_field </td>
+          <td>积分规则日志扩展表</td>
+          <td>模块: 后台管理/积分</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_cron </td>
+          <td>计划任务表</td>
+          <td>模块: 后台管理/自动化</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_district </td>
+          <td>地区表</td>
+          <td>模块: 数据/地理位置(待研究: 中)</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_diy_data </td>
+          <td>DIY模板页面数据的存档表</td>
+          <td>模块: 管理/模板修改</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_domain </td>
+          <td>二级域名表</td>
+          <td>模块: 管理/站点管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_failedlogin</td>
+          <td>失败登录表</td>
+          <td>模块: 后台管理/安全</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_friendlink </td>
+          <td>友情链接表</td>
+          <td>模块: 后台管理/推广</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_grouppm</td>
+          <td>群发短消息表</td>
+          <td>模块: 后台管理/群消息</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_invite</td>
+          <td>邀请表</td>
+          <td>模块: 后台管理/推广</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_magic</td>
+          <td>道具数据表</td>
+          <td>模块: 后台管理/运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_magiclog</td>
+          <td>道具日志表</td>
+          <td>模块: 后台管理/运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_mailcron </td>
+          <td>邮件计划任务表</td>
+          <td>模块: 后台管理/运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member</td>
+          <td>用户主表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_action_log</td>
+          <td>用户操作日志表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_count</td>
+          <td>用户统计表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_crime </td>
+          <td>用户惩罚操作表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_field_forum</td>
+          <td>用户论坛字段表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_field_home</td>
+          <td>用户家园字段表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_forum_buylog</td>
+          <td>用户版块积分付费记录</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_grouppm</td>
+          <td>群发短消息用户记录表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_log</td>
+          <td>漫游用户日志表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_magic</td>
+          <td>用户道具数据表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_medal</td>
+          <td>用户勋章数据表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_newprompt</td>
+          <td>用户新提醒数量表</td>
+          <td>模块: 后台管理/用户管理（待研究）</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_profile </td>
+          <td>用户栏目表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_profile_setting </td>
+          <td>个人信息扩展表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+        
+        <tr>
+          <td>pre_common_member_security</td>
+          <td>个人信息修改审核</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_stat_field</td>
+          <td>用户资料统计项</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_status </td>
+          <td>用户状态表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_validate </td>
+          <td>用户审核表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_verify </td>
+          <td>用户认证表</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_member_verify_info</td>
+          <td>个人信息修改审核</td>
+          <td>模块: 后台管理/用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_myapp </td>
+          <td>漫游应用表</td>
+          <td>模块: 后台管理/插件</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_myinvite </td>
+          <td>用户邀请表</td>
+          <td>模块: 后台管理/营销（有用）</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_mytask </td>
+          <td>我的任务表</td>
+          <td>模块: 后台管理/营销</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_nav</td>
+          <td>自定义导航栏表</td>
+          <td>模块: 后台管理/帮助</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_onlinetime </td>
+          <td>在线时间表</td>
+          <td>模块: 统计</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_optimizer </td>
+          <td>优化大师的记录数据</td>
+          <td>模块: 系统</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_patch </td>
+          <td>漏洞补丁表</td>
+          <td>模块: 系统</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_plugin </td>
+          <td>插件表</td>
+          <td>模块: 插件</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_pluginvar</td>
+          <td>插件变量表</td>
+          <td>模块: 插件</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_process</td>
+          <td>进程锁管理</td>
+          <td>模块: 系统</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_regip</td>
+          <td>注册IP限制表</td>
+          <td>模块: 安全</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_relatedlink </td>
+          <td>关联链接表</td>
+          <td>模块: 未知</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_report</td>
+          <td>用户举报表</td>
+          <td>模块: 用户管理（有用）</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_searchindex</td>
+          <td>搜索缓存表</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_secquestion</td>
+          <td>验证问题数据表</td>
+          <td>模块: 用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_setting</td>
+          <td>设置表</td>
+          <td>模块: 用户管理</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_smiley</td>
+          <td>表情表</td>
+          <td>模块: 营销</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_sphinxcounter Sphinx</td>
+          <td>增量索引记录表</td>
+          <td>模块: 未知</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_stat </td>
+          <td>趋势统计</td>
+          <td>模块: 统计</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_statuser</td>
+          <td>统计用户表</td>
+          <td>模块: 统计</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_style </td>
+          <td>风格表</td>
+          <td>模块: 界面</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_stylevar </td>
+          <td>风格变量表</td>
+          <td>模块: 界面</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_syscache </td>
+          <td>缓存数据表</td>
+          <td>模块: 缓存</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_tag </td>
+          <td>标签表</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_tag </td>
+          <td>标签表</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_tagitem</td>
+          <td>标签内容表</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_task</td>
+          <td>论坛任务表</td>
+          <td>模块: 营销</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_taskvar </td>
+          <td>论坛任务设置表</td>
+          <td>模块: 营销</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_template </td>
+          <td>模板表</td>
+          <td>模块: 界面</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_template_block</td>
+          <td>模板页面和模块的关联表</td>
+          <td>模块: 界面</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_template_permission </td>
+          <td>DIY模板页面权限表</td>
+          <td>模块: 界面</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_usergroup  </td>
+          <td>用户组表</td>
+          <td>模块: 用户</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_usergroup_field </td>
+          <td>会员用户组权限表</td>
+          <td>模块: 用户</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_visit </td>
+          <td>用户访问日志表</td>
+          <td>模块: 用户</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_word </td>
+          <td>词语过滤表</td>
+          <td>模块: 舆情</td>
+        </tr>
+
+        <tr>
+          <td>pre_common_word_type</td>
+          <td>词语过滤分类</td>
+          <td>模块: 舆情</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_access </td>
+          <td>访问权限表</td>
+          <td>模块: 权限</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_activity </td>
+          <td>活动表</td>
+          <td>模块: 营销</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_activityapply </td>
+          <td>活动申请表</td>
+          <td>模块: 营销</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_announcement </td>
+          <td>公告表</td>
+          <td>模块: 营销</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_attachment </td>
+          <td>附件索引表</td>
+          <td>模块: 系统</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_attachment_{0-9} </td>
+          <td>附件表</td>
+          <td>模块: 系统</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_attachment_exif </td>
+          <td>Exif缓存表</td>
+          <td>模块: 系统</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_attachment_unused</td>
+          <td>未使用附件表</td>
+          <td>模块: 系统</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_attachtype</td>
+          <td>附件类型表</td>
+          <td>模块: 系统</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_bbcode </td>
+          <td>Discuz! 代码表</td>
+          <td>模块: 系统</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_collection </td>
+          <td>淘帖专辑表</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_collectioncomment </td>
+          <td>淘帖评论表</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_collectionfollow </td>
+          <td>淘帖关注表</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_collectioninvite </td>
+          <td>邀请管理淘专辑</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_collectionrelated </td>
+          <td>淘帖主题被收入专辑表</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_collectionteamworker</td>
+          <td>淘帖合作编辑表</td>
+          <td>模块: 搜索</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_collectionthread </td>
+          <td>淘帖包含主题表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_creditslog </td>
+          <td>转帐记录表</td>
+          <td>模块: 积分</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_debate  </td>
+          <td>辩论主题表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_debatepost </td>
+          <td>辩论帖子表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_faq</td>
+          <td>论坛帮助表</td>
+          <td>模块: 帮助</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_filter_post </td>
+          <td>非水帖标记</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_forum </td>
+          <td>版块表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_forum_threadtable</td>
+          <td>版块存档信息</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_forumfield</td>
+          <td>版块扩展表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_forumrecommend</td>
+          <td>版主推荐表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_groupcreditslog</td>
+          <td>群组积分日志表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_groupfield </td>
+          <td>群组扩展信息缓存</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_groupfield </td>
+          <td>群组扩展信息缓存</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_groupinvite </td>
+          <td>群组邀请</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_grouplevel </td>
+          <td>群组等级表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_groupuser </td>
+          <td>群组成员</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_hotreply_member</td>
+          <td>回帖投票会员记录表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_imagetype</td>
+          <td>图片 表情 头像等 分类</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_medal</td>
+          <td>勋章表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_medallog</td>
+          <td>勋章日志表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_memberrecommend</td>
+          <td>用户推荐表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_moderator</td>
+          <td>版主表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_modwork</td>
+          <td>论坛管理统计表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_newthread </td>
+          <td>最新主题表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_onlinelist</td>
+          <td>在线列表定制</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_order </td>
+          <td>订单信息表</td>
+          <td>模块: 电商</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_poll</td>
+          <td>投票表</td>
+          <td>模块: 电商</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_polloption </td>
+          <td>投票选项表</td>
+          <td>模块: 电商</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_polloption_image</td>
+          <td> 投票选项图片</td>
+          <td>模块: 电商</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_pollvoter</td>
+          <td>投票用户表</td>
+          <td>模块: 电商</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_post</td>
+          <td>帖子表</td>
+          <td>模块: 电商</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_post_location </td>
+          <td>帖子地理位置表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_post_moderate</td>
+          <td>帖子审核数据表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_post_tableid</td>
+          <td>post分表协调表</td>
+          <td>模块: 未知</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_postcache</td>
+          <td>论坛帖子缓存表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_postcomment</td>
+          <td>点评帖子表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_postlog </td>
+          <td>漫游帖子日志</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_poststick</td>
+          <td>回帖置顶表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_promotion</td>
+          <td>论坛推广</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_ratelog</td>
+          <td>帖子评分记录表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_relatedthread </td>
+          <td>相关主题表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_replycredit</td>
+          <td>主题回帖获得积分规则表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_rsscache</td>
+          <td>rss缓存表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_sofa</td>
+          <td>抢沙发列表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_spacecache </td>
+          <td>minispace缓存表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_statlog</td>
+          <td>版块统计日志表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_thread</td>
+          <td>主题表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_thread_moderate</td>
+          <td>主题审核数据表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadcalendar</td>
+          <td>热帖日历表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadclosed</td>
+          <td>主题转移后保留的指向记录</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threaddisablepos</td>
+          <td>主题有楼层不准确时不使用position查询</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadhot</td>
+          <td>热帖日历数据表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadimage</td>
+          <td>主题图片表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadlog</td>
+          <td>漫游主题日志</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadmod</td>
+          <td>主题管理记录表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadpartake</td>
+          <td>主题参与者记录表</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadpreview</td>
+          <td>服务于广播</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadprofile</td>
+          <td>贴内用户信息设置</td>
+          <td>模块: 运营</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadprofile_group </td>
+          <td>贴内用户信息用户组</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadrush </td>
+          <td>抢楼设置表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_threadtype </td>
+          <td>分类信息表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_trade </td>
+          <td>商品数据表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_tradecomment</td>
+          <td>信用评价</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_tradelog</td>
+          <td>交易记录表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_typeoption </td>
+          <td>分类信息设置项目表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_typeoptionvar</td>
+          <td>分类信息项目数据表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_typevar</td>
+          <td>分类信息对应项目表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_forum_warning</td>
+          <td>警告记录表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_album</td>
+          <td>相册表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_album_category</td>
+          <td>相册系统栏目</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_appcreditlog</td>
+          <td>漫游应用积分操作记录表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_blacklist</td>
+          <td>屏蔽黑名单表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_blog</td>
+          <td>日志表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_blog_category </td>
+          <td>日志系统栏目</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_blog_moderate</td>
+          <td>日志审核数据表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_blogfield</td>
+          <td>日志字段表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_class</td>
+          <td>日志个人分类表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_click</td>
+          <td>表态动作</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_clickuser </td>
+          <td>用户表态表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_comment</td>
+          <td>用户评论表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_comment_moderate</td>
+          <td>家园评论审核数据表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_docomment</td>
+          <td>用户记录回复表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_doing</td>
+          <td>用户记录表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_doing_moderate</td>
+          <td>记录审核数据表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_favorite</td>
+          <td>收藏表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_feed</td>
+          <td>站点feed表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_feed_app</td>
+          <td>应用feed表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_follow</td>
+          <td>用户关注关系表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_follow_feed</td>
+          <td>被关注者事件表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_follow_feed_archiver</td>
+          <td>被关注者事件存档</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>re_home_friend</td>
+          <td>用户好友表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_friend_request</td>
+          <td>申请好友表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_friendlog</td>
+          <td>用户好友动作日志表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_notification</td>
+          <td>通知表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_pic</td>
+          <td>家园图片表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_pic_moderate</td>
+          <td>图片审核数据表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_picfield</td>
+          <td>家园图片拓展表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_poke</td>
+          <td>用户招呼表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_pokearchive</td>
+          <td>用户招呼存档表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_share</td>
+          <td>用户分享表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_share_moderate</td>
+          <td>分享审核数据表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_show</td>
+          <td>用户上榜表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_specialuser</td>
+          <td>特殊用户表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_userapp</td>
+          <td>用户使用应用表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_userappfield</td>
+          <td>用户使用应用扩展表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_home_visitor</td>
+          <td>空间访问日志表</td>
+          <td>模块: 论坛</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_article_content</td>
+          <td>门户文章内容表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_article_count</td>
+          <td>门户文章统计数据表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_article_moderate</td>
+          <td>文章审核数据表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_article_related</td>
+          <td>门户相关文章</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_article_title</td>
+          <td>门户文章标题表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_article_trash</td>
+          <td>门户文章回收站表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_attachment</td>
+          <td>门户文章附件表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_category</td>
+          <td>门户 文章栏目表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_category_permission</td>
+          <td>文章分类权限表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_comment</td>
+          <td>门户评论表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_comment_moderate </td>
+          <td>文章/专题评论审核数据表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_rsscache</td>
+          <td>文章rss缓存表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_topic</td>
+          <td>门户专题表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_topic_pic</td>
+          <td>门户专题图片表</td>
+          <td>模块: 门户</td>
+        </tr>
+
+        <tr>
+          <td>pre_portal_topic_pic</td>
+          <td>门户专题图片表</td>
+          <td>模块: 门户</td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
