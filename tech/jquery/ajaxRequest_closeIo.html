@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TITLE</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dpatch/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>TITLE</h1>
+
+<div id="address"></div>
+  </div>
+<script>
+var inputData = {
+	 'first_name' : 'Weijing',
+	 'last_name' : 'Lin', 
+	 'email' : 'lwjct@hotmail.com', 
+	 'phone' : '4153702887', 
+	 'cover_letter': 'I\'m Weijing Jay Lin and applying for the position',
+	 'urls' : {
+	 	'github' : 'http://www.github.com/dotku'
+	 }
+}
+getData(inputData, "#address");
+function getData(data, jqTarget) {
+var address = '';
+	/*
+	$.post("https://app.close.io/hackwithus/", data, function(rsp){
+		console.log(rsp);
+	});
+	*/
+	$.ajax({
+	  url: "https://app.close.io/hackwithus/",
+	  beforeSend: function( xhr ) {
+	    xhr.overrideMimeType( "Content-Type: application/json" );
+	  },
+	  crossDomain: true,
+	  method: 'POST',
+	  data : {
+		 'first_name' : 'Weijing',
+		 'last_name' : 'Lin', 
+		 'email' : 'lwjct@hotmail.com', 
+		 'phone' : '4153702887', 
+		 'cover_letter': 'I\'m Weijing Jay Lin and applying for the position',
+		 'urls' : {
+		 	'github' : 'http://www.github.com/dotku'
+			}
+		},
+		xhrFields: {
+      withCredentials: true
+   	}
+	})
+  .done(function( data ) {
+    if ( console && console.log ) {
+      console.log( "Sample of data:", data.slice( 0, 100 ) );
+    }
+  });
+	/*
+	$.getJSON(
+		"http://www.tenso-japan.com/tenso/api.php/discuz/getMember/" + uid,
+		function(data) {
+			$(jqTarget).val(data.address);
+		}
+	);*/
+}
+</script>
+
+  </body>
+</html>

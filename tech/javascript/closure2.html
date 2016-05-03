@@ -1,0 +1,22 @@
+<script>
+/* closure2.html */
+aaa = (function(){
+      var a = 1;
+      return function(){
+        a++;
+        alert(a);
+      }
+    })();
+aaa();  //2
+aaa();  //3
+
+bbb = function(){
+      var a = 1;
+      return function(){
+        a++;
+        alert(a);
+      }
+    }
+bbb()();  //2
+bbb()();  //2
+</script>

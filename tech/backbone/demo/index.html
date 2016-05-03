@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Backbone Demo</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dpatch/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="http://the5fireblog.b0.upaiyun.com/staticfile/jquery-1.10.2.js"></script>
+    <script src="http://the5fireblog.b0.upaiyun.com/staticfile/underscore.js"></script>
+    <script src="http://the5fireblog.b0.upaiyun.com/staticfile/backbone.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>jsonReader</h1>
+      <div class="bbContent"></div>
+    </div>
+
+    <script type="text/x-handlebars-template" id="item-template">
+        <h4><%= name.substring(1,5) %></h4> 
+    </script>
+
+    <script>
+      
+      (function ($) {
+        
+        var Brand = Backbone.Model.extend();
+        var Brands = Backbone.Collection.extend({
+          model: Brand,
+          url: '../demo2/data.json'
+        });
+
+        AppView = Backbone.View.extend({
+            el: ".bbContent",
+            initialize: function(){
+              // _.bindAll(this, 'render', 'getPost');
+              // this.collection = new Brands();
+              this.render(); 
+            },
+            template: _.template($('#item-template').html()),
+            /*
+            events: {
+                //事件绑定，绑定Dom中id为check的元素
+                "click #check":  "checkIn",
+            },
+            */
+            // Re-render the titles of the todo item.
+            // model: brands,
+            render: function() {
+              console.log(this.model);
+              _.each(this.model.models, function(item){
+                  console.log(item.toJSON());
+                  var itemTemplate = this.template(item.toJSON());
+                  $(this.el).append(itemTemplate);
+              }, this);
+            }
+        });
+        //实例化AppView
+        var brands = new Brands();
+        var appview = new AppView({model: brands});
+        
+        brands.fetch({
+          success: function(){
+            appview.render();
+          },
+          error: function(){
+            console.log('Failed to fetch!');
+          }
+        })
+        
+    })(jQuery);
+    </script>
+  </body>
+</html>
