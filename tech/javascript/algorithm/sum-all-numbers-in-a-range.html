@@ -1,0 +1,14 @@
+<script>
+function sumAll(arr) {
+  var sum = 0;
+  var max = Math.max.apply(null, arr);
+  var min = Math.min.apply(null, arr)
+  for(i = Math.min.apply(null, arr); i <= Math.max.apply(null, arr); i++) {
+    sum += i;
+
+  }
+  return sum;
+}
+
+console.log(sumAll([1, 4]));
+</script>
