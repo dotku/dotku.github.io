@@ -89,7 +89,7 @@ function genReport(input){
   totalTax = 0;
   total = 0;
   
-  for (let i = 0; i < input.length; i++) {
+  for (var i = 0; i < input.length; i++) {
 
     item = input[i];
     // console.log('item', item);
