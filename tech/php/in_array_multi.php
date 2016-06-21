@@ -12,7 +12,7 @@ public static function in_array_multi($needle, $haystack){
         $needle = trim($needle);
     }
     if (is_array($haystack) && is_array($needle)){
-        var_dump('array check');
+        
         try {
             if (!array_diff($haystack, $needle)){
                 return True;
@@ -20,7 +20,7 @@ public static function in_array_multi($needle, $haystack){
         } catch (\Exception $e){
             var_dump($e);
         }
-        
+
     }
     if(!is_array($haystack))
         return False;

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Common Used Linux Commands</title>
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/dpatch/dist/css/general-cn.css" rel="stylesheet"/>
+    <script src="/lib/angular/angular.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="lead">Common Used Linux Commands</h1>
+      <pre>There are thousands of commands to do every task imaginable, but here are the most
+      important commands with their most used options:
+
+man [-k] {name of command/keyword}
+
+Manual of given command. If the "-k" option is used it searches manual pages for the keyword.
+
+cd {path}
+
+Change Directory to the given path.
+
+ls [-a]
+
+Lists all files and folders in current directory. The "-a" option lists hidden files as well.
+
+pwd
+
+Print Working Directory. Tells you what directory you are in.
+
+cp {path to source} {path to target}
+
+Copies the source file to the target location.
+
+mv {path to source} {path to target}
+
+Moves the source file to the target location. Can be used to rename files by putting the new name as
+the target.
+
+rm [-r,f] {path to file}
+
+Deletes file at given path. The "-r" option removes deletes all files and folders within given
+directory (if directory is given). The "-f" will make rm not prompt you when deleting files, and is
+usually used with "-r" so that it does not prompt you repeatedly.
+
+nano {path to file}
+
+A simple in-terminal file editor. If file at path given does not exist it creates it. Note: If a
+tutorial online ever uses vi/vim/ed/pico in a command, replace it with nano. Those are other
+editors, which while great, are harder to use.
+
+mkdir {name}
+
+Makes a directory with the name specified.
+
+rmdir {name}
+
+Removes a directory with the name specified.
+
+cat {path to file}
+
+Returns the contents of a file.
+
+chmod [+x]
+
+Changes the permissions of a file. The "+x" option is not preceded by a dash and is used to allow a
+file to be executable.
+
+ps aux | grep {keyword}
+
+Find the running process with the keyword
+
+passwd {username}
+
+Change the user's password
+
+adduser {username}
+
+Add a user with {username}</pre>
+
+    </div>
+  </body>
+</html>
