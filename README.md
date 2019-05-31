@@ -5,6 +5,11 @@ Hi everyone,
 This is my personal website hosted on github. I will use this page to repersent some of 
 my personal projects.
 
+## Plan
+- Study Hadhood
+- Clean up this repo (someone is complaining that my page is not useful 
+[[via](https://github.com/dotku/dotku.github.io/issues/2)])
+
 ## Credit
 - Family
 
