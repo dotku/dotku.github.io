@@ -27,6 +27,7 @@ I guest it would be a better way for construct the content.
 
 ## Plan
 - 计划整合中英文资源。
+- learn https://hadoop.apache.org
 
 [English]: en
 [Chinese]: cn
