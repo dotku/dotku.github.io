@@ -16,6 +16,10 @@ Just follow me.
 Thank you,
 
 ## Updates
+- Dec 28, 2020
+很久没有更新了，github 目前已经成为我的 idea hub 了，很多想法，没有来得及实现，先记录下来吧；
+我想我只是一个梦想家，缺少点行动力 ^^!
+
 - Jan 15, 2016  
 Welcome to my github space, I current just reconstruct the folders,
 make them separated by languages, inlcuding [English] and [Chinese].
