@@ -1,0 +1,284 @@
+[
+    {
+        "name": "HTML",
+        "yearsExperience": 15,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "HTML5",
+        "yearsExperience": 15,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Software Development",
+        "yearsExperience": 15,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Web development",
+        "yearsExperience": 15,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Cloud",
+        "yearsExperience": 10,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "CSS",
+        "yearsExperience": 10,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "JavaScript",
+        "yearsExperience": 10,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "RESTful API",
+        "yearsExperience": 6,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "CSS3",
+        "yearsExperience": 5,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Git",
+        "yearsExperience": 5,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "PHP",
+        "yearsExperience": 5,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "React",
+        "yearsExperience": 5,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "SQL",
+        "yearsExperience": 5,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Bootstrap",
+        "yearsExperience": 4,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Amazon Web Services",
+        "yearsExperience": 3,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Linux",
+        "yearsExperience": 3,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "MySQL",
+        "yearsExperience": 3,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Node.js",
+        "yearsExperience": 3,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Agile",
+        "yearsExperience": 2,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Hack Programming Language",
+        "yearsExperience": 2,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Amazon RDS",
+        "yearsExperience": 1,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Android",
+        "yearsExperience": 1,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "D3.js",
+        "yearsExperience": 1,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Docker",
+        "yearsExperience": 1,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Mobile Development",
+        "yearsExperience": 1,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "MongoDB",
+        "yearsExperience": 1,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Photoshop",
+        "yearsExperience": 1,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Project management",
+        "yearsExperience": 1,
+        "lastUsed": null,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Java",
+        "yearsExperience": 2,
+        "lastUsed": 2018,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Machine learning",
+        "yearsExperience": 2,
+        "lastUsed": 2018,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Python",
+        "yearsExperience": 1,
+        "lastUsed": 2018,
+        "__typename": "Skill"
+    },
+    {
+        "name": "jQuery",
+        "yearsExperience": 4,
+        "lastUsed": 2017,
+        "__typename": "Skill"
+    },
+    {
+        "name": "ThinkPHP",
+        "yearsExperience": 3,
+        "lastUsed": 2017,
+        "__typename": "Skill"
+    },
+    {
+        "name": "AngularJS",
+        "yearsExperience": 1,
+        "lastUsed": 2017,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Hive",
+        "yearsExperience": 1,
+        "lastUsed": 2017,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Jenkins",
+        "yearsExperience": 1,
+        "lastUsed": 2017,
+        "__typename": "Skill"
+    },
+    {
+        "name": "SVN",
+        "yearsExperience": 1,
+        "lastUsed": 2017,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Apache Cassandra",
+        "yearsExperience": 1,
+        "lastUsed": 2015,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Apache Subversion",
+        "yearsExperience": 1,
+        "lastUsed": 2015,
+        "__typename": "Skill"
+    },
+    {
+        "name": "CodeIgniter",
+        "yearsExperience": 1,
+        "lastUsed": 2015,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Flash",
+        "yearsExperience": 1,
+        "lastUsed": 2015,
+        "__typename": "Skill"
+    },
+    {
+        "name": "J2EE",
+        "yearsExperience": 1,
+        "lastUsed": 2015,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Lavarel",
+        "yearsExperience": 1,
+        "lastUsed": 2015,
+        "__typename": "Skill"
+    },
+    {
+        "name": "C++",
+        "yearsExperience": 1,
+        "lastUsed": 2014,
+        "__typename": "Skill"
+    },
+    {
+        "name": "Apache Tomcat",
+        "yearsExperience": 2,
+        "lastUsed": 2012,
+        "__typename": "Skill"
+    },
+    {
+        "name": "C",
+        "yearsExperience": 1,
+        "lastUsed": 2005,
+        "__typename": "Skill"
+    },
+    {
+        "name": "TypeScript",
+        "yearsExperience": 1,
+        "lastUsed": null,
+        "__typename": "Skill"
+    }
+]
