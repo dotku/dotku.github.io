@@ -9,5 +9,5 @@ https://www.linkedin.com/in/weijingjaylin/
 
 However, I'm not free, I would charge $366/hr for the conversation.
 
-Thanks,
+Thanks,  
 Jay Lin
