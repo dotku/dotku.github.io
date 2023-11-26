@@ -1,9 +1,3 @@
-<style>
-  body {
-    font-family: 'Courier New', Courier, monospace;"
-  }
-</style>
-
 # dotku.github.io
 
 ## About Me
