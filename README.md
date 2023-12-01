@@ -4,7 +4,7 @@
 
 I'm a business solution provider in San Francisco Bay Area working with multiple projects, 
 including [Media](/marketing), Tech, Supply Chain management, Medical, Natural Resources,
-Fashion, Restaurant, Education and ect.
+Fashion, Food, Education and ect.
 
 ## Media
 
@@ -32,7 +32,6 @@ Fashion, Restaurant, Education and ect.
 * JD.com (US)
 * [ZY International](https://www.zyinternationaltrade.com/)
 * Alibaba (US)
-* 福赢国际供应链管理有限公司
 * 徽商集团
 
 ## Medical
@@ -45,6 +44,10 @@ Fashion, Restaurant, Education and ect.
 ## Fashion
 
 * [东莞市厚街昱晟鞋业有限公司](https://dotku.us/dongguan-houjie-yusheng-shoes/)
+
+## Food
+
+* 福赢国际供应链管理有限公司
 
 ## Nature Resource
 
