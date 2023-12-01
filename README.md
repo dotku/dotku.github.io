@@ -51,7 +51,7 @@ Fashion, Restaurant, Education and ect.
 
 ## Education
 
-Alum AI
+* Alum AI
 
 ## Contact
 
