@@ -12,8 +12,8 @@ Fashion, Restaurant, Education and ect.
 * 稻草人影业
 * 赤兔华盟
 * YEA Media
-* 星岛日报
-* 老中新闻网
+* [星岛日报](https://www.singtaousa.com/)
+* [老中新闻网](https://newsforchinese.com/)
 * 洛杉矶资讯网
 * Nation X
 * 加拿大传奇文化
