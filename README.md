@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a business solution provider in San Francisco Bay Area working with multiple projects, 
-including [Media](/marketing), Tech, Supply Chain management, Medical, Natural Resources,
+including [Media](/marketing), Tech, Supply Chain management, Medical, Finance, Natural Resources,
 Fashion, Food, Education and ect.
 
 ### Media
@@ -26,6 +26,7 @@ Fashion, Food, Education and ect.
 * 太古宙能源科技
 * 守卫者智能科技
 * [华拓明通出行科技](https://ouxi.us)
+* [Pear.us](https://pear.us/)
 
 ### Supply Chain
 
@@ -49,6 +50,12 @@ Fashion, Food, Education and ect.
 ### Food
 
 * 福赢国际供应链管理有限公司
+
+### Finance
+
+* [Intuit](https://www.intuit.com/)
+* [Xero](https://www.xero.com/us/)
+* [Guesto](https://gusto.com/)
 
 ### Nature Resource
 
