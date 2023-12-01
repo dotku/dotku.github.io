@@ -39,7 +39,7 @@ Fashion, Restaurant and ect.
 
 ## Fashion
 
-* 东莞市厚街昱晟鞋业有限公司
+* [东莞市厚街昱晟鞋业有限公司](https://dotku.us/dongguan-houjie-yusheng-shoes/)
 
 ## Nature Resource
 
