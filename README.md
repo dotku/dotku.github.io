@@ -8,10 +8,10 @@ including [Media](/marketing), Tech, Suppliy Chain management and ect.
 ## Media Partners
 
 * 赤兔华盟
+* YEA Media
 * 老中新闻网
 * Nation X
 * 加拿大传奇文化
-* YEA Media
 
 ## Contact
 
