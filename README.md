@@ -39,6 +39,7 @@ Fashion, Restaurant, Education and ect.
 * 九安医疗 iHealth Lab
 * 必欧瀚生物技术(合肥)有限公司
 * 蓝雀医疗 BlueJay Mobile
+* A+ Berry
 
 ## Fashion
 
