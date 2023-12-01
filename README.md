@@ -14,14 +14,14 @@ Fashion, Food, Education and ect.
 * YEA Media
 * [星岛日报](https://www.singtaousa.com/)
 * [老中新闻网](https://newsforchinese.com/)
-* 洛杉矶资讯网
+* [洛杉矶资讯网](https://www.chineseinla.com/)
 * Nation X
-* 加拿大传奇文化
+* [加拿大传奇文化](https://thelegendsmedia.com/)
 
 ## Tech
 
 * [杰圆科技 JYTech](https://jytech.us)
-* 卡儿酷能源科技
+* [深圳市华思旭(卡儿酷能源)科技有限公司](https://www.carku.com/)
 * Crystal Start Innovation Group
 * 太古宙能源科技
 * 守卫者智能科技
@@ -37,8 +37,8 @@ Fashion, Food, Education and ect.
 
 ## Medical
 
-* 九安医疗 iHealth Lab
-* 必欧瀚生物技术(合肥)有限公司
+* [九安医疗 iHealth Lab](https://ihealthlabs.com/)
+* [必欧瀚生物技术(合肥)有限公司](https://www.hf.biouhan.com/)
 * [蓝雀医疗 BlueJay Mobile](https://www.bluejayhealth.com/)
 * [A+ Berry](https://aplusberry.com/)
 
