@@ -3,7 +3,8 @@
 ## About Me
 
 I'm a business solution provider in San Francisco Bay Area working with multiple projects, 
-including [Media](/marketing), Tech, Supply Chain management, Medical, Natural Resources and ect.
+including [Media](/marketing), Tech, Supply Chain management, Medical, Natural Resources,
+Fashion, Restaurant and ect.
 
 ## Media
 
@@ -35,6 +36,10 @@ including [Media](/marketing), Tech, Supply Chain management, Medical, Natural R
 * 九安医疗 iHealth Lab
 * 必欧瀚生物技术(合肥)有限公司
 * 蓝雀医疗 BlueJay Mobile
+
+## Fashion
+
+* 东莞市厚街昱晟鞋业有限公司
 
 ## Nature Resource
 
