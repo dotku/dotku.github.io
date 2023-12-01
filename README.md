@@ -7,6 +7,8 @@ including [Media](/marketing), Tech, Supply Chain management, Medical, Natural R
 
 ## Media
 
+* 负负得正
+* 稻草人影业
 * 赤兔华盟
 * YEA Media
 * 老中新闻网
