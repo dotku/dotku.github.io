@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a business solution provider in San Francisco Bay Area working with multiple projects, 
-including [Media](/marketing), Tech, Suppliy Chain management and ect.
+including [Media](/marketing), Tech, Supply Chain management and ect.
 
 ## Media
 
