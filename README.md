@@ -24,14 +24,14 @@ Fashion, Restaurant, Education and ect.
 * 卡儿酷能源科技
 * 太古宙能源科技
 * 守卫者智能科技
-* 华拓明通出行科技
+* [华拓明通出行科技](https://ouxi.us)
 
 ## Supply Chain
 
 * Tradin AI Inc
 * JD.com (US)
 * [ZY International](https://www.zyinternationaltrade.com/)
-* Alibaba
+* Alibaba (US)
 * 福赢国际供应链管理有限公司
 * 徽商集团
 
