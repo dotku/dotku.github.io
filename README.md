@@ -29,7 +29,7 @@ Fashion, Restaurant, Education and ect.
 
 * Tradin AI Inc
 * JD.com (US)
-* ZY International
+* [ZY International](https://www.zyinternationaltrade.com/)
 * Alibaba
 * 福赢国际供应链管理有限公司
 * 徽商集团
