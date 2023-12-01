@@ -4,7 +4,7 @@
 
 I'm a business solution provider in San Francisco Bay Area working with multiple projects, 
 including [Media](/marketing), Tech, Supply Chain management, Medical, Natural Resources,
-Fashion, Restaurant and ect.
+Fashion, Restaurant, Education and ect.
 
 ## Media
 
@@ -25,6 +25,7 @@ Fashion, Restaurant and ect.
 
 ## Supply Chain
 
+* Tradin AI Inc
 * JD.com (US)
 * ZY International
 * Alibaba
@@ -44,6 +45,10 @@ Fashion, Restaurant and ect.
 ## Nature Resource
 
 * 紫金矿业
+
+## Education
+
+Alum AI
 
 ## Contact
 
