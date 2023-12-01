@@ -27,10 +27,13 @@ including [Media](/marketing), Tech, Supply Chain management, Medical, Natural R
 * JD.com (US)
 * Alibaba
 * ZY International
+* 福赢国际供应链管理有限公司
+* 徽商集团
 
 ## Medical
 
 * 九安医疗 iHealth Lab
+* 必欧瀚生物技术(合肥)有限公司
 * 蓝雀医疗 BlueJay Mobile
 
 ## Nature Resource
