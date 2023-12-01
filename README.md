@@ -26,8 +26,8 @@ Fashion, Restaurant and ect.
 ## Supply Chain
 
 * JD.com (US)
-* Alibaba
 * ZY International
+* Alibaba
 * 福赢国际供应链管理有限公司
 * 徽商集团
 
