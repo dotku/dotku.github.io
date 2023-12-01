@@ -20,6 +20,7 @@ Fashion, Restaurant, Education and ect.
 
 ## Tech
 
+* [杰圆科技 JYTech](https://jytech.us)
 * 卡儿酷能源科技
 * 太古宙能源科技
 * 守卫者智能科技
