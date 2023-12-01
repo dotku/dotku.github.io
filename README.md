@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a business solution provider in San Francisco Bay Area working with multiple projects, 
-including [Media](/marketing), Tech, Supply Chain management and ect.
+including [Media](/marketing), Tech, Supply Chain management, Medical, Natural Resources and ect.
 
 ## Media
 
@@ -16,12 +16,24 @@ including [Media](/marketing), Tech, Supply Chain management and ect.
 ## Tech
 
 * 守卫者智能科技
+* 卡儿酷能源科技
+* 太古宙能源科技
+* 华拓明通出行科技
 
 ## Supply Chain
 
 * JD.com (US)
 * Alibaba
 * ZY International
+
+## Medical
+
+* 九安医疗 iHealth Lab
+* 蓝雀医疗 BlueJay Mobile
+
+## Nature Resource
+
+* 紫金矿业
 
 ## Contact
 
