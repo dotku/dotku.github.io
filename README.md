@@ -19,7 +19,7 @@ including [Media](/marketing), Tech, Supply Chain management and ect.
 
 ## Supply Chain
 
-* JD US
+* JD.com (US)
 * Alibaba
 * ZY International
 
