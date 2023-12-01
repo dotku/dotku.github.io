@@ -19,6 +19,8 @@ including [Media](/marketing), Tech, Supply Chain management and ect.
 
 ## Supply Chain
 
+* JD US
+* Alibaba
 * ZY International
 
 ## Contact
