@@ -12,7 +12,9 @@ Fashion, Restaurant, Education and ect.
 * 稻草人影业
 * 赤兔华盟
 * YEA Media
+* 星岛日报
 * 老中新闻网
+* 洛杉矶资讯网
 * Nation X
 * 加拿大传奇文化
 
