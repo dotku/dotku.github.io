@@ -20,7 +20,7 @@ Fashion, Food, Education and ect.
 
 ### Tech
 
-* [杰圆科技 JYTech](https://jytech.us)
+* [嘉圓科技 JYTech](https://jytech.us)
 * [深圳市华思旭(卡儿酷能源)科技有限公司](https://www.carku.com/)
 * Crystal Start Innovation Group
 * 太古宙能源科技
