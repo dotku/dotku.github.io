@@ -1,0 +1,6919 @@
+[
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "3d-printing",
+    "t": [],
+    "d_enriched": "1. https://www.allthat3d.com/best-3d-service-online/#ponokobest3dserviceonline",
+    "d_source": "readme"
+  },
+  {
+    "d": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "fork": true,
+    "l": "Rust",
+    "n": "996.ICU",
+    "t": []
+  },
+  {
+    "d": "Samples using the Agent2Agent (A2A) Protocol",
+    "fork": true,
+    "l": null,
+    "n": "a2a-samples",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": "Python",
+    "n": "a2a_with_mcp",
+    "t": [],
+    "d_enriched": "Streamlines business-to-business connections through optimized APIs and int",
+    "d_source": "ollama"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "abonebeauty",
+    "t": [],
+    "d_enriched": "Beauty salon and cosmetics service platform for Abone Beauty brand",
+    "d_source": "claude"
+  },
+  {
+    "d": "we will tech you everything you want to learn",
+    "fork": false,
+    "l": null,
+    "n": "academic",
+    "t": []
+  },
+  {
+    "d": "My Affiliate Referral Links",
+    "fork": false,
+    "l": "HTML",
+    "n": "affiliate-referral-network",
+    "t": []
+  },
+  {
+    "d": "In trading world, people purchase through relationship; instead of just money and goods.",
+    "fork": false,
+    "l": null,
+    "n": "agentbook",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ai",
+    "t": [],
+    "d_enriched": "Here is a list of the top open-source large language models (LLMs) as of February 2025, based on their performance, versatility, and community adoption:",
+    "d_source": "readme"
+  },
+  {
+    "d": "My jorney to the AI industry.",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "ai-academy",
+    "t": []
+  },
+  {
+    "d": "want to try out OpenAI Assistant feature",
+    "fork": false,
+    "l": null,
+    "n": "ai-assistant",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "Astro",
+    "n": "ai-business-suite",
+    "t": [],
+    "d_enriched": "npm create astro@latest -- --template basics",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ai-conversation-tool",
+    "t": [],
+    "d_enriched": "1. It is intereactive; you can edit and share the data for the training during usage",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ai-fitness-website",
+    "t": [],
+    "d_enriched": "AI-powered fitness coaching and workout planning platform",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ai-freedom",
+    "t": [],
+    "d_enriched": "AI-powered platform empowering users with open access to intelligent tools and autonomous decision-making",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ai-hpc",
+    "t": [],
+    "d_enriched": "High-performance computing infrastructure for deploying and managing AI models at scale",
+    "d_source": "claude"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ai-idea-hub",
+    "t": [],
+    "d_enriched": "蔡继军 @ GPTDAO",
+    "d_source": "readme"
+  },
+  {
+    "d": "AI image generator with Open AI",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "ai-image-gen",
+    "t": []
+  },
+  {
+    "d": "ai generated logo",
+    "fork": false,
+    "l": null,
+    "n": "ai-logo",
+    "t": [],
+    "d_enriched": "Brand identity generator that creates custom logos using artificial intelligence",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ai-love-advisor",
+    "t": [],
+    "d_enriched": "Relationship guidance service providing AI-driven insights for couples and singles seeking connection",
+    "d_source": "claude"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ai-marketing",
+    "t": [],
+    "d_enriched": "Intelligent marketing automation platform for campaign optimization and audience engagement",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ai-medical-demo",
+    "t": [],
+    "d_enriched": "Healthcare consultation platform leveraging AI for medical guidance and symptom assessment",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "ai-mini-rag-qwen",
+    "t": [],
+    "d_enriched": "python database.py # 数据库",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ai-ppt",
+    "t": [],
+    "d_enriched": "AI-powered presentation generator for creating professional slide decks",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ai-restaurant",
+    "t": [],
+    "d_enriched": "Intelligent restaurant management system with AI-enhanced operations",
+    "d_source": "claude"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ai-restrant-business-center",
+    "t": [],
+    "d_enriched": "AI-driven restaurant operations hub for business analytics and management",
+    "d_source": "claude"
+  },
+  {
+    "d": "the AI is booming right now, but what would be the best AI suitable for you?",
+    "fork": false,
+    "l": "CSS",
+    "n": "ai-reviews",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ai-robots-manager",
+    "t": [],
+    "d_enriched": "Centralized control dashboard for managing and monitoring AI-powered robotic systems",
+    "d_source": "claude"
+  },
+  {
+    "d": "We talk only about AIs",
+    "fork": false,
+    "l": null,
+    "n": "ai-social",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "ai-train-infrance-sample",
+    "t": [],
+    "d_enriched": "本模型基于 uer/roberta-base-chinese-extractive-qa 模型进行训练。",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "ai-training-pdf2qas",
+    "t": [],
+    "d_enriched": "Generate questions by using PDF.",
+    "d_source": "readme"
+  },
+  {
+    "d": "can AI generate a perfect website?",
+    "fork": false,
+    "l": null,
+    "n": "ai-website",
+    "t": []
+  },
+  {
+    "d": "The database of AI related content",
+    "fork": false,
+    "l": null,
+    "n": "aibase",
+    "t": []
+  },
+  {
+    "d": "create the listing website for all AI tools",
+    "fork": false,
+    "l": null,
+    "n": "aimarketcap",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "airport-pickup",
+    "t": [],
+    "d_enriched": "We help your airport pickup need.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "aladdin",
+    "t": [],
+    "d_enriched": "A service to manage the wish that user would like to create. It would be used to",
+    "d_source": "readme"
+  },
+  {
+    "d": "Sort the url by alexa",
+    "fork": false,
+    "l": null,
+    "n": "alexa-sort",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "algorithem",
+    "t": [],
+    "d_enriched": "Algorithm solutions library for computational problem-solving and optimization",
+    "d_source": "claude"
+  },
+  {
+    "d": "Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/",
+    "fork": true,
+    "l": "Python",
+    "n": "algorithm-exercise",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "amazon-direct",
+    "t": [],
+    "d_enriched": "Direct purchasing integration enabling streamlined product ordering from Amazon",
+    "d_source": "claude"
+  },
+  {
+    "d": "an amazon navigation directory",
+    "fork": false,
+    "l": null,
+    "n": "amazon-navigation",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "amazon-promotion",
+    "t": [],
+    "d_enriched": "Promotional campaign management for Amazon marketplace sellers and advertisers",
+    "d_source": "claude"
+  },
+  {
+    "d": "One framework. Mobile & desktop.",
+    "fork": true,
+    "l": "TypeScript",
+    "n": "angular",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "angular-2024",
+    "t": [],
+    "d_enriched": "This project was generated with Angular CLI version 18.2.6.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "angular-chellenge",
+    "t": []
+  },
+  {
+    "d": "AngularJS markdown directive using Showdown.js",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "angular-markdown-directive",
+    "t": []
+  },
+  {
+    "d": "Daily Coding Chellenge",
+    "fork": false,
+    "l": "HTML",
+    "n": "angular-material-sign-up",
+    "t": []
+  },
+  {
+    "d": "daily challenge project",
+    "fork": false,
+    "l": null,
+    "n": "angular-phone-book-in-8-hr",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "angular-todolist",
+    "t": [],
+    "d_enriched": "Task tracking application for managing daily activities and to-do items",
+    "d_source": "claude"
+  },
+  {
+    "d": "i18n in your Angular apps, made easy.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "angular-translate",
+    "t": []
+  },
+  {
+    "d": "HTML enhanced for web apps",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "angular.js",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "anysocial",
+    "t": [],
+    "d_enriched": "Social media management hub for cross-platform engagement",
+    "d_source": "claude"
+  },
+  {
+    "d": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.",
+    "fork": true,
+    "l": null,
+    "n": "anything-llm",
+    "t": []
+  },
+  {
+    "d": "MEAN stack website of restaurant franchise (food ordering/cart and payment (paypal payment gateway) , table reservation also)",
+    "fork": true,
+    "l": "CSS",
+    "n": "aonekitchen-restaurant",
+    "t": []
+  },
+  {
+    "d": "discuz接口",
+    "fork": true,
+    "l": "PHP",
+    "n": "appapi",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "archean",
+    "t": [],
+    "d_enriched": "Geological data visualization and earth science research platform",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "article-generator",
+    "t": [],
+    "d_enriched": "Automated content creation tool for producing written articles at scale",
+    "d_source": "claude"
+  },
+  {
+    "d": "Static site generator for Node.js, Grunt.js, and Yeoman and Gulp. Render templates with Handlebars, Lo-Dash or any template engine. Used by Less.js / lesscss.org, Topcoat, Web Experience Toolkit, and hundreds of other projects to build sites, themes, components, documentation, blogs and gh-pages.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "assemble",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ativafit",
+    "t": [],
+    "d_enriched": "Fitness tracking and wellness management application for health-conscious users",
+    "d_source": "claude"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "attendance-management-systems",
+    "t": [],
+    "d_enriched": "Workforce attendance tracking and time management system for organizations",
+    "d_source": "claude"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "attendant-management-system",
+    "t": [],
+    "d_enriched": "Workforce scheduling and attendant tracking solution for service-oriented businesses",
+    "d_source": "claude"
+  },
+  {
+    "d": "A modern web platform connecting families with au pairs worldwide, supporting both English and Chinese languages.",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "aupair",
+    "t": []
+  },
+  {
+    "d": "Pre-built Auth UI for React",
+    "fork": true,
+    "l": null,
+    "n": "auth-ui",
+    "t": []
+  },
+  {
+    "d": "Repo for Vue Mastery's Token-Based Authentication course ",
+    "fork": true,
+    "l": null,
+    "n": "authentication_course",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "auto-beverage",
+    "t": [],
+    "d_enriched": "Automated beverage ordering and dispensing management system",
+    "d_source": "claude"
+  },
+  {
+    "d": "A automatically trading app",
+    "fork": false,
+    "l": null,
+    "n": "auto-stock",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "autoclaw-data-scraper",
+    "t": [],
+    "d_enriched": "Daily trade intelligence scraper powered by GitHub Actions.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "autoclaw-worker",
+    "t": [],
+    "d_enriched": "This repository is a template Cloudflare Worker for running batched marketing/automation agents.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "autosize",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "avatar",
+    "t": [],
+    "d_enriched": "Compared over 15 avatar image provider, and create a service for the community.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Java",
+    "n": "AwesomeTSProject",
+    "t": [],
+    "d_enriched": "Cross-platform mobile application framework for rapid product development",
+    "d_source": "claude"
+  },
+  {
+    "d": "Promise based HTTP client for the browser and node.js",
+    "fork": true,
+    "l": null,
+    "n": "axios",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "azure-identity-client-spa",
+    "t": [],
+    "d_enriched": "Secure user authentication and identity management for enterprise applications",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "b2b2c",
+    "t": [],
+    "d_enriched": "This project was generated using Nx.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "baby-cry-translator",
+    "t": [],
+    "d_enriched": "Parenting assistant that interprets infant cries to help caregivers understand baby needs",
+    "d_source": "claude"
+  },
+  {
+    "d": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "fork": true,
+    "l": null,
+    "n": "Babylon.js",
+    "t": []
+  },
+  {
+    "d": "Give your JS App some Backbone with Models, Views, Collections, and Events",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "backbone",
+    "t": []
+  },
+  {
+    "d": "A Backbone.js + jQuery Mobile sample app using AMD for separation of modules, Require.js for dependency management +  template externalisation and Underscore for templating",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "backbone-mobile-search",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "baichuan-plasma",
+    "t": [],
+    "d_enriched": "西安佰川机电设备制造有限公司",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "base",
+    "t": [],
+    "d_enriched": "Foundation template for rapid project scaffolding and synchronization",
+    "d_source": "claude"
+  },
+  {
+    "d": "I have lived in the bay area over 10 years, but be honest, I still don't know too much of it. I hope this project could help me learn more about the Bay Area, also help the local business grow.",
+    "fork": false,
+    "l": null,
+    "n": "bay-area",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "bayarea-courier-delivery",
+    "t": [],
+    "d_enriched": "Same-day courier and package delivery service operating throughout the Bay Area",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "bayarea-listing",
+    "t": [],
+    "d_enriched": "- 家家乐 WX: jiajialemoving",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "bayarea-mcn-platform",
+    "t": [],
+    "d_enriched": "Multi-channel network platform connecting Bay Area content creators with brand partnerships",
+    "d_source": "claude"
+  },
+  {
+    "d": "成为专业程序员路上用到的各种优秀资料、神器及框架",
+    "fork": true,
+    "l": null,
+    "n": "be-a-professional-programmer",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "beauty-app-next",
+    "t": [],
+    "d_enriched": "Booking and discovery platform for beauty services and appointments",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "beauty8",
+    "t": [],
+    "d_enriched": "Comprehensive beauty services marketplace connecting clients with salons and wellness providers",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "belief",
+    "t": [],
+    "d_enriched": "Belief is a subject to study belief, and it is also a belief. We believe studying belives could help us go into next level on life quality and knowlage.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "best-crypto-mining-gpus",
+    "t": [],
+    "d_enriched": "- Create a script to run get the data from the web",
+    "d_source": "readme"
+  },
+  {
+    "d": "a payment finder",
+    "fork": false,
+    "l": null,
+    "n": "best-international-payment",
+    "t": [],
+    "d_enriched": "a payment finder",
+    "d_source": "readme"
+  },
+  {
+    "d": "An awesome README template to jumpstart your projects! ",
+    "fork": true,
+    "l": null,
+    "n": "Best-README-Template",
+    "t": []
+  },
+  {
+    "d": "use nextjs to create betavee website",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "betavee-nextjs",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "billionaire",
+    "t": [],
+    "d_enriched": "A study on billionaires.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "biointellitech",
+    "t": [],
+    "d_enriched": "Corporate site for BioIntelliTech biotechnology solutions and intelligent life sciences services",
+    "d_source": "claude"
+  },
+  {
+    "d": "Bitcoin Core integration/staging tree",
+    "fork": true,
+    "l": "C++",
+    "n": "bitcoin",
+    "t": []
+  },
+  {
+    "d": "Bitcoin.org website",
+    "fork": true,
+    "l": "CSS",
+    "n": "bitcoin.org",
+    "t": []
+  },
+  {
+    "d": "Bitcoin-related functions implemented in pure JavaScript",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "bitcoinjs-lib",
+    "t": []
+  },
+  {
+    "d": "A small Java bittorrent library, powering BitLet.org",
+    "fork": true,
+    "l": "Java",
+    "n": "bitlet",
+    "t": []
+  },
+  {
+    "d": "We utilize your business entity and pay you up to $2,000/yr. (US Only)",
+    "fork": false,
+    "l": "HTML",
+    "n": "biz-park",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "bjvcall",
+    "t": [],
+    "d_enriched": "Version: v1.0.0",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "PHP",
+    "n": "blog",
+    "t": [],
+    "d_enriched": "> Migrate from dotku.github.io project",
+    "d_source": "readme"
+  },
+  {
+    "d": ":books: Freely available programming books",
+    "fork": true,
+    "l": null,
+    "n": "books",
+    "t": []
+  },
+  {
+    "d": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "fork": true,
+    "l": "CSS",
+    "n": "bootstrap",
+    "t": []
+  },
+  {
+    "d": "a customize bootstrap theme for internationalization",
+    "fork": false,
+    "l": "CSS",
+    "n": "bootstrap-intl",
+    "t": []
+  },
+  {
+    "d": "An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2 and v3) ",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "bootstrap-table",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "brevo-smtp",
+    "t": [],
+    "d_enriched": "A modern email sending service built with Next.js and Brevo SMTP/API.",
+    "d_source": "readme"
+  },
+  {
+    "d": "向多个平台推送内容",
+    "fork": false,
+    "l": null,
+    "n": "bundle-push",
+    "t": [],
+    "d_enriched": "Publish content accorss different platform by just one click.",
+    "d_source": "readme"
+  },
+  {
+    "d": "bunny1 is a tool that lets you write smart bookmarks in python and then   share them across all your browsers and with a group of people or the   whole world. It was developed at Facebook and is widely used there.",
+    "fork": true,
+    "l": "Python",
+    "n": "bunny1",
+    "t": []
+  },
+  {
+    "d": "a public resource library to help you running a business.",
+    "fork": false,
+    "l": null,
+    "n": "business-public",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "buy-me-a-coffee",
+    "t": [],
+    "d_enriched": "Streamlined payment integration for creators to receive supporter contributions and tips",
+    "d_source": "claude"
+  },
+  {
+    "d": "Caffe2 is a lightweight, modular, and scalable deep learning framework.",
+    "fork": true,
+    "l": "Jupyter Notebook",
+    "n": "caffe2",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "calendar",
+    "t": [],
+    "d_enriched": "I just create a calendar for me to easier to share with other people.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "can-recycler",
+    "t": []
+  },
+  {
+    "d": "Find the top software engineers.",
+    "fork": false,
+    "l": null,
+    "n": "candidates",
+    "t": []
+  },
+  {
+    "d": "Properly capitalize article and blog titles",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "capitalize-title",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "car",
+    "t": [],
+    "d_enriched": "A global car database.",
+    "d_source": "readme"
+  },
+  {
+    "d": "杰圆职场教育是一个专门提供职业规划指导和职业发展服务的平台。我们拥有专业的职业规划顾问团队，提供个性化的求职策略制定，丰富的企业资源网络，持续的职业发展跟踪，灵活的咨询时间安排和优质的售后服务保障。",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "career-education",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "career-growth",
+    "t": [],
+    "d_enriched": "Professional development toolkit for tracking skills and advancing career milestones",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "carku",
+    "t": [],
+    "d_enriched": "We provide green engery solution including products:",
+    "d_source": "readme"
+  },
+  {
+    "d": "a tiny url creator for carku promption",
+    "fork": false,
+    "l": null,
+    "n": "carku-tinyurl",
+    "t": []
+  },
+  {
+    "d": "一个简单的招聘程序",
+    "fork": false,
+    "l": "HTML",
+    "n": "cbahr",
+    "t": [],
+    "d_enriched": "站长上班，没有空打理，喜欢的拿去。",
+    "d_source": "readme"
+  },
+  {
+    "d": "Our goal is to operate this CDN in a peer reviewed fashion.",
+    "fork": true,
+    "l": null,
+    "n": "cdnjs",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": null,
+    "n": "cell-measurement",
+    "t": [],
+    "d_enriched": "Accurately measures and analyzes cellular data for optimized business perfo",
+    "d_source": "ollama"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "chaterp",
+    "t": [],
+    "d_enriched": "A modern web application that provides AI-powered assistance for enterprise resource planning tasks.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "cheap-phones",
+    "t": [],
+    "d_enriched": "Are you looking for refrebushied, used phones?",
+    "d_source": "readme"
+  },
+  {
+    "d": "An app for people create check-in App for specified use case, eg. Vitamin Taken Check-in.",
+    "fork": false,
+    "l": "PHP",
+    "n": "check-in",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "chef",
+    "t": [],
+    "d_enriched": "Culinary recipe management and meal planning assistant",
+    "d_source": "claude"
+  },
+  {
+    "d": "最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。  ",
+    "fork": true,
+    "l": "Python",
+    "n": "chinese-poetry",
+    "t": []
+  },
+  {
+    "d": "我编写的一些编年史",
+    "fork": false,
+    "l": "HTML",
+    "n": "chronicle",
+    "t": [],
+    "d_enriched": "世界之大无奇不有，梳理世界发展历史主线，供未来发展参考，无论是为了谋求个人自身发展，还是统筹大局，建立一个发展规划和脉络，相信都能带来一些有用的，有价值的信息，就像中国的一句古话，“前知五百年，后知五百年”，以史为鉴。",
+    "d_source": "readme"
+  },
+  {
+    "d": "可运行的Claude Code源码",
+    "fork": true,
+    "l": null,
+    "n": "Claude-Code",
+    "t": []
+  },
+  {
+    "d": "Deploy Node.js projects to AWS Lambda and API Gateway easily",
+    "fork": true,
+    "l": null,
+    "n": "claudia",
+    "t": []
+  },
+  {
+    "d": "A cloud note web app",
+    "fork": false,
+    "l": null,
+    "n": "cloud-pen",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "cloud-server",
+    "t": [],
+    "d_enriched": "https://www.infosaic.com/",
+    "d_source": "readme"
+  },
+  {
+    "d": "allow multiple could to move the files around",
+    "fork": false,
+    "l": null,
+    "n": "cloud-sync",
+    "t": []
+  },
+  {
+    "d": "DKWholesale in Chinese Version",
+    "fork": false,
+    "l": null,
+    "n": "cn.dkwholesale.us",
+    "t": []
+  },
+  {
+    "d": "cyber network navigator",
+    "fork": false,
+    "l": null,
+    "n": "cnnavigator",
+    "t": []
+  },
+  {
+    "d": "CodeIgniter 3.0 简体中文手册",
+    "fork": true,
+    "l": "HTML",
+    "n": "codeigniter-user-guide",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "com-betavee",
+    "t": [],
+    "d_enriched": "Corporate web presence and digital brand platform for Betavee",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "commercelayer-sanity-template",
+    "t": [],
+    "d_enriched": "A multi-country ecommerce template built with Commerce Layer, Nextjs, Sanity studio, and deployed to Netlify.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "commodity-trading",
+    "t": [],
+    "d_enriched": "大宗商品是為人類活動而收集並加工的天然材料或商品，例如石油、糖和貴金屬。它們構成了我們經濟的基礎，因為生產食品、能源和服裝都需要原材料。",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": null,
+    "n": "community",
+    "t": [],
+    "d_enriched": "Member engagement platform fostering collaboration and networking within local communities",
+    "d_source": "claude"
+  },
+  {
+    "d": "Dependency Manager for PHP",
+    "fork": true,
+    "l": null,
+    "n": "composer",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "constructor-conculator",
+    "t": [],
+    "d_enriched": "Calculator tool for construction cost estimation and project budgeting",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "consultant",
+    "t": [],
+    "d_enriched": "I provide consultant service, if you have any question on tech or business, feel free to contact me over email weijingjaylin@gmail.com.",
+    "d_source": "readme"
+  },
+  {
+    "d": "ConvertToUTF8 package for editing and saving files encoded in Big5, GBK, Shift_JIS, etc.",
+    "fork": true,
+    "l": "CoffeeScript",
+    "n": "convert-to-utf8",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "cors-test",
+    "t": [],
+    "d_enriched": "There is a cors-test.org, but I don't trust it, since it is hosted in GAE (Google App Engine) with server.",
+    "d_source": "readme"
+  },
+  {
+    "d": "something google can't help 1/n: couple match",
+    "fork": false,
+    "l": null,
+    "n": "couple-match",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "coway-sanfranciscobayarea",
+    "t": [],
+    "d_enriched": "Regional service portal for Coway home wellness products in the San Francisco Bay Area",
+    "d_source": "claude"
+  },
+  {
+    "d": "Set up a modern web app by running one command.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "create-react-app",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "credit-cards",
+    "t": [],
+    "d_enriched": "| Company | Customer Support |",
+    "d_source": "readme"
+  },
+  {
+    "d": "A lightweight CRM system focused on business development and referrals.  一个轻量级的，专注于业务发展和推荐的客户关系管理系统。",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "crm-business-development-system",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "crostil-ai.github.io",
+    "t": [],
+    "d_enriched": "AI-powered solutions showcase for Crostil intelligent automation services",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "crowd",
+    "t": [],
+    "d_enriched": "A crowd based rank.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "crowdfunding",
+    "t": [],
+    "d_enriched": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+    "d_source": "readme"
+  },
+  {
+    "d": "I think coin market cap doesn't have enough history data for coins, maybe I can create one :)",
+    "fork": false,
+    "l": null,
+    "n": "crypto-currencies-history",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "crypto-exchange-ai",
+    "t": [],
+    "d_enriched": "中文 | English",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "crypto-miners",
+    "t": [],
+    "d_enriched": "A crypto miner trading platform.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "crypto-payment",
+    "t": [],
+    "d_enriched": "https://plisio.net/",
+    "d_source": "readme"
+  },
+  {
+    "d": "a website to display crypto price",
+    "fork": false,
+    "l": null,
+    "n": "crypto-price",
+    "t": []
+  },
+  {
+    "d": "my algorithm on crypto invest",
+    "fork": false,
+    "l": null,
+    "n": "crypto-recommend",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "crypto-tech",
+    "t": [],
+    "d_enriched": "https://goo.gl/maps/myE7oK62DbNzPkie7",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "crypto-trading-simulation",
+    "t": [],
+    "d_enriched": "This project simulateted 3 most common strategies in the investment industry.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A program close the application by Ctrl+Q on windows",
+    "fork": false,
+    "l": null,
+    "n": "ctrl-q",
+    "t": []
+  },
+  {
+    "d": "customer waiting time",
+    "fork": false,
+    "l": null,
+    "n": "customer-support-rank",
+    "t": []
+  },
+  {
+    "d": "A JavaScript visualization library for HTML and SVG.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "d3",
+    "t": []
+  },
+  {
+    "d": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+    "fork": true,
+    "l": null,
+    "n": "dashy",
+    "t": []
+  },
+  {
+    "d": "Data science has several domain; which one make the most?",
+    "fork": false,
+    "l": null,
+    "n": "data-science",
+    "t": []
+  },
+  {
+    "d": "Cheat Sheets",
+    "fork": true,
+    "l": null,
+    "n": "Data-Science--Cheat-Sheet",
+    "t": []
+  },
+  {
+    "d": "database view",
+    "fork": false,
+    "l": "PHP",
+    "n": "dbviwer",
+    "t": [],
+    "d_enriched": "﻿# DBViwer",
+    "d_source": "readme"
+  },
+  {
+    "d": "Maps of Washington DC area public geodata",
+    "fork": true,
+    "l": null,
+    "n": "dc-maps",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "dealership",
+    "t": [],
+    "d_enriched": "Vehicle sales management system for automotive dealerships and inventory tracking",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "deepseek",
+    "t": [],
+    "d_enriched": "Data analysis and intelligent search solution for deep information discovery",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "deepseek-chat-example",
+    "t": [],
+    "d_enriched": "A simple example of using Deepseek Chat API with React.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "deepseek-proxy",
+    "t": [],
+    "d_enriched": "A proxy for DeepSeek API with token management and friendly Chinese responses.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "deepseek-solutions",
+    "t": [],
+    "d_enriched": "企业级人工智能解决方案网站，为企业提供安全、稳定、高性能的 AI 应用部署方案。",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "demo-flask",
+    "t": [],
+    "d_enriched": "This is a demo project based on Flask 2.2.x Tutorial.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "demo-next.js",
+    "t": [],
+    "d_enriched": "Reference implementation showcasing modern server-rendered web application architecture",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "design-systems",
+    "t": [],
+    "d_enriched": "Unified component library ensuring brand consistency across products",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "destiny-number",
+    "t": [],
+    "d_enriched": "Numerology calculator that generates personalized life path insights",
+    "d_source": "claude"
+  },
+  {
+    "d": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+    "fork": true,
+    "l": "Python",
+    "n": "Detectron",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "dev-node",
+    "t": [],
+    "d_enriched": "npm install --save-dev babel-eslint",
+    "d_source": "readme"
+  },
+  {
+    "d": "科技前沿特供微信开发文档",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "dev-weixin",
+    "t": [],
+    "d_enriched": "This website is built using Docusaurus, a modern static website generator.",
+    "d_source": "readme"
+  },
+  {
+    "d": "PHP File Scanner",
+    "fork": true,
+    "l": "PHP",
+    "n": "DirectoryScanner",
+    "t": []
+  },
+  {
+    "d": "Discover Meteor 中文版",
+    "fork": true,
+    "l": "HTML",
+    "n": "DiscoverMeteor_zh",
+    "t": []
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": null,
+    "n": "discuz-appapi-demo",
+    "t": []
+  },
+  {
+    "d": "The center of UCenters",
+    "fork": false,
+    "l": null,
+    "n": "DiscuzHub",
+    "t": []
+  },
+  {
+    "d": "基于DiscuzX 的镜像",
+    "fork": true,
+    "l": null,
+    "n": "DiscuzX",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "distributors",
+    "t": [],
+    "d_enriched": "A distributors management system",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "dk-drone",
+    "t": [],
+    "d_enriched": "Drone services platform for aerial photography, surveying, and commercial flight operations",
+    "d_source": "claude"
+  },
+  {
+    "d": "a product exchange platform",
+    "fork": false,
+    "l": null,
+    "n": "dk-exchange",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "dk-grid",
+    "t": [],
+    "d_enriched": "| Domain | Companies | Type | Business |",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "dk-power-station",
+    "t": [],
+    "d_enriched": "| Company |",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "dk-purchase-order",
+    "t": [],
+    "d_enriched": "An app to help with purchase order generating.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "dk-unincore-signup",
+    "t": [],
+    "d_enriched": "1. 邀请对方 signup: https://sponsored-signup.unincore.us",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "dk-wholesale",
+    "t": [],
+    "d_enriched": "Wholesale distribution platform connecting suppliers with bulk buyers",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "dkwholesale-wig",
+    "t": [],
+    "d_enriched": "A modern e-commerce platform for wholesale wig sales, built with Next.js 15, TypeScript, and Tailwind CSS.",
+    "d_source": "readme"
+  },
+  {
+    "d": "CakePHP CookBook",
+    "fork": true,
+    "l": "Makefile",
+    "n": "docs",
+    "t": []
+  },
+  {
+    "d": "🃏 A magical documentation site generator.",
+    "fork": true,
+    "l": null,
+    "n": "docsify",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "donation",
+    "t": [],
+    "d_enriched": "Please donate to suppor my work on open source.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "dongguan-houjie-yusheng-shoes",
+    "t": [],
+    "d_enriched": "Supplier List",
+    "d_source": "readme"
+  },
+  {
+    "d": "dotku's github main page",
+    "fork": false,
+    "l": "HTML",
+    "n": "dotku.github.io",
+    "t": []
+  },
+  {
+    "d": "My personal front end code library",
+    "fork": false,
+    "l": "CSS",
+    "n": "dpatch",
+    "t": []
+  },
+  {
+    "d": "The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.",
+    "fork": true,
+    "l": null,
+    "n": "dub",
+    "t": []
+  },
+  {
+    "d": "Dubbo is a distributed, high performance RPC framework enpowering applications with service import/export capabilities.",
+    "fork": true,
+    "l": "Java",
+    "n": "dubbo",
+    "t": []
+  },
+  {
+    "d": "DukePHP 是基于 ThinkPHP 3.2 的维护版本",
+    "fork": true,
+    "l": "PHP",
+    "n": "dukephp",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "dummy-chat",
+    "t": [],
+    "d_enriched": "There are several chat application/service in the market.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "dummy-react-tree-view",
+    "t": [],
+    "d_enriched": "Hierarchical data browser for navigating nested organizational structures",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "dummy-tools",
+    "t": [],
+    "d_enriched": "A list of tools to generate dummy datas",
+    "d_source": "readme"
+  },
+  {
+    "d": "Asynchronous Javascript templating for the browser and server",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "dustjs",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "e-commerce",
+    "t": [],
+    "d_enriched": "List of product that I already have in the US, contact me if you are interested in any of the following products.",
+    "d_source": "readme"
+  },
+  {
+    "d": "An open source project for chinese plate recognition. It aims to be Easy, Flexible, and Accurate. Welcome to contribute your expertise !",
+    "fork": true,
+    "l": "C++",
+    "n": "EasyPR",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ebike",
+    "t": [],
+    "d_enriched": "There are hundreds of ebike companies operating in China, given the massive size of the market. Here are some key details:",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ecard-service",
+    "t": [],
+    "d_enriched": "Enter your code and see the message.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A powerful charting and visualization library for browser",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "echarts",
+    "t": []
+  },
+  {
+    "d": "selling iphone devices",
+    "fork": false,
+    "l": null,
+    "n": "ecom-iphone",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ecommerce",
+    "t": [],
+    "d_enriched": "Compare Temu and Amazon",
+    "d_source": "readme"
+  },
+  {
+    "d": "💰 🌱  E-commerce store built with Next.js and Stripe checkout",
+    "fork": true,
+    "l": null,
+    "n": "ecommerce-nextjs-stripe-checkout",
+    "t": []
+  },
+  {
+    "d": "An app to enhance the SEO feature for ECWid platform.",
+    "fork": false,
+    "l": "HTML",
+    "n": "ecseo",
+    "t": []
+  },
+  {
+    "d": "Next.js Commerce — Ecwid by Lightspeed",
+    "fork": true,
+    "l": null,
+    "n": "ecwid-nextjs-commerce",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "editorial-committee",
+    "t": [],
+    "d_enriched": "Collaboration hub for editorial teams to manage content review workflows and publishing decisions",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "education-fund",
+    "t": [],
+    "d_enriched": "Education savings planner for families managing college funding goals",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "education-index",
+    "t": [],
+    "d_enriched": "| Program | Basic Cost | Note |",
+    "d_source": "readme"
+  },
+  {
+    "d": "Education could be trackable. Education might not make you a super rich, but it would help you to achieve your success and your dream.",
+    "fork": false,
+    "l": null,
+    "n": "education-manager",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "eggshell-media",
+    "t": [],
+    "d_enriched": "我们为全球数百家中小企业提供媒体支持和商务扩展服务。我们已经成功为企业完成数千万美元级别的营销额度，并持续为企业提供优质可信耐的资源与事业扩展（以中美为主），覆盖年营业额高达数十亿市场的业务。",
+    "d_source": "readme"
+  },
+  {
+    "d": "Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "electron-packager",
+    "t": []
+  },
+  {
+    "d": "an app that can receive the print command from server",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "electron-printer",
+    "t": []
+  },
+  {
+    "d": "A Foundation for Scalable Cross-Platform Apps",
+    "fork": true,
+    "l": null,
+    "n": "electron-react-boilerplate",
+    "t": []
+  },
+  {
+    "d": "ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation",
+    "fork": true,
+    "l": "C++",
+    "n": "ELF",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "email_test",
+    "t": [],
+    "d_enriched": "A Python-based email testing utility for Zoho Mail that provides SMTP sending and IMAP reading capabilities.",
+    "d_source": "readme"
+  },
+  {
+    "d": "GitHub Action to generate embeddings from the markdown files in your repository.",
+    "fork": true,
+    "l": "TypeScript",
+    "n": "embeddings-generator",
+    "t": []
+  },
+  {
+    "d": "Ember.js - A JavaScript framework for creating ambitious web applications",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "ember.js",
+    "t": []
+  },
+  {
+    "d": "To lower the fee, build my own GUI miner.",
+    "fork": false,
+    "l": null,
+    "n": "eminer",
+    "t": []
+  },
+  {
+    "d": "Your Personal Companion Robot",
+    "fork": true,
+    "l": null,
+    "n": "Emo",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "en",
+    "t": [],
+    "d_enriched": "English language content portal and localization resource center",
+    "d_source": "claude"
+  },
+  {
+    "d": "a Node.js Realtime BaaS like Firebase by Socket.io and MongoDB",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "end",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "entrepreneur",
+    "t": [],
+    "d_enriched": "> someone who organizes a business venture and assumes the risk for it",
+    "d_source": "readme"
+  },
+  {
+    "d": "ECMAScript 6: Feature Overview & Comparison",
+    "fork": true,
+    "l": "HTML",
+    "n": "es6-features",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "esg",
+    "t": [],
+    "d_enriched": "https://www.birthdayboxfoundation.org/giveabox",
+    "d_source": "readme"
+  },
+  {
+    "d": "a JavaScript library of core Ethereum functions ",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "ethereumjs-lib",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "evata",
+    "t": [],
+    "d_enriched": "Event management and scheduling platform for organizing gatherings and tracking attendance",
+    "d_source": "claude"
+  },
+  {
+    "d": "A tutorial on how to build an Excel Custom Function Add-In using the new Office JavaScript API.",
+    "fork": true,
+    "l": null,
+    "n": "excel-custom-function-add-in",
+    "t": []
+  },
+  {
+    "d": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "fork": true,
+    "l": null,
+    "n": "expo",
+    "t": []
+  },
+  {
+    "d": "A workflow with full live reload for webpack&express application.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "express-webpack-full-live-reload-example",
+    "t": []
+  },
+  {
+    "d": "file extension list",
+    "fork": false,
+    "l": null,
+    "n": "ext",
+    "t": [],
+    "d_enriched": "file extension list.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "extensions",
+    "t": [],
+    "d_enriched": "Browser extension suite enhancing productivity and web functionality",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": null,
+    "n": "fad-react-bootstrap-table2",
+    "t": [],
+    "d_enriched": "Empower your business with dynamic, responsive data visualization and manag",
+    "d_source": "ollama"
+  },
+  {
+    "d": "most farmers doesn't know how to plan their farm, this is a social share platform that allow farmers understand how other ppl farm as your planing reference.",
+    "fork": false,
+    "l": null,
+    "n": "farmers-planer",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "fas",
+    "t": [],
+    "d_enriched": "Medical services and treatments",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "fashion-classifier",
+    "t": [],
+    "d_enriched": "An AI-powered web app that helps fashion designers organize, search, and reuse inspiration imagery.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A fast JSON parser/generator for Java.  ",
+    "fork": true,
+    "l": "Java",
+    "n": "fastjson",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "PHP",
+    "n": "fengjieinc-wordpress-4",
+    "t": [],
+    "d_enriched": "Corporate website and content management system for Fengjie Inc",
+    "d_source": "claude"
+  },
+  {
+    "d": "Standards either proposed or approved by the Framework Interop Group",
+    "fork": true,
+    "l": null,
+    "n": "fig-standards",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "PHP",
+    "n": "fighton_php",
+    "t": [],
+    "d_enriched": "使用 Agora 制作的一个在线视频",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "fin-book",
+    "t": [],
+    "d_enriched": "- Tool of Titans - Timothy Ferriss",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "finance",
+    "t": [],
+    "d_enriched": "Since there are several finance related project. I create a new org called DotFin to manage the projects.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "firebase-analytics-demo",
+    "t": [],
+    "d_enriched": "expo install",
+    "d_source": "readme"
+  },
+  {
+    "d": "Personal Protective Equipment Database",
+    "fork": false,
+    "l": "HTML",
+    "n": "firebase-ppedb",
+    "t": []
+  },
+  {
+    "d": "A better tool to manage the firebase storage",
+    "fork": false,
+    "l": null,
+    "n": "firebase-storage-manager",
+    "t": []
+  },
+  {
+    "d": "Codelab for building a WebRTC Video chat application using Firebase Cloudstore.",
+    "fork": true,
+    "l": null,
+    "n": "FirebaseRTC",
+    "t": []
+  },
+  {
+    "d": "Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3",
+    "fork": true,
+    "l": "PHP",
+    "n": "fis",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "flea-market",
+    "t": [],
+    "d_enriched": "This project was generated with Angular CLI version 8.3.25.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "fleet-professional-service",
+    "t": [],
+    "d_enriched": "Fleet management and professional vehicle services platform for commercial operations",
+    "d_source": "claude"
+  },
+  {
+    "d": "Drag & drop UI to build your customized LLM flow",
+    "fork": true,
+    "l": null,
+    "n": "Flowise",
+    "t": []
+  },
+  {
+    "d": "my first flutter app",
+    "fork": false,
+    "l": "C++",
+    "n": "fluent-app",
+    "t": []
+  },
+  {
+    "d": "Application Architecture for Building User Interfaces",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "flux",
+    "t": []
+  },
+  {
+    "d": "Focus Matrix is a lightweight, privacy-first task management tool based on the Eisenhower Matrix to help you prioritize what truly matters — all stored locally in your browser.",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "focus-matrix",
+    "t": []
+  },
+  {
+    "d": "Anyone could join this community and share what their prediction on future event, no mater you use math, computer science, mediation or other methods. We are looking for high accurate rate predication person.",
+    "fork": false,
+    "l": null,
+    "n": "forecasters",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "foresight",
+    "t": [],
+    "d_enriched": "Strategic planning and predictive analytics dashboard for business forecasting",
+    "d_source": "claude"
+  },
+  {
+    "d": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "foundation-sites",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "fpga",
+    "t": [],
+    "d_enriched": "FPGA（Field-Programmable Gate Array，现场可编程门阵列）行业主要由以下几家企业主导：",
+    "d_source": "readme"
+  },
+  {
+    "d": "ThinkPHP Framework",
+    "fork": true,
+    "l": null,
+    "n": "framework",
+    "t": []
+  },
+  {
+    "d": "Full Featured HTML Framework For Building iOS & Android Apps",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "Framework7",
+    "t": []
+  },
+  {
+    "d": "I will develop the feature you requested for free (but I charge if that's private or customized feature).",
+    "fork": false,
+    "l": null,
+    "n": "free-software-development-service",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "free-webhost",
+    "t": [],
+    "d_enriched": "Most free webhosts are static based, eg github could be used as webhost service if you want to host some simple script content.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "freecdn",
+    "t": [],
+    "d_enriched": "I wish there would be a frontend host service for free,",
+    "d_source": "readme"
+  },
+  {
+    "d": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "FreeCodeCamp",
+    "t": []
+  },
+  {
+    "d": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+    "fork": true,
+    "l": null,
+    "n": "Front-end-Developer-Interview-Questions-And-Answers",
+    "t": []
+  },
+  {
+    "d": "2018 edition of our front-end development handbook",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "front-end-handbook-2018",
+    "t": []
+  },
+  {
+    "d": "福建文化网是一个致力于展示和传播福建省丰富文化遗产的在线平台。本网站由福建省文化厅主办，福建省图书馆承办与制作。",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "fujian-culture",
+    "t": []
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "full-stack",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "fundraising",
+    "t": [],
+    "d_enriched": "We are colleberating with few invest funds, feel free to contact us for introduction.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "funplus-store",
+    "t": [],
+    "d_enriched": "Funplus Tech Store",
+    "d_source": "readme"
+  },
+  {
+    "d": "the official website for funplus tech",
+    "fork": false,
+    "l": "HTML",
+    "n": "funplustech",
+    "t": []
+  },
+  {
+    "d": "Guangdong Fuying International Supply Chain Management Co., Ltd.",
+    "fork": false,
+    "l": "HTML",
+    "n": "fuying-international-supply-chain",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "game-education",
+    "t": [],
+    "d_enriched": "A repo for game study.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "game-exchange-box",
+    "t": [],
+    "d_enriched": "It is a trading platform that each player exchange their items.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "gemma-n3-tests",
+    "t": [],
+    "d_enriched": "Huggingface provide .task model file, we cant only use for token generation, need deocde by",
+    "d_source": "readme"
+  },
+  {
+    "d": "Yeoman generator for ThinkPHP | ThinkPHP的Yeoman自动构建工具",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "generator-thinkphp",
+    "t": []
+  },
+  {
+    "d": "Automatically exported from code.google.com/p/geoplugin",
+    "fork": false,
+    "l": null,
+    "n": "geoplugin",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "get-rich",
+    "t": [],
+    "d_enriched": "People concider as financial free if their basic spending is balanced out their earning without",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "gh-user-stat-scatter-chart",
+    "t": [],
+    "d_enriched": "This is the app you get when you run streamlit hello, extracted as its own app.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A Javascript library to parse and manipulate GICS codes",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "gics",
+    "t": []
+  },
+  {
+    "d": "Aerospace & Defense, Building Products, Construction & Engineering, Electrical Equipment, Industrial Conglomerates, Machinery, Trading Companies & Distributors",
+    "fork": false,
+    "l": null,
+    "n": "gics-2010-capital-goods",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "gics-2020-commercial-and-professional-services",
+    "t": [],
+    "d_enriched": "真实吐血直播！6 个月用 AI 轻松赚 90 万美金，利润达到 95% 以上，想要开始只需要下面这三个步骤: https://www.youtube.com/watch?v=geySFGxCZWo",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "git-test",
+    "t": [],
+    "d_enriched": "#git-test test git features",
+    "d_source": "readme"
+  },
+  {
+    "d": "A github based notebook",
+    "fork": false,
+    "l": null,
+    "n": "gitbook",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "github-cms",
+    "t": [],
+    "d_enriched": "A CMS system perfect for github",
+    "d_source": "readme"
+  },
+  {
+    "d": "Use githubDB as database",
+    "fork": false,
+    "l": null,
+    "n": "github-database-practice",
+    "t": []
+  },
+  {
+    "d": "🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).",
+    "fork": true,
+    "l": null,
+    "n": "github-rank",
+    "t": []
+  },
+  {
+    "d": "I want to redirect URL from something like visiting https://github.com/dotku/tech/tree/master/saas by using https://ghr.tld/username/reponame/folder-file-url.ext",
+    "fork": false,
+    "l": "CSS",
+    "n": "github-redirector",
+    "t": []
+  },
+  {
+    "d": "A Lightweight Cloud based JSON Database with a MongoDB like API for Node.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "githubDB",
+    "t": []
+  },
+  {
+    "d": "A collection of useful .gitignore templates",
+    "fork": true,
+    "l": null,
+    "n": "gitignore",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "global",
+    "t": [],
+    "d_enriched": "1. 1970s Global Resources publish magazine and report in the global trading",
+    "d_source": "readme"
+  },
+  {
+    "d": "A simple sample for creating global node cli",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "global-node-cli-sample",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "gloves",
+    "t": [],
+    "d_enriched": "UltraStrech (ZY International)",
+    "d_source": "readme"
+  },
+  {
+    "d": "the easiest way to use Google Maps",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "gmaps",
+    "t": []
+  },
+  {
+    "d": "Official Go implementation of the Ethereum protocol",
+    "fork": true,
+    "l": "Go",
+    "n": "go-ethereum",
+    "t": []
+  },
+  {
+    "d": "Yet another open source forum written in Golang, React and PostgreSQL.",
+    "fork": true,
+    "l": "Go",
+    "n": "godiscourse",
+    "t": []
+  },
+  {
+    "d": "JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "GoJS",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "golden-data-set",
+    "t": [],
+    "d_enriched": "Curated reference datasets for benchmarking, validation, and quality assurance testing",
+    "d_source": "claude"
+  },
+  {
+    "d": "爬取amazon/bestbuy/costco/6pm 的商品详情",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "goods-crawling",
+    "t": []
+  },
+  {
+    "d": "A git for preparing to get into to Google",
+    "fork": false,
+    "l": null,
+    "n": "google-challenge",
+    "t": []
+  },
+  {
+    "d": "Google Drive shared folder won't be able to search now, let me create one with search feature.",
+    "fork": false,
+    "l": null,
+    "n": "google-drive-share-search",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "google-firebase-login-demo",
+    "t": [],
+    "d_enriched": "其实我觉得这个 LOGIN 说简单，也简单，说难也难。简单的话是说，UI",
+    "d_source": "readme"
+  },
+  {
+    "d": "Automatically exported from code.google.com/p/google-styleguide",
+    "fork": false,
+    "l": "Python",
+    "n": "google-styleguide",
+    "t": []
+  },
+  {
+    "d": "Google translate api ported to Deno",
+    "fork": true,
+    "l": null,
+    "n": "google-translate-api",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "goose-tools",
+    "t": [],
+    "d_enriched": "| Provider | Model | Tools | Success | Note |",
+    "d_source": "readme"
+  },
+  {
+    "d": "This quick-start app is built in PHP and lets you get started with the Google+ platform in a few minutes.",
+    "fork": true,
+    "l": "HTML",
+    "n": "gplus-quickstart-php",
+    "t": []
+  },
+  {
+    "d": "Clone of OpenAI's ChatGPT and Playground environments to enable experimenting with API keys.",
+    "fork": true,
+    "l": null,
+    "n": "gpt4-playground",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "gpulaw-attorney-services",
+    "t": [],
+    "d_enriched": "AI-powered legal tools designed specifically for attorneys to analyze documents, conduct research, draft legal documents, and review work with unprecedented precision.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "gpulaw-crypto",
+    "t": [],
+    "d_enriched": "An AI-powered legal assistant application specialized in cryptocurrency compliance and regulatory documentation.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "gpulaw-legal-marketplace",
+    "t": [],
+    "d_enriched": "Legal services marketplace connecting clients with attorneys for GPU and tech industry matters",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "gpulaw_cn",
+    "t": [],
+    "d_enriched": "GPULaw is a modern legal membership platform that combines advanced artificial intelligence tools with access to experienced attorneys to provide comprehensive legal protection for individuals.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "gpulaw_hk",
+    "t": [],
+    "d_enriched": "GPULaw is a modern legal membership platform that combines advanced artificial intelligence tools with access to experienced attorneys to provide comprehensive legal protection for individuals.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "gr-lawyer-ai-assistant-system",
+    "t": [],
+    "d_enriched": "An AI-powered legal assistance platform for efficient case management and document processing.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "HTML",
+    "n": "graphql-client-demo",
+    "t": []
+  },
+  {
+    "d": "An example code structure for a GraphQL-powered mobile app. Contains client and server code.",
+    "fork": true,
+    "l": null,
+    "n": "GraphQL-example",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "grok-image-community",
+    "t": [],
+    "d_enriched": "Community hub for sharing, discussing, and collaborating on AI-generated imagery",
+    "d_source": "claude"
+  },
+  {
+    "d": "My gtd list, hopefully sync with Apple task",
+    "fork": false,
+    "l": null,
+    "n": "gtd",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "guangzhou-youwo-psychology",
+    "t": [],
+    "d_enriched": "广州尤我心理咨询服务中心是一家专业的心理健康服务机构，致力于为个人和团体提供优质的心理咨询和心理健康服务。",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "guplaw",
+    "t": [],
+    "d_enriched": "GPULaw is a modern legal membership platform that combines advanced artificial intelligence tools with access to experienced attorneys to provide comprehensive legal protection for individuals.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "hailai-trading",
+    "t": [],
+    "d_enriched": "A trading platform:",
+    "d_source": "readme"
+  },
+  {
+    "d": "130+ handlebars helpers in ~20 categories. Can be used with Assemble, Ghost, YUI, express.js etc.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "handlebars-helpers",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "haroctech",
+    "t": [],
+    "d_enriched": "\"make life simplied\"",
+    "d_source": "readme"
+  },
+  {
+    "d": "A project base for building modern JavaScript applications",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "heisenberg",
+    "t": []
+  },
+  {
+    "d": "The official PHP buildpack for Heroku.",
+    "fork": true,
+    "l": "Shell",
+    "n": "heroku-buildpack-php",
+    "t": []
+  },
+  {
+    "d": "A virtual machine designed for executing programs written in Hack and PHP. ",
+    "fork": true,
+    "l": "C++",
+    "n": "hhvm",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "hippa-free-chat",
+    "t": [],
+    "d_enriched": "HIPAA-compliant secure messaging platform for healthcare providers and patient communication",
+    "d_source": "claude"
+  },
+  {
+    "d": "I'm trying to create a timeline for history of computer",
+    "fork": false,
+    "l": null,
+    "n": "history-of-computer",
+    "t": []
+  },
+  {
+    "d": "Repo for ChatGPT clone tutorial in Next.js using Humanloop.",
+    "fork": true,
+    "l": null,
+    "n": "hl-chatgpt-clone-typescript",
+    "t": []
+  },
+  {
+    "d": "A minimal web-UI for talking to Ollama (and OpenAI) servers",
+    "fork": true,
+    "l": "TypeScript",
+    "n": "hollama",
+    "t": []
+  },
+  {
+    "d": "A origin based social network",
+    "fork": false,
+    "l": null,
+    "n": "hometown",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "hr",
+    "t": [],
+    "d_enriched": "Want to create a recruitere RTR application that help recruiter log the basic information of user in handy way without keep asking for",
+    "d_source": "readme"
+  },
+  {
+    "d": "Human Robot Interaction development",
+    "fork": false,
+    "l": null,
+    "n": "hri-development",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "huishang-garments",
+    "t": [],
+    "d_enriched": "Huishang Garments is a branch of Huishang Group focusing on garments China domanstic or international trading. We currently do offer following service:",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ielts-bootcamp",
+    "t": [],
+    "d_enriched": "Intensive IELTS exam preparation and training program for English proficiency testing",
+    "d_source": "claude"
+  },
+  {
+    "d": "step by step to teach you something that school did teach.",
+    "fork": false,
+    "l": null,
+    "n": "income-advisor",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "industrial-advisor",
+    "t": [],
+    "d_enriched": "Consulting platform delivering strategic guidance for manufacturing and industrial operations",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "industry",
+    "t": [],
+    "d_enriched": "1. Tencent",
+    "d_source": "readme"
+  },
+  {
+    "d": "Scalable datastore for metrics, events, and real-time analytics",
+    "fork": true,
+    "l": "Go",
+    "n": "influxdb",
+    "t": []
+  },
+  {
+    "d": "focusing the best way to find the info that client need",
+    "fork": false,
+    "l": null,
+    "n": "info-match-ai",
+    "t": []
+  },
+  {
+    "d": "compare different culture and help worldwide understanding",
+    "fork": false,
+    "l": null,
+    "n": "international-festivals",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "internet-service",
+    "t": [],
+    "d_enriched": "| Company Name | Website | Base Cost | Note |",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "interview",
+    "t": [],
+    "d_enriched": "- Job Board: LinkedIn, Indeed, Dice",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "interview-java",
+    "t": [],
+    "d_enriched": "Q: what is DAO?",
+    "d_source": "readme"
+  },
+  {
+    "d": "My interview question reviews",
+    "fork": false,
+    "l": null,
+    "n": "interview-review",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "investment",
+    "t": [],
+    "d_enriched": "> 这个投资组合大概覆盖了将近 100 家企业，不过，因为比重不同，所以其回报率要优于直接投 100 强企业，在 2024 年，我的回报率是达到 100% 的，算是比较好的成绩；我最高单股回报成绩最高的是 x32 回报率。",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "investors",
+    "t": [],
+    "d_enriched": "0100 Ventures",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "involution-index",
+    "t": [],
+    "d_enriched": "2025 行业内卷指数",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ios-fixers-list",
+    "t": [],
+    "d_enriched": "You actually can use a MacOS to fix your iPhone by following the introduction on the Apple official website:",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ios-todo",
+    "t": [],
+    "d_enriched": "1. Don't use SwiftUI, since it is less corss platform",
+    "d_source": "readme"
+  },
+  {
+    "d": "A temporary share point for iOS",
+    "fork": false,
+    "l": null,
+    "n": "ios-wechat-share",
+    "t": []
+  },
+  {
+    "d": "Automatically exported from code.google.com/p/iphone-photo-picker",
+    "fork": false,
+    "l": "Objective-C",
+    "n": "iphone-photo-picker",
+    "t": []
+  },
+  {
+    "d": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
+    "fork": true,
+    "l": "Python",
+    "n": "ipython",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "iris-fortune",
+    "t": [],
+    "d_enriched": "Fortune-telling and horoscope service delivering personalized predictions and daily insights",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "japanese-cosmetics",
+    "t": [],
+    "d_enriched": "E-commerce catalog and product discovery platform for Japanese beauty products",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "jasmine-on-grunt-practice",
+    "t": [],
+    "d_enriched": "This is Jasmine on Grunt Practice",
+    "d_source": "readme"
+  },
+  {
+    "d": "There are two demo, one is simple calculator and other one would split the math input and deal the calculation.",
+    "fork": false,
+    "l": "Java",
+    "n": "java-demo-calculator",
+    "t": []
+  },
+  {
+    "d": "a demo from a iteye blog",
+    "fork": false,
+    "l": "Java",
+    "n": "java-demo-jetty-war",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Java",
+    "n": "java-event",
+    "t": [],
+    "d_enriched": "- Java version: 17",
+    "d_source": "readme"
+  },
+  {
+    "d": "Sample Code for Java",
+    "fork": false,
+    "l": "Java",
+    "n": "java-sample",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "java-spring-demo-guestbook",
+    "t": [],
+    "d_enriched": "The easiest way to read through this code, try it out and play with it is to follow these instructions:",
+    "d_source": "readme"
+  },
+  {
+    "d": "Create a JavaScript repo which simulate the data structure",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "javascript-java-chllenge",
+    "t": []
+  },
+  {
+    "d": "A dev note for javascript-vs-java",
+    "fork": false,
+    "l": null,
+    "n": "javascript-vs-java",
+    "t": []
+  },
+  {
+    "d": "30 Day Vanilla JS Challenge",
+    "fork": true,
+    "l": "HTML",
+    "n": "JavaScript30",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "jit-order-tracking-system",
+    "t": [],
+    "d_enriched": "Just-in-time order tracking system for real-time inventory and fulfillment management",
+    "d_source": "claude"
+  },
+  {
+    "d": "thinkphp 上的网友 将军 写的 file class",
+    "fork": false,
+    "l": "PHP",
+    "n": "jj-file",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "job-finding-tracking-system",
+    "t": [],
+    "d_enriched": "Job search tracker for managing applications, interviews, and hiring progress",
+    "d_source": "claude"
+  },
+  {
+    "d": "Finding a desired job is not just for covering the living cost, but it is also a invest for your future, and your dream.",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "job-hunt",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "job-hunt-tracker",
+    "t": [],
+    "d_enriched": "> When I realized that I had applied for a lot of jobs during my last stretch of unemployment,",
+    "d_source": "readme"
+  },
+  {
+    "d": "A job seeker's interview arrangement guide",
+    "fork": false,
+    "l": null,
+    "n": "job-seeker",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "job-xiaomi",
+    "t": [],
+    "d_enriched": "参考 mcpconfig.json 设置 MCP 服务器。",
+    "d_source": "readme"
+  },
+  {
+    "d": "share the jobs",
+    "fork": false,
+    "l": null,
+    "n": "jobs",
+    "t": [],
+    "d_enriched": "share the jobs",
+    "d_source": "readme"
+  },
+  {
+    "d": "It might be just a json file...",
+    "fork": false,
+    "l": "HTML",
+    "n": "jq-project-lister",
+    "t": []
+  },
+  {
+    "d": "I realized that HTML5 Video is cached ready by preload feature by default.        It is faster to load file directly from browser compare to download to the local. So I created        this project to load the web videos.",
+    "fork": false,
+    "l": "HTML",
+    "n": "js-media-player",
+    "t": [
+      "html5",
+      "javascript"
+    ]
+  },
+  {
+    "d": "want to able to check the version support",
+    "fork": false,
+    "l": null,
+    "n": "js-version",
+    "t": []
+  },
+  {
+    "d": "Simple Json to standard HTML table converter in fastest way",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "Json-to-HTML-Table",
+    "t": []
+  },
+  {
+    "d": "A fake json file https://my-json-server.typicode.com/dotku/jsonPlaceholder",
+    "fork": false,
+    "l": null,
+    "n": "jsonPlaceholder",
+    "t": []
+  },
+  {
+    "d": "A simple jQuery plugin to get your JSON data on a table.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "jsonTable",
+    "t": []
+  },
+  {
+    "d": "Wrapper jsPDF for React",
+    "fork": true,
+    "l": null,
+    "n": "jspdf-react",
+    "t": []
+  },
+  {
+    "d": "website for jaytech llc",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "jytech",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "jytech-recruiting-interns",
+    "t": [],
+    "d_enriched": "Intern recruitment and interview management system for hiring teams",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "kandi-store",
+    "t": [],
+    "d_enriched": "E-commerce storefront for candy and confectionery products with online ordering",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "kids-drawing",
+    "t": [],
+    "d_enriched": "Creative drawing canvas designed for children's artistic exploration",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "kids-game",
+    "t": [],
+    "d_enriched": "Interactive educational games designed to engage and entertain children",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "kubernates-demo",
+    "t": [],
+    "d_enriched": "Container orchestration showcase for scalable cloud deployments",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "lab-actions-npm-install",
+    "t": [],
+    "d_enriched": "Automated dependency management and package installation workflows for development teams",
+    "d_source": "claude"
+  },
+  {
+    "d": "A place for playing with angularjs",
+    "fork": false,
+    "l": "PHP",
+    "n": "lab-angular",
+    "t": []
+  },
+  {
+    "d": "A lab repo for Apollo GraphQL",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "lab-apollo-graphql",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "EJS",
+    "n": "lab-codespaces",
+    "t": [],
+    "d_enriched": "This is a quick node project template for demoing Codespaces. It is based off of the Azure node sample. It's great!!!",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "lab-docusaurus",
+    "t": [],
+    "d_enriched": "This website is built using Docusaurus, a modern static website generator.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "lab-expo",
+    "t": [],
+    "d_enriched": "Cross-platform mobile application framework for iOS and Android deployment",
+    "d_source": "claude"
+  },
+  {
+    "d": "A place for studying Node.js Express",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "lab-express",
+    "t": []
+  },
+  {
+    "d": "研究 GitHub 的一些东西",
+    "fork": false,
+    "l": null,
+    "n": "lab-github",
+    "t": [],
+    "d_enriched": "这是我用来测试研究 github 的地方，目前发现的问题有（不一定是和 github 有关...）",
+    "d_source": "readme"
+  },
+  {
+    "d": "A laboratory for Heroku hosting",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "lab-heroku-node",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "lab-heroku-php",
+    "t": [],
+    "d_enriched": "PHP application deployment environment for cloud hosting on Heroku",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "lab-javascript",
+    "t": [],
+    "d_enriched": "http://amiyasahu.com",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "lab-react",
+    "t": [],
+    "d_enriched": "Stateful application architecture with centralized data management for complex interfaces",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "lab-react-navigation",
+    "t": [],
+    "d_enriched": "Multi-screen navigation system for seamless user journeys across application views",
+    "d_source": "claude"
+  },
+  {
+    "d": "研究 Ruby 的地方",
+    "fork": false,
+    "l": null,
+    "n": "lab-ruby",
+    "t": [],
+    "d_enriched": "一个日本人发明的编程语言，类似 Basic 的语法，目前 Apple 等公司都有用 Ruby 语言。",
+    "d_source": "readme"
+  },
+  {
+    "d": "A study process to ThinkPHP framework",
+    "fork": false,
+    "l": "PHP",
+    "n": "lab-thinkphp",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "langchain-examples",
+    "t": [],
+    "d_enriched": "A collection of workflow patterns for building AI-powered language processing pipelines",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "langchain-lab",
+    "t": [],
+    "d_enriched": "A repo for practice langchain related technologies with morden tech stack.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Dockerfile",
+    "n": "langflow",
+    "t": [],
+    "d_enriched": "https://docs.langflow.org/getting-started-installation",
+    "d_source": "readme"
+  },
+  {
+    "d": "paypal dev demo based on laravel",
+    "fork": false,
+    "l": null,
+    "n": "laravel_paypal",
+    "t": []
+  },
+  {
+    "d": "study babel",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "learn-babel",
+    "t": [],
+    "d_enriched": "study babel",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "learn-babylon",
+    "t": [],
+    "d_enriched": "Interactive tutorials for creating immersive 3D web experiences and visualizations",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "learn-flask",
+    "t": [],
+    "d_enriched": "Training resource for building Python web applications with the Flask framework",
+    "d_source": "claude"
+  },
+  {
+    "d": "你可以 pork 本 repo 来实践学习 git 的使用",
+    "fork": false,
+    "l": null,
+    "n": "learn-git",
+    "t": []
+  },
+  {
+    "d": "Github is a version control service provider, but it is not just Git",
+    "fork": false,
+    "l": null,
+    "n": "learn-github",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Jupyter Notebook",
+    "n": "learn-jupyter",
+    "t": [],
+    "d_enriched": "Jupyter is a powerful note book program for data related work. It can used for print markdown, python, javascript, HTML code and even run the bash command.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Jupyter Notebook",
+    "n": "learn-llama",
+    "t": [],
+    "d_enriched": "Educational resource for mastering large language model integration and fine-tuning",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "learn-node-java",
+    "t": [],
+    "d_enriched": ",-----.,--. ,--. ,---. ,--.,------. ,------.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "learn-python",
+    "t": [],
+    "d_enriched": "Python programming education curriculum and learning resources",
+    "d_source": "claude"
+  },
+  {
+    "d": "source via https://github.com/ruanyf/react-demos",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "learn-reactjs",
+    "t": []
+  },
+  {
+    "d": "learning redux",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "learn-redux",
+    "t": [],
+    "d_enriched": "Educational resource for mastering application state management patterns",
+    "d_source": "claude"
+  },
+  {
+    "d": "A simple, single file implementation of Redux for quick learning ",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "Learn-Redux-1",
+    "t": []
+  },
+  {
+    "d": "Robot Operation System Study",
+    "fork": false,
+    "l": null,
+    "n": "learn-ros",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "learn-typescript",
+    "t": [],
+    "d_enriched": "https://www.typescriptlang.org/docs/handbook/",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "learn-webpack",
+    "t": [],
+    "d_enriched": "A repo to share what I have learn on webpack",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "learning-chinese-literature",
+    "t": [],
+    "d_enriched": "| title | description |",
+    "d_source": "readme"
+  },
+  {
+    "d": "刷题又不难，不为自己的懒惰找借口",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "leetcode-js",
+    "t": [],
+    "d_enriched": "刷题又不难，不为自己的懒惰找借口",
+    "d_source": "readme"
+  },
+  {
+    "d": "My frontend libraries",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "lib",
+    "t": []
+  },
+  {
+    "d": "How to live better and wealth?",
+    "fork": false,
+    "l": "HTML",
+    "n": "lifestyle",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "linkedin-auto-apply-agent-extension",
+    "t": [],
+    "d_enriched": "This Chrome extension automates the job application process on LinkedIn. It helps you apply to multiple jobs automatically, saving time in your job search.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "linkedin-job-application-agent",
+    "t": [],
+    "d_enriched": "This Python script automates the process of applying to \"Easy Apply\" jobs on LinkedIn for Frontend Engineer positions in the San Francisco Bay Area.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Full reference of linkedin answers for skill assessments, linkedin test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-poin, excel ...) ответы на квиз, LinkedIn quiz lösungen, linkedin quiz las respuestas",
+    "fork": true,
+    "l": null,
+    "n": "linkedin-skill-assessments-quizzes",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "liquidation",
+    "t": [],
+    "d_enriched": "A project used to clean up liquidation stocks.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "little-smart-brother",
+    "t": [],
+    "d_enriched": "- Comic Video Service 动画影片",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "live-p2p-chat",
+    "t": [],
+    "d_enriched": "Real-time peer-to-peer messaging platform for instant communication",
+    "d_source": "claude"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "liveagain-ai",
+    "t": [],
+    "d_enriched": "AI-powered content revival platform for repurposing and enhancing digital assets",
+    "d_source": "claude"
+  },
+  {
+    "d": "Inference code for LLaMA models",
+    "fork": true,
+    "l": null,
+    "n": "llama",
+    "t": []
+  },
+  {
+    "d": "A finance management advisor",
+    "fork": false,
+    "l": null,
+    "n": "llama-saving",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "local-tour",
+    "t": [],
+    "d_enriched": "Local tourism guide and attraction discovery platform for travelers",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "lounge-franchise-opportunities",
+    "t": [],
+    "d_enriched": "A modern, responsive website for UNI&CORE's Korean beauty lounge franchise opportunities in San Francisco.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "lunar-year",
+    "t": [],
+    "d_enriched": "Chinese lunar calendar converter for traditional date calculations",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": "Jupyter Notebook",
+    "n": "machinelearning",
+    "t": [],
+    "d_enriched": "Transforming business data into strategic insights using advanced machine l",
+    "d_source": "ollama"
+  },
+  {
+    "d": "The first native Mac GUI for Bitcoin, Litecoin and Alt Coin mining",
+    "fork": true,
+    "l": null,
+    "n": "MacMiner",
+    "t": []
+  },
+  {
+    "d": "Simple parser to allow addition of HTML attributes when writting markdown",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "markdown-attr",
+    "t": []
+  },
+  {
+    "d": "A markdown automatic",
+    "fork": false,
+    "l": null,
+    "n": "markdown-directive",
+    "t": []
+  },
+  {
+    "d": "Easily add classes to your markdown",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "markdown-it-classy",
+    "t": []
+  },
+  {
+    "d": "A Markdown parser for javascript",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "markdown-js",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "marketing",
+    "t": [],
+    "d_enriched": "JYTech is our official media technology partner.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "marketing-bluetwelve-studio",
+    "t": [],
+    "d_enriched": "Marketing campaign management and creative services portal for BlueTwelve Studio",
+    "d_source": "claude"
+  },
+  {
+    "d": "compare the best marketplaces you can sell your products.",
+    "fork": false,
+    "l": "HTML",
+    "n": "marketplaces-rank",
+    "t": []
+  },
+  {
+    "d": "create a usa mask stock map",
+    "fork": false,
+    "l": null,
+    "n": "mask-map-usa",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "mask-wholesale",
+    "t": [],
+    "d_enriched": "I'm trying to list all resource where we can find the mask or caronia virus protective products manufactures here.",
+    "d_source": "readme"
+  },
+  {
+    "d": "React components that implement Google's Material Design.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "material-ui",
+    "t": []
+  },
+  {
+    "d": "Material Design components for Angular 2",
+    "fork": true,
+    "l": "TypeScript",
+    "n": "material2",
+    "t": []
+  },
+  {
+    "d": "Multi-Channel Network",
+    "fork": false,
+    "l": null,
+    "n": "mcn-platform",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "mcpm",
+    "t": [],
+    "d_enriched": "python mcpm.py add \"filesystem npx -y @modelcontextprotocol/server-filesystem /path1 /path2\"",
+    "d_source": "readme"
+  },
+  {
+    "d": "tell me who are you?",
+    "fork": false,
+    "l": null,
+    "n": "me",
+    "t": []
+  },
+  {
+    "d": "MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "mean",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "meaningful-months",
+    "t": [],
+    "d_enriched": "01 Golden Black",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "media",
+    "t": [],
+    "d_enriched": "Talk about everything related to media.",
+    "d_source": "readme"
+  },
+  {
+    "d": "a media studio",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "media-studio",
+    "t": [],
+    "d_enriched": "a media studio to help business to create advertizing content or elements",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "medical-insurance-picker",
+    "t": [],
+    "d_enriched": "Comparison tool helping users select the right health insurance plan",
+    "d_source": "claude"
+  },
+  {
+    "d": "💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "medis",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "medtravel-china",
+    "t": [],
+    "d_enriched": "Dental tourism platform connecting international patients with top dental clinics in China. Built with Next.js.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "member-super-rentals",
+    "t": [],
+    "d_enriched": "This README outlines the details of collaborating on this Ember application.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A membership based e-commerce platform",
+    "fork": false,
+    "l": "CSS",
+    "n": "membership-commerce",
+    "t": []
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "HTML",
+    "n": "metamedia",
+    "t": []
+  },
+  {
+    "d": "a online social media platform",
+    "fork": false,
+    "l": null,
+    "n": "metaverse",
+    "t": []
+  },
+  {
+    "d": "Meteor, the JavaScript App Platform",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "meteor",
+    "t": []
+  },
+  {
+    "d": "A meteor demo project ",
+    "fork": false,
+    "l": "CSS",
+    "n": "meteor-dotku",
+    "t": []
+  },
+  {
+    "d": "Meteor中文版示例程序 | Meteor Demo in Chinese",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "MeteorDemo",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "mfdrama",
+    "t": [],
+    "d_enriched": "Drama and entertainment media streaming or content platform",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "micheal-travel",
+    "t": [],
+    "d_enriched": "| 景點 | 活動 |",
+    "d_source": "readme"
+  },
+  {
+    "d": "The Discover Meteor book's example app. ",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "Microscope",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": null,
+    "n": "microsearch",
+    "t": [],
+    "d_enriched": "Empower precise information retrieval for your business with microsearch.",
+    "d_source": "ollama"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "milan-pet",
+    "t": [],
+    "d_enriched": "Pet care and management platform for pet owners and service providers",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "MDX",
+    "n": "mintlify-docs",
+    "t": [],
+    "d_enriched": "Click on Use this template to copy the Mintlify starter kit. The starter kit contains examples including",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "mlm-sales-system",
+    "t": [],
+    "d_enriched": "A comprehensive Multi-Level Marketing (MLM) sales system powered by AI technology. Built with Next.js, Prisma, PostgreSQL, and Anthropic Claude.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "mobile-phone-plan-picker",
+    "t": [],
+    "d_enriched": "+--------------+----------------+-----------+",
+    "d_source": "readme"
+  },
+  {
+    "d": "Simple, scalable state management.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "mobx",
+    "t": []
+  },
+  {
+    "d": "MobX 中文文档",
+    "fork": true,
+    "l": "HTML",
+    "n": "MobX-Docs-CN",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "model-exchange",
+    "t": [],
+    "d_enriched": "Marketplace for discovering, sharing, and trading machine learning models across industries",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "mogutech",
+    "t": [],
+    "d_enriched": "weijingjaylin@gmail.com",
+    "d_source": "readme"
+  },
+  {
+    "d": "The MongoDB Database",
+    "fork": true,
+    "l": "C++",
+    "n": "mongo",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "mongodb-atlas-demo",
+    "t": [],
+    "d_enriched": "A sample of mongodb-atlas by using sampleairbnb database.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "monkey-king",
+    "t": [],
+    "d_enriched": "1. South Gate: Jade Emperor 玉皇大帝/Taishang Laojun 太上老君",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "mythology",
+    "t": [],
+    "d_enriched": "| Greek | Roman | China |",
+    "d_source": "readme"
+  },
+  {
+    "d": "🔍 A truly minimal replacement for Create-React-App.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "nano-react-app",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": "JavaScript",
+    "n": "native-webrtc",
+    "t": [],
+    "d_enriched": "Empower real-time communication across devices with Native WebRTC solutions",
+    "d_source": "ollama"
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": "Python",
+    "n": "ncbirth",
+    "t": [],
+    "d_enriched": "Track and analyze North Carolina birth data to inform public health strateg",
+    "d_source": "ollama"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "next-appointment-app",
+    "t": [],
+    "d_enriched": "A specialist based appointment app.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "next-few-days",
+    "t": [],
+    "d_enriched": "Short-term planning and scheduling tool for organizing upcoming activities",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "next-mdx",
+    "t": [],
+    "d_enriched": "Content management system with rich markdown authoring capabilities",
+    "d_source": "claude"
+  },
+  {
+    "d": "Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS ORM, Intl App Router, Mdx Docs User Actions Kit, SaaS Commerce Shop Pricing Payments, Dark Mode, Modern Full Stack, Free ▲ more stars → more features",
+    "fork": true,
+    "l": null,
+    "n": "next-react-stripe-store",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "next-transation",
+    "t": [],
+    "d_enriched": "Multi-language translation and localization service for global content",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": null,
+    "n": "NextChat",
+    "t": [],
+    "d_enriched": "Transforming communication for businesses with intuitive, user-centric chat",
+    "d_source": "ollama"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "nextjs-fastapi-starter",
+    "t": [],
+    "d_enriched": "This is a hybrid Next.js + Python app that uses Next.js as the frontend and FastAPI as the API backend. One great use case of this is to write Next.js apps that use Python AI libraries on the backend.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.",
+    "fork": true,
+    "l": null,
+    "n": "nextjs-openai-doc-search",
+    "t": []
+  },
+  {
+    "d": "an angular based events project",
+    "fork": false,
+    "l": "HTML",
+    "n": "ng-events",
+    "t": []
+  },
+  {
+    "d": "Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "ng-file-upload",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ng6",
+    "t": [],
+    "d_enriched": "This project was generated with Angular CLI version 6.2.9.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A simple, flexible, responsive, retina-ready jQuery lightbox plugin.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "Nivo-Lightbox",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "no-experience-required-income",
+    "t": [],
+    "d_enriched": "Doesn't seller require any skill training or marketing skill? Yes and no.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "node-command-ls",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "node-file-upload",
+    "t": [],
+    "d_enriched": "Server-side file upload handler for secure document management",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "node-file-upload-2",
+    "t": [],
+    "d_enriched": "Enhanced file upload service with advanced processing capabilities",
+    "d_source": "claude"
+  },
+  {
+    "d": "create a human resource application by using node",
+    "fork": false,
+    "l": null,
+    "n": "node-hr",
+    "t": []
+  },
+  {
+    "d": "Bridge API to connect with existing Java APIs.",
+    "fork": true,
+    "l": "C++",
+    "n": "node-java",
+    "t": []
+  },
+  {
+    "d": ":closed_book:《Node.js 包教不包会》",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "node-lessons",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "node-samples",
+    "t": [],
+    "d_enriched": "1. main.js simple express server",
+    "d_source": "readme"
+  },
+  {
+    "d": "A repo to try out Node.js",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "node-study",
+    "t": []
+  },
+  {
+    "d": "A comprehensive Node.js tutorial for beginners",
+    "fork": true,
+    "l": "CSS",
+    "n": "NodeBeginnerBook",
+    "t": []
+  },
+  {
+    "d": ":baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "nodeclub",
+    "t": []
+  },
+  {
+    "d": "用node做一个命令行式的qq客户端！",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "nodeqq",
+    "t": []
+  },
+  {
+    "d": "An open IDE for web and native mobile development, built on top of Atom ",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "nuclide",
+    "t": []
+  },
+  {
+    "d": "A reusable charting library written in d3.js",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "nvd3",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "nvidia",
+    "t": [],
+    "d_enriched": "对于 3D GPU 来说，最基本的功能只有两个: 顶点渲染和像素渲染，油 SP（流处理器）来完成。",
+    "d_source": "readme"
+  },
+  {
+    "d": "The unofficial OfferUp API.",
+    "fork": true,
+    "l": null,
+    "n": "offerup",
+    "t": []
+  },
+  {
+    "d": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",
+    "fork": true,
+    "l": null,
+    "n": "ollama",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ollama-python-api",
+    "t": [],
+    "d_enriched": "A self-hosted API gateway for Ollama with API key authentication, per-tier rate limiting, usage tracking, and a real-time monitoring dashboard.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ollama-web",
+    "t": [],
+    "d_enriched": "A minimal web-UI for talking to Ollama servers.",
+    "d_source": "readme"
+  },
+  {
+    "d": "a content manager framework base on thinkphp3.2",
+    "fork": true,
+    "l": "PHP",
+    "n": "onethink",
+    "t": []
+  },
+  {
+    "d": "A practice project with redux",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "online-date-with-redux",
+    "t": []
+  },
+  {
+    "d": "there are many free webinars runs automatically and keep generate incomes... and it is actually just selling course... what's the real cost behind it? It could be infinity!!!",
+    "fork": false,
+    "l": null,
+    "n": "online-education",
+    "t": []
+  },
+  {
+    "d": "Open Company Database",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "open-cb",
+    "t": []
+  },
+  {
+    "d": "A open sourced chat bot",
+    "fork": false,
+    "l": null,
+    "n": "open-chatbot",
+    "t": []
+  },
+  {
+    "d": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "fork": true,
+    "l": null,
+    "n": "open-webui",
+    "t": []
+  },
+  {
+    "d": "Demo Website: http://fnmili.com",
+    "fork": false,
+    "l": "HTML",
+    "n": "openfml",
+    "t": []
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "HTML",
+    "n": "openPhoneNumbersCSB",
+    "t": []
+  },
+  {
+    "d": "A open sourced search engine",
+    "fork": false,
+    "l": null,
+    "n": "opensearch",
+    "t": []
+  },
+  {
+    "d": "OperatorNext is an AI-powered intelligent browser automation platform that understands and executes complex browser tasks through natural language processing.",
+    "fork": true,
+    "l": null,
+    "n": "OperatorNext",
+    "t": []
+  },
+  {
+    "d": "有 300MB",
+    "fork": false,
+    "l": "HTML",
+    "n": "oracle-java-tutorial",
+    "t": [],
+    "d_enriched": "#Oracle Java Tutorial",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "orgchart",
+    "t": [],
+    "d_enriched": "Organizational chart builder for visualizing company structure and team hierarchies",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "os",
+    "t": [],
+    "d_enriched": "VirtualBox suggested few operation systems, they are:",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "overseas-chinese-kol-leaders",
+    "t": [],
+    "d_enriched": "很多人说中国人在海外存在 Glass Ceiling / Bamboo Ceiling (玻璃天花板)，到底如何突破这层的天花板呢？",
+    "d_source": "readme"
+  },
+  {
+    "d": "jQuery Responsive Carousel.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "OwlCarousel2",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "paper",
+    "t": [],
+    "d_enriched": "This is a project to help ppl to write paper.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Better Markdown Parser in PHP",
+    "fork": true,
+    "l": "PHP",
+    "n": "parsedown",
+    "t": []
+  },
+  {
+    "d": "Validate your forms, frontend, without writing a single line of javascript",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "Parsley.js",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "payment",
+    "t": [],
+    "d_enriched": "So far I have create several payment related project.",
+    "d_source": "readme"
+  },
+  {
+    "d": "one click subscribe/pay or unsubscribe from varied services",
+    "fork": false,
+    "l": null,
+    "n": "payment-automation",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "payment-gateways-rank",
+    "t": [],
+    "d_enriched": "There are many payment gateways in the market, but not all of them are easy to use, some of the gateways has a lot of constraint on cash your money.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Try to make tool to easily grab the build the pc builder with a certain budget.",
+    "fork": false,
+    "l": null,
+    "n": "pc-builder",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "pcb-quote",
+    "t": [],
+    "d_enriched": "Instant quoting tool for custom printed circuit board manufacturing orders",
+    "d_source": "claude"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "pcb-tech",
+    "t": [],
+    "d_enriched": "Full-service platform for PCB design, prototyping, and manufacturing solutions",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "pcbtech-header",
+    "t": [],
+    "d_enriched": "Branded navigation component for PCB Tech printed circuit board services",
+    "d_source": "claude"
+  },
+  {
+    "d": "A quick way to create an article",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "pen",
+    "t": []
+  },
+  {
+    "d": "Use github as storage for pen project",
+    "fork": false,
+    "l": null,
+    "n": "pen-storage-github",
+    "t": []
+  },
+  {
+    "d": "a community questing as for ChatGPT",
+    "fork": false,
+    "l": null,
+    "n": "people-ask",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "personal-detail-tool",
+    "t": [],
+    "d_enriched": "Personal information management and profile organization utility",
+    "d_source": "claude"
+  },
+  {
+    "d": "Open software engineering platform and fun adventure game",
+    "fork": true,
+    "l": "PHP",
+    "n": "phabricator",
+    "t": []
+  },
+  {
+    "d": "Go AI program which implements the AlphaGo Zero paper",
+    "fork": true,
+    "l": "C++",
+    "n": "PhoenixGo",
+    "t": []
+  },
+  {
+    "d": "partner with carku bettery power",
+    "fork": false,
+    "l": null,
+    "n": "phone-bettery-charging-rent-kiosks-station-map",
+    "t": [
+      "bettery",
+      "charge",
+      "charging",
+      "green-energy",
+      "map",
+      "phone"
+    ]
+  },
+  {
+    "d": "I'm trying to list some unknown phones, please share yours and welcome to indicate those phone number if you can.",
+    "fork": false,
+    "l": null,
+    "n": "phonecall",
+    "t": []
+  },
+  {
+    "d": "A project lister view by reading the directories.",
+    "fork": false,
+    "l": "PHP",
+    "n": "php-project-lister",
+    "t": []
+  },
+  {
+    "d": "get the class from shopnc",
+    "fork": false,
+    "l": "PHP",
+    "n": "php-validate",
+    "t": []
+  },
+  {
+    "d": "Just a file managment tool",
+    "fork": false,
+    "l": null,
+    "n": "php_dkDir",
+    "t": []
+  },
+  {
+    "d": " phpBB Development: phpBB is a popular open-source bulletin board written in PHP. This repository also contains the history of version 2.",
+    "fork": true,
+    "l": null,
+    "n": "phpbb",
+    "t": []
+  },
+  {
+    "d": "PHP Wrapper for the Flickr API",
+    "fork": true,
+    "l": "PHP",
+    "n": "phpflickr",
+    "t": []
+  },
+  {
+    "d": "The classic email sending library for PHP",
+    "fork": true,
+    "l": "PHP",
+    "n": "PHPMailer",
+    "t": []
+  },
+  {
+    "d": "The PHP Unit Testing framework.",
+    "fork": true,
+    "l": "PHP",
+    "n": "phpunit",
+    "t": []
+  },
+  {
+    "d": "Pico is a stupidly simple, blazing fast, flat file CMS.",
+    "fork": true,
+    "l": "PHP",
+    "n": "Pico",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "pipeline-inspection",
+    "t": [],
+    "d_enriched": "AI-powered real-time pipeline defect detection system using YOLO and TensorFlow Lite.",
+    "d_source": "readme"
+  },
+  {
+    "d": "The public-facing website for http://plnkr.co",
+    "fork": true,
+    "l": "CoffeeScript",
+    "n": "plunker_www",
+    "t": []
+  },
+  {
+    "d": "A simple HTML5, YouTube and Vimeo player",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "plyr",
+    "t": []
+  },
+  {
+    "d": "Both Facebook and Twitter are blocked by China. I wish there would be a worldwide political friendly social website.",
+    "fork": false,
+    "l": null,
+    "n": "political-friendly-social",
+    "t": []
+  },
+  {
+    "d": "A library to make creating CSS polyfills much easier.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "polyfill",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "portfolio",
+    "t": [],
+    "d_enriched": "Weijing Lin is a highly experienced up to staff level (L6). Within 10 years working experience, he has led multiple projects across multiple functional teams and success delivered the products to the market and help comp",
+    "d_source": "readme"
+  },
+  {
+    "d": "PostHTML is a tool to transform HTML/XML with JS plugins. By http://theprotein.io team",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "posthtml",
+    "t": []
+  },
+  {
+    "d": "Personal Protective Equipment (PPE) Communities Center",
+    "fork": false,
+    "l": "HTML",
+    "n": "ppex",
+    "t": []
+  },
+  {
+    "d": "A platform to manage PPE exchange market.",
+    "fork": false,
+    "l": null,
+    "n": "ppexm",
+    "t": []
+  },
+  {
+    "d": "Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "prepack",
+    "t": []
+  },
+  {
+    "d": "A pre booking tool alternative for turo",
+    "fork": false,
+    "l": "HTML",
+    "n": "prero",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "procurement-ppe",
+    "t": [],
+    "d_enriched": "Supply chain management system for sourcing personal protective equipment",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "product",
+    "t": [],
+    "d_enriched": "https://superwall.com/",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "programming-direction",
+    "t": [],
+    "d_enriched": "There are several things going in the community, but I might not involued that much, so I think I should create something for me to get deep into it.",
+    "d_source": "readme"
+  },
+  {
+    "d": "PromptPET: A comprehensive toolkit for Prompt Engineering, offering advanced tools for crafting, refining, and optimizing prompts and flow engineering processes",
+    "fork": true,
+    "l": null,
+    "n": "PromptPET",
+    "t": []
+  },
+  {
+    "d": "I think nowaday, we use data to help us predict the market, but everyone owns different source of the data. Who owns the best data and do the best job on their analyzing? Who is the most accurate prophet?",
+    "fork": false,
+    "l": null,
+    "n": "prophecy",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "psychology",
+    "t": [],
+    "d_enriched": "- 心理学是近代产物，1879年，冯特（Wilhelm Wundt）在德国莱比锡建立了第一个心理学实验室，标志着心理学从哲学分离，成为一门独立的科学。",
+    "d_source": "readme"
+  },
+  {
+    "d": "baidu cdn static files",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "public",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "python-flask-restful-api-demo",
+    "t": [],
+    "d_enriched": "A simple sample of using python flask to create a RESTful API",
+    "d_source": "readme"
+  },
+  {
+    "d": "Schedule a Python script with GitHub Actions",
+    "fork": true,
+    "l": "Python",
+    "n": "python-github-action-template",
+    "t": []
+  },
+  {
+    "d": "A sample project on Python, React and AWS tech stack",
+    "fork": false,
+    "l": null,
+    "n": "python-react-aws",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "python-react-rag",
+    "t": [],
+    "d_enriched": "1. setup your pincone account and fill up the evn",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "python-vercel",
+    "t": [],
+    "d_enriched": "Serverless Python application deployment and hosting solution",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "qixing",
+    "t": [],
+    "d_enriched": "Social platform for cycling enthusiasts to share rides and connect",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "qixing-next",
+    "t": [],
+    "d_enriched": "Cycling community hub connecting riders with routes, events, and gear",
+    "d_source": "claude"
+  },
+  {
+    "d": "new version  of qixing next",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "qixing-next-app",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "qrcode",
+    "t": [],
+    "d_enriched": "So far the free QRCode availiable only at",
+    "d_source": "readme"
+  },
+  {
+    "d": "Quickly create GitHub gists",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "quick-gist",
+    "t": []
+  },
+  {
+    "d": "a quickly way to write your PO",
+    "fork": false,
+    "l": null,
+    "n": "quick-po",
+    "t": []
+  },
+  {
+    "d": "Angular 2 QuickStart - source from the documentation",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "quickstart",
+    "t": []
+  },
+  {
+    "d": "Firebase Quickstart Samples for Web",
+    "fork": true,
+    "l": "HTML",
+    "n": "quickstart-js",
+    "t": []
+  },
+  {
+    "d": "a reference link",
+    "fork": false,
+    "l": "HTML",
+    "n": "r",
+    "t": [],
+    "d_enriched": "DotKu.us' referal program.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "rag-demo",
+    "t": [],
+    "d_enriched": "1. pip3 install -r requirements.txt",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ragie-application-demo",
+    "t": [],
+    "d_enriched": "Enterprise knowledge retrieval and document intelligence application",
+    "d_source": "claude"
+  },
+  {
+    "d": "一个随机生成中文名的模块",
+    "fork": true,
+    "l": null,
+    "n": "randomCname",
+    "t": []
+  },
+  {
+    "d": "There are many scammers, it is hard to stop them. Usually, the fraud fund might be small (less than $10K) and the police might not even take seriously of the criminal case report. We should work together to stop them.",
+    "fork": false,
+    "l": "HTML",
+    "n": "rate-the-business",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ratemymanager",
+    "t": [],
+    "d_enriched": "bossreportcard.com",
+    "d_source": "readme"
+  },
+  {
+    "d": ":tophat: A universal React-compatible render engine.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "rax",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "react-appointment-app",
+    "t": [],
+    "d_enriched": "Appointment scheduling and booking system for service-based businesses",
+    "d_source": "claude"
+  },
+  {
+    "d": "Bootstrap 3 components built with React",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "react-bootstrap",
+    "t": []
+  },
+  {
+    "d": "A tool for react component testing",
+    "fork": false,
+    "l": null,
+    "n": "react-component-tester",
+    "t": []
+  },
+  {
+    "d": "a collection of simple demos of React.js",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "react-demos",
+    "t": []
+  },
+  {
+    "d": "React bindings for Firebase",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "react-firebase",
+    "t": []
+  },
+  {
+    "d": "GoJS React integration",
+    "fork": true,
+    "l": "TypeScript",
+    "n": "react-gojs",
+    "t": []
+  },
+  {
+    "d": "Declarative hotkey and focus area management for React",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "react-hotkeys",
+    "t": []
+  },
+  {
+    "d": "create an AI based HTML component",
+    "fork": false,
+    "l": null,
+    "n": "react-html-ai-tag",
+    "t": []
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "HTML",
+    "n": "react-login",
+    "t": []
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "HTML",
+    "n": "react-login-csb",
+    "t": []
+  },
+  {
+    "d": "Use React to create a todo list for practice",
+    "fork": false,
+    "l": null,
+    "n": "react-material-todo",
+    "t": []
+  },
+  {
+    "d": "React wrapper for medium-editor",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "react-medium-editor",
+    "t": []
+  },
+  {
+    "d": "🚀 tiny & fast lib for react native image viewer pan and zoom",
+    "fork": true,
+    "l": "TypeScript",
+    "n": "react-native-image-viewer",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "react-native-lab",
+    "t": [],
+    "d_enriched": "Mobile development environment for building cross-platform native applications",
+    "d_source": "claude"
+  },
+  {
+    "d": "Material Design for React Native (Android & iOS)",
+    "fork": true,
+    "l": null,
+    "n": "react-native-paper",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "react-native-store",
+    "t": [],
+    "d_enriched": "Mobile commerce platform with GitHub-integrated product management",
+    "d_source": "claude"
+  },
+  {
+    "d": "React Router 官方文档中文翻译",
+    "fork": true,
+    "l": null,
+    "n": "react-router-cn",
+    "t": []
+  },
+  {
+    "d": "Drag-and-drop sortable component for nested data and hierarchies",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "react-sortable-tree",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "react-ssr-example",
+    "t": [],
+    "d_enriched": "Server-side rendering solution for fast initial page loads and improved search engine visibility",
+    "d_source": "claude"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "react-todo-list",
+    "t": [],
+    "d_enriched": "Edit on StackBlitz ⚡️",
+    "d_source": "readme"
+  },
+  {
+    "d": "React Tree View Component. Data-Driven, Fast, Efficient and Customisable.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "react-treebeard",
+    "t": []
+  },
+  {
+    "d": "The React documentation website",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "reactjs.org",
+    "t": []
+  },
+  {
+    "d": "A personal things",
+    "fork": false,
+    "l": null,
+    "n": "readme",
+    "t": [],
+    "d_enriched": "A personal things",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "readyrx-lab-testing",
+    "t": [],
+    "d_enriched": "Lab testing application: lab orders, result ingestion (FHIR), patient biomarker history, and reference data management. Backend API (Express + Firestore) and React frontend (Vite + Tailwind).",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "real-estate",
+    "t": [],
+    "d_enriched": "House management: collins-mgmt.com",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "realtime-chat-app",
+    "t": [],
+    "d_enriched": "A real-time 1-to-1 chat application built with FastAPI, PostgreSQL, and React. Users can see online users and exchange messages in real-time using WebSockets.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Is there anyway civil could contribute on recycling product and protect environment?",
+    "fork": false,
+    "l": null,
+    "n": "recycle-and-donation",
+    "t": []
+  },
+  {
+    "d": "Predictable state container for JavaScript apps",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "redux",
+    "t": []
+  },
+  {
+    "d": "Redux 中文文档",
+    "fork": true,
+    "l": null,
+    "n": "redux-in-chinese",
+    "t": []
+  },
+  {
+    "d": "ReduxQL is a dispatch based query framework",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "ReduxQL",
+    "t": []
+  },
+  {
+    "d": "provide china registration service",
+    "fork": false,
+    "l": null,
+    "n": "registration-china",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "regular-action-example",
+    "t": [],
+    "d_enriched": "Checkout tutorial here: https://github.com/patrickloeber/python-github-action-template",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "regular-expression",
+    "t": [],
+    "d_enriched": "Pattern matching toolkit for text search and data validation workflows",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "relationship",
+    "t": [],
+    "d_enriched": "- 慕强论，每个人都喜欢对方强大的；而弱小就会失去吸引力（如果向让人讨厌，就把自己变得黏糊糊的）",
+    "d_source": "readme"
+  },
+  {
+    "d": "Use websocket as interface for RESTful API",
+    "fork": false,
+    "l": null,
+    "n": "restfulsocket",
+    "t": []
+  },
+  {
+    "d": "A PHP REST server for providing a very light-weight REST API.",
+    "fork": true,
+    "l": "PHP",
+    "n": "RestServer",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "resume-ai",
+    "t": [],
+    "d_enriched": "A CV (Curriculum Vitae) and a resume are both documents used for job applications, but they have distinct differences in terms of content, length, and purpose.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "revenue-simulation",
+    "t": [],
+    "d_enriched": "Financial modeling tool for forecasting business revenue across different scenarios",
+    "d_source": "claude"
+  },
+  {
+    "d": "a loading screen demo using react native",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "rn-loading-screen",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "robot",
+    "t": [],
+    "d_enriched": "1. 1920 年捷克文学家卡雷尔·恰佩克出剧《Rossum's Universal Robots》",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "ronghe-electronic",
+    "t": [],
+    "d_enriched": "Business website for Ronghe Electronic components and equipment distribution",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "ros-ai",
+    "t": [],
+    "d_enriched": "A serials demo of ROS and LLM interaction.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "C++",
+    "n": "ros-hello-world",
+    "t": [],
+    "d_enriched": "Foundational robotics operating system integration for autonomous systems development",
+    "d_source": "claude"
+  },
+  {
+    "d": "High performance nodejs framework",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "rrestjs",
+    "t": []
+  },
+  {
+    "d": "the rtr app for quick submiting",
+    "fork": false,
+    "l": null,
+    "n": "rtr",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "sample-data-set",
+    "t": [],
+    "d_enriched": "Feel free to contribute any data you want to log",
+    "d_source": "readme"
+  },
+  {
+    "d": "WebRTC Web demos and samples",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "samples",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "san-francisco",
+    "t": [],
+    "d_enriched": "San Francisco city guide featuring local attractions, services, and neighborhood information",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "san-francisco-bay-area-solar-panel",
+    "t": [],
+    "d_enriched": "Power Transfer System $6000~$8000",
+    "d_source": "readme"
+  },
+  {
+    "d": "Code to demonstrate principles behind blockchains",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "SavjeeCoin",
+    "t": []
+  },
+  {
+    "d": "Open sourced Bootstrap themed Angular 9 starter project.",
+    "fork": true,
+    "l": null,
+    "n": "sb-clean-blog-angular",
+    "t": []
+  },
+  {
+    "d": "don't know what they are doing...",
+    "fork": false,
+    "l": null,
+    "n": "scam-list",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "school",
+    "t": [],
+    "d_enriched": "All about schools...",
+    "d_source": "readme"
+  },
+  {
+    "d": "Screenshot extension for Google Chrome",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "screenshot-extension",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "sdg-ai-business-card",
+    "t": [],
+    "d_enriched": "An AI-powered digital business card for Jay Lin, Marketing Manager at BannerShop Inc.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Simple, secure tokens for authentication, access keys, sessions etc.",
+    "fork": true,
+    "l": null,
+    "n": "secure-token",
+    "t": []
+  },
+  {
+    "d": "fork ans sell",
+    "fork": false,
+    "l": null,
+    "n": "sell",
+    "t": [],
+    "d_enriched": "For gitters can easily fork and sale their product online.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Semantic is a UI component framework based around useful principles from natural language.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "Semantic-UI",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "sentence-improvement-cn",
+    "t": [],
+    "d_enriched": "Chinese text refinement tool that enhances writing clarity and grammar",
+    "d_source": "claude"
+  },
+  {
+    "d": "The Sequelize CLI",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "sequelize-cli-typescript",
+    "t": []
+  },
+  {
+    "d": "a solution for react onChange/onChangeText for float number",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "setNumber",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "sf-drycleaning-alliance",
+    "t": [],
+    "d_enriched": "一个展示旧金山干洗店联盟信息的网站，提供会员店铺展示和加盟申请功能。",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "sf-tcm-association",
+    "t": [],
+    "d_enriched": "San Francisco Traditional Chinese Medicine association connecting practitioners and patients",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "sfbayarea-appraisal",
+    "t": [],
+    "d_enriched": "Professional appraisal and authentication services for antiques, art, and collectibles in the San Francisco Bay Area.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "share-car",
+    "t": [],
+    "d_enriched": "Car sharing and ride coordination platform for group transportation",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Jupyter Notebook",
+    "n": "sharing-github",
+    "t": [],
+    "d_enriched": "Interactive notebook tutorials for collaborative code sharing and version control workflows",
+    "d_source": "claude"
+  },
+  {
+    "d": "A marketing service ",
+    "fork": false,
+    "l": null,
+    "n": "SheepCom",
+    "t": [],
+    "d_enriched": "A marketing service",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "shop-agent",
+    "t": [],
+    "d_enriched": "1. 宣传内容(Video)等",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "shopdineguide-app",
+    "t": [],
+    "d_enriched": "Local discovery app helping users find the best shopping and dining experiences nearby",
+    "d_source": "claude"
+  },
+  {
+    "d": "用于搭建 cnNewyork.com 研究 shopnc (33hao v3-b11)",
+    "fork": false,
+    "l": "PHP",
+    "n": "shopnc",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "PHP",
+    "n": "ShopNC-B2B2C",
+    "t": [],
+    "d_enriched": "version: 20150302",
+    "d_source": "readme"
+  },
+  {
+    "d": "ShopNC 友情链接",
+    "fork": false,
+    "l": "CSS",
+    "n": "shopnc-friendship-links",
+    "t": [],
+    "d_enriched": "&#64;author Weijing Jay Lin <44219991@qq.com>",
+    "d_source": "readme"
+  },
+  {
+    "d": "the goal is to create a shop for personal usage",
+    "fork": false,
+    "l": "PHP",
+    "n": "shopnc-minion",
+    "t": []
+  },
+  {
+    "d": "ShopNC 批量推荐更新",
+    "fork": false,
+    "l": "PHP",
+    "n": "shopnc-patch-bundle-rcm",
+    "t": [],
+    "d_enriched": "适用于 ShopNC 201401162490",
+    "d_source": "readme"
+  },
+  {
+    "d": "基于溢汇商城版本修改的 ShopNC，2014 年版本",
+    "fork": false,
+    "l": "PHP",
+    "n": "shopnc-yhmall",
+    "t": []
+  },
+  {
+    "d": "基于运维舫共享的好商城(201511)版本制作",
+    "fork": false,
+    "l": "PHP",
+    "n": "shopnc_cnnewyork",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "shopping-agent",
+    "t": [],
+    "d_enriched": "Intelligent shopping assistant that helps users find and compare products",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "shopping-review",
+    "t": [],
+    "d_enriched": "| Merchanat | Rank | Note | Review |",
+    "d_source": "readme"
+  },
+  {
+    "d": "A Markdown to HTML converter written in Javascript",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "showdown",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "sienovo-cn",
+    "t": [],
+    "d_enriched": "基于先进的人工智能技术，为政府机构提供全方位的数字化转型解决方案。",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "MDX",
+    "n": "sienovo-intl",
+    "t": [],
+    "d_enriched": "International business solutions and cross-border commerce platform for global enterprises",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "sih-office-desk",
+    "t": [],
+    "d_enriched": "A site to sale office desks.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "silicon-valley",
+    "t": [],
+    "d_enriched": "2024 年，重新审视硅谷文化。",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "silicon-valley-frontend",
+    "t": [],
+    "d_enriched": "There are many industry events for frontend engineers in the Bay Area, some examples include:",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "simple-b2b2c",
+    "t": [],
+    "d_enriched": "1. Register Your Businese as Supplier/Vendor to retrive the excel sheet of Japanese products from tenso-japan.com",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "simple-cam-app",
+    "t": [],
+    "d_enriched": "A responsive camera application built with Next.js that allows users to capture photos using their device camera.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A simple php douban oauth2 client",
+    "fork": true,
+    "l": "PHP",
+    "n": "simple-douban-oauth2",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "simple-redirector",
+    "t": [],
+    "d_enriched": "URL redirection service for managing link routing and traffic flow",
+    "d_source": "claude"
+  },
+  {
+    "d": "weave trading company",
+    "fork": false,
+    "l": "HTML",
+    "n": "sinjo-industrial-co",
+    "t": []
+  },
+  {
+    "d": "A simple demo used SkyRTC",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "SkyRTC-demo",
+    "t": []
+  },
+  {
+    "d": "Run a raffle on a blockchain using Smart Contracts and cryptocurrencies",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "smart-raffle",
+    "t": []
+  },
+  {
+    "d": "a sms service",
+    "fork": false,
+    "l": null,
+    "n": "sms",
+    "t": [],
+    "d_enriched": "| Service Provider | Pricing | API |",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "social-commerce",
+    "t": [],
+    "d_enriched": "We provide numbers of Medical / non-medial PPE products and service.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "social-medial-signals-monitor",
+    "t": [],
+    "d_enriched": "Social media monitoring dashboard for tracking brand mentions and engagement signals",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "software-architect-interview-questions-and-answers",
+    "t": [],
+    "d_enriched": "As an Software Architecture, most the the role would be foucing on define the product requirements and dealing with architectural trade-offs. It must be a technically decision maker.",
+    "d_source": "readme"
+  },
+  {
+    "d": "my personal interview preparation sharing",
+    "fork": false,
+    "l": null,
+    "n": "software-engineer-interview",
+    "t": []
+  },
+  {
+    "d": "A automatically job spider.",
+    "fork": false,
+    "l": null,
+    "n": "software-engineer-job-hunter",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "software-outsource",
+    "t": [],
+    "d_enriched": "- virtualemployee.com",
+    "d_source": "readme"
+  },
+  {
+    "d": "The Solidity Contract-Oriented Programming Language",
+    "fork": true,
+    "l": "C++",
+    "n": "solidity",
+    "t": []
+  },
+  {
+    "d": "a micro frontend component",
+    "fork": false,
+    "l": null,
+    "n": "something-went-wrong",
+    "t": []
+  },
+  {
+    "d": "Takes a json-file and return a copy of the same file, but sorted",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "sort-json",
+    "t": []
+  },
+  {
+    "d": "someone who spam me would log over here",
+    "fork": false,
+    "l": null,
+    "n": "spam",
+    "t": []
+  },
+  {
+    "d": "The Sphinx documentation generator",
+    "fork": true,
+    "l": null,
+    "n": "sphinx",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "spiders",
+    "t": [],
+    "d_enriched": "https://docs.scrapy.org/en/0.8/topics/scrapyd.html",
+    "d_source": "readme"
+  },
+  {
+    "d": "Spring integration for MyBatis 3",
+    "fork": true,
+    "l": "Java",
+    "n": "spring",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Java",
+    "n": "spring-boot-web-cors-free",
+    "t": [],
+    "d_enriched": "1. Import from \"complete\" folder",
+    "d_source": "readme"
+  },
+  {
+    "d": "Main repository of Strongly-Typed Javascript - Java to Javascript transpiler",
+    "fork": true,
+    "l": "Java",
+    "n": "st-js",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "standard-ppewholesale-us",
+    "t": [],
+    "d_enriched": "| Product Name | Brand | pc/pallet | pallet/truck | pc/ 40 truck |",
+    "d_source": "readme"
+  },
+  {
+    "d": "A full page image slider Bootstrap HTML template created by Start Bootstrap",
+    "fork": true,
+    "l": "HTML",
+    "n": "startbootstrap-full-slider",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "startups",
+    "t": [],
+    "d_enriched": "| Name | Credit | URL",
+    "d_source": "readme"
+  },
+  {
+    "d": "Website containing the complete listing of static site generators",
+    "fork": true,
+    "l": "CoffeeScript",
+    "n": "staticsitegenerators-website",
+    "t": []
+  },
+  {
+    "d": "The blockchain for Smart Media Tokens (SMTs) and decentralized applications.",
+    "fork": true,
+    "l": "C++",
+    "n": "steem",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "storage-comparison",
+    "t": [],
+    "d_enriched": "> Pricing for Google One starts at 100GB for $1.99, 200GB for $2.99,",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "storybook_taskbox",
+    "t": [],
+    "d_enriched": "Task management interface with organized workflows for tracking and completing assignments",
+    "d_source": "claude"
+  },
+  {
+    "d": "Instant and elegant Markdown documents in the browser",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "strapdown",
+    "t": []
+  },
+  {
+    "d": "general information share platform",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "stream",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": "Python",
+    "n": "streamlit-apps",
+    "t": [],
+    "d_enriched": "Empower real-time data analysis and decision-making with our Streamlit-powe",
+    "d_source": "ollama"
+  },
+  {
+    "d": "Example Streamlit app that you can fork to test out share.streamlit.io",
+    "fork": true,
+    "l": null,
+    "n": "streamlit-example",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "streamlit-matplotlib",
+    "t": [],
+    "d_enriched": "Interactive data visualization dashboard for business analytics",
+    "d_source": "claude"
+  },
+  {
+    "d": "DotKu Studio Official Website",
+    "fork": false,
+    "l": "HTML",
+    "n": "studio",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "styled-components-chat",
+    "t": [],
+    "d_enriched": "A responsive website using React JS with a chatbot interface, navigation elements, and dynamic content handling.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A subscriber system",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "subscriber",
+    "t": [],
+    "d_enriched": "npm run dev",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "subscription-service",
+    "t": [],
+    "d_enriched": "Recurring billing platform for managing subscription-based revenue",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "sunfront",
+    "t": [],
+    "d_enriched": "Sunshine-themed frontend interface for weather or solar energy visualization",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "supabase-brodcast-demo",
+    "t": [],
+    "d_enriched": "- Create React App.",
+    "d_source": "readme"
+  },
+  {
+    "d": "a service center for e-commerce business",
+    "fork": false,
+    "l": null,
+    "n": "supply-chain-management",
+    "t": []
+  },
+  {
+    "d": "a php framework based on ThinkPHP, combined with angularJS and bootstrap",
+    "fork": false,
+    "l": "PHP",
+    "n": "tabphp",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "tap2eat",
+    "t": [],
+    "d_enriched": "Mobile ordering solution enabling quick food pickup and contactless restaurant dining",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "tasks-limo",
+    "t": [],
+    "d_enriched": "Limousine service task coordination and booking management system",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "tatwong",
+    "t": [],
+    "d_enriched": "Professional portfolio and personal branding website",
+    "d_source": "claude"
+  },
+  {
+    "d": "ThinkCMFX ,based on ThinkPHP 3.2.3, it is same with ThinkCMF",
+    "fork": true,
+    "l": "PHP",
+    "n": "tcshop",
+    "t": []
+  },
+  {
+    "d": "How to build a successful team?",
+    "fork": false,
+    "l": null,
+    "n": "team",
+    "t": []
+  },
+  {
+    "d": "I might want to write a book about dev tech",
+    "fork": false,
+    "l": "Hack",
+    "n": "tech",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "HTML",
+    "n": "techfront",
+    "t": [],
+    "d_enriched": "Technology news and insights portal for industry professionals",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "techfront-ai",
+    "t": [],
+    "d_enriched": "curl 'https://julep-proxy.vercel.app/api' \\",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "techfront-ai-proxy",
+    "t": [],
+    "d_enriched": "This is a Next.js v14 project bootstrapped with create-next-app. It is a reference on how to integrate commonly used features within Netlify for Next.js.",
+    "d_source": "readme"
+  },
+  {
+    "d": "OpenAI/ChatGPT Proxy",
+    "fork": true,
+    "l": "TypeScript",
+    "n": "techfront-openai-proxy",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "TechTree",
+    "t": [],
+    "d_enriched": "Hello, world! This is Jay from San Francisco. Well, While I was looking for a Software Engineer last couple weeks in San Francisco Bay Area, I realized that there are some new technologies are popular in the Bay Area rig",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "tencentyun-bucket-manager",
+    "t": [],
+    "d_enriched": "Management dashboard for Tencent Cloud object storage buckets and file operations",
+    "d_source": "claude"
+  },
+  {
+    "d": "基于腾讯云搭建的图片存储服务",
+    "fork": false,
+    "l": "PHP",
+    "n": "tencentyun-elite",
+    "t": [],
+    "d_enriched": "一个基于腾讯云(qcloud.com/tencentyun)的万象优图制作的应用",
+    "d_source": "readme"
+  },
+  {
+    "d": "基于腾讯云万象优图的服务搭建的管理后台",
+    "fork": false,
+    "l": "PHP",
+    "n": "tencentyun-image-admin",
+    "t": [],
+    "d_enriched": "1. 使用 composer 来安装",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": "PHP",
+    "n": "tencentyun-image-php",
+    "t": [],
+    "d_enriched": "Streamline image management for businesses with robust PHP solutions.",
+    "d_source": "ollama"
+  },
+  {
+    "d": "Customization Development Based on Discuz_X3.2",
+    "fork": false,
+    "l": "PHP",
+    "n": "tensoDiscuz_X3.2",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "tensorflow-gpu",
+    "t": [],
+    "d_enriched": "GPU-accelerated machine learning pipeline for high-performance model training",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "test",
+    "t": [],
+    "d_enriched": "Quality assurance sandbox for validating integrations and workflows",
+    "d_source": "claude"
+  },
+  {
+    "d": "A tool to help test CORS requests",
+    "fork": true,
+    "l": null,
+    "n": "test-cors.org",
+    "t": []
+  },
+  {
+    "d": "the testing work for thinkphp 5",
+    "fork": false,
+    "l": "PHP",
+    "n": "testThink5",
+    "t": []
+  },
+  {
+    "d": "A colab gradio web UI for running Large Language Models",
+    "fork": true,
+    "l": null,
+    "n": "text-generation-webui-colab",
+    "t": []
+  },
+  {
+    "d": "ThinkPHP5 全新设计的基于PHP5.4的ThinkPHP分支版本",
+    "fork": true,
+    "l": "PHP",
+    "n": "think",
+    "t": []
+  },
+  {
+    "d": "用于测试 thinkphp-controller",
+    "fork": false,
+    "l": "PHP",
+    "n": "thinkphp-controller",
+    "t": []
+  },
+  {
+    "d": "A English Translation Guide for ThinkPHP PHP Framework",
+    "fork": false,
+    "l": "Less",
+    "n": "thinkphp-english-manual",
+    "t": []
+  },
+  {
+    "d": "I'm trying to create a sub module of thinkphp document, since github won't allow make branch as sub folder.",
+    "fork": false,
+    "l": null,
+    "n": "thinkphp-guide-3.2.3",
+    "t": []
+  },
+  {
+    "d": "thinkphp-model test",
+    "fork": false,
+    "l": "PHP",
+    "n": "thinkphp-model",
+    "t": [],
+    "d_enriched": "- sampledb.csv 是案例数据",
+    "d_source": "readme"
+  },
+  {
+    "d": "还没有空去研究 ThinkPHP 5，自己写了一个基于 ThinkPHP 3.2 的 API  ",
+    "fork": false,
+    "l": "PHP",
+    "n": "thinkphp-restful-api",
+    "t": []
+  },
+  {
+    "d": "A user moduler based on thinkphp",
+    "fork": false,
+    "l": "PHP",
+    "n": "thinkphp-user",
+    "t": []
+  },
+  {
+    "d": "一个基于 Thinkphp 的建议验证码登录实例",
+    "fork": false,
+    "l": "PHP",
+    "n": "thinkphp-verify-login",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "PHP",
+    "n": "thinkphp_bootstrap",
+    "t": [],
+    "d_enriched": "本代码合并了 ThinkPHP 3.2.3 与 Bootstrap 3.3.5",
+    "d_source": "readme"
+  },
+  {
+    "d": "Paypal demo for ThinkPHP",
+    "fork": false,
+    "l": null,
+    "n": "thinkphp_paypal",
+    "t": []
+  },
+  {
+    "d": "ThinkPHPWithBootstrap",
+    "fork": true,
+    "l": "PHP",
+    "n": "ThinkPHPWithBootstrap",
+    "t": []
+  },
+  {
+    "d": "基于ThinkPHP的各大开放平台 Open API SDK 扩展。",
+    "fork": true,
+    "l": "PHP",
+    "n": "ThinkSDK",
+    "t": []
+  },
+  {
+    "d": "Tenso service based on ThinkPHP framework",
+    "fork": false,
+    "l": "PHP",
+    "n": "thinktenso",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "three-character-classic",
+    "t": [],
+    "d_enriched": "《三字经》是宋朝王应麟所作，随着时间的推移，在《三字经》的内容上，不同历史时期皆有所修改或增加。",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": "JavaScript",
+    "n": "three-fbx-loader",
+    "t": [],
+    "d_enriched": "Streamlines complex FBX asset integration for seamless 3D model deployment",
+    "d_source": "ollama"
+  },
+  {
+    "d": "JavaScript 3D library.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "three.js",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "threejs-books",
+    "t": [
+      "3d",
+      "threejs",
+      "web3d"
+    ],
+    "d_enriched": "- https://discoverthreejs.com/",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "CSS",
+    "n": "timeline",
+    "t": [],
+    "d_enriched": "BC 27 ~ AD 476, Roman Empire",
+    "d_source": "readme"
+  },
+  {
+    "d": "JavaScript doesn't provide abbreviations list, and moment.js might be overkill for my project, so I create a package and get the data from https://en.wikipedia.org/wiki/List_of_time_zone_abbreviations.",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "timezone-abbreviations",
+    "t": []
+  },
+  {
+    "d": "List of timezones",
+    "fork": true,
+    "l": null,
+    "n": "timezones-list",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "tinic",
+    "t": [],
+    "d_enriched": "You want to share something, but you also want to make money, so how?!",
+    "d_source": "readme"
+  },
+  {
+    "d": "TikTok shop link",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "tklink",
+    "t": [],
+    "d_enriched": "This app help you generating a better link for you tiktok shop.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A food solution",
+    "fork": false,
+    "l": null,
+    "n": "todays-special",
+    "t": [],
+    "d_enriched": "Your lunchbox solution.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "todomvc",
+    "t": [],
+    "d_enriched": "This project template was built with Create React App, which provides a simple way to start React projects with no build configuration needed.",
+    "d_source": "readme"
+  },
+  {
+    "d": "An extension to GeoJSON that encodes topology.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "topojson",
+    "t": []
+  },
+  {
+    "d": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",
+    "fork": true,
+    "l": "Python",
+    "n": "tornado",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "toyokou-tenso_japan",
+    "t": [],
+    "d_enriched": "Package forwarding and logistics service platform for Japan-based shipping",
+    "d_source": "claude"
+  },
+  {
+    "d": "定制修改记录",
+    "fork": false,
+    "l": "HTML",
+    "n": "tp-shop",
+    "t": [],
+    "d_enriched": "master 版本用于 1.2.9 版本的定制记录",
+    "d_source": "readme"
+  },
+  {
+    "d": "A Wordpress API System based on ThinkPHP 5",
+    "fork": false,
+    "l": "PHP",
+    "n": "tpapi_wordpress",
+    "t": []
+  },
+  {
+    "d": "shop system base on thinkphp",
+    "fork": false,
+    "l": "PHP",
+    "n": "tpshop",
+    "t": []
+  },
+  {
+    "d": "topshop development note",
+    "fork": false,
+    "l": null,
+    "n": "tpshop-dev-note",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "trace3-football",
+    "t": [],
+    "d_enriched": "Football analytics and team performance tracking dashboard for Trace3 sports initiatives",
+    "d_source": "claude"
+  },
+  {
+    "d": "Transcription for youtube",
+    "fork": false,
+    "l": null,
+    "n": "transcription",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "PHP",
+    "n": "translation_center",
+    "t": [],
+    "d_enriched": "#Translation Center",
+    "d_source": "readme"
+  },
+  {
+    "d": "PHP Transmission API client",
+    "fork": true,
+    "l": "PHP",
+    "n": "transmission-php",
+    "t": []
+  },
+  {
+    "d": "A easy way to log your trip",
+    "fork": false,
+    "l": null,
+    "n": "trip-list",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": true,
+    "l": "JavaScript",
+    "n": "truffle_eth_class2",
+    "t": [],
+    "d_enriched": "Transforming Ethereum token management for businesses with intuitive JavaSc",
+    "d_source": "ollama"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "try-react-native-photo-editor",
+    "t": [],
+    "d_enriched": "Mobile photo editing suite with filters, cropping, and enhancement tools",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Vue",
+    "n": "tso-vue-project",
+    "t": [],
+    "d_enriched": "This template should help get you started developing with Vue 3 in Vite.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "tsoai-documentation",
+    "t": [],
+    "d_enriched": "TSOai 文档库是 TSOai 的官方文档，它提供了 TSOai 的详细介绍、产品介绍、使用教程等信息。",
+    "d_source": "readme"
+  },
+  {
+    "d": "Spring Security and Angular:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.",
+    "fork": true,
+    "l": null,
+    "n": "tut-spring-security-and-angular-js",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "twillio-consent",
+    "t": [],
+    "d_enriched": "Date: 2024-09-12",
+    "d_source": "readme"
+  },
+  {
+    "d": "Let's take twitter back again?!",
+    "fork": false,
+    "l": null,
+    "n": "twitter",
+    "t": []
+  },
+  {
+    "d": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "fork": true,
+    "l": "TypeScript",
+    "n": "TypeScript",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "unincore-markets-selector",
+    "t": [],
+    "d_enriched": "A beautiful landing page for an international beauty store with region selection for China and International customers.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "union-et-printing",
+    "t": [],
+    "d_enriched": "Commercial printing services platform for business cards, marketing materials, and custom orders",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "union-french-cleaners",
+    "t": [],
+    "d_enriched": "Online booking and service portal for Union French Cleaners dry cleaning and laundry",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "universal-alien-search-organization",
+    "t": [],
+    "d_enriched": "It is more like a religion that:",
+    "d_source": "readme"
+  },
+  {
+    "d": "Help universe getting better regardless gender, race, age... etc.",
+    "fork": false,
+    "l": null,
+    "n": "universe-engineering",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "unixtime",
+    "t": [],
+    "d_enriched": "Timestamp conversion utility for translating between human-readable dates and Unix time",
+    "d_source": "claude"
+  },
+  {
+    "d": "A project that demonstrates how to use URLSession to make a JSON GET and POST request.",
+    "fork": true,
+    "l": null,
+    "n": "URLSessionJSONRequests",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "us-business-service",
+    "t": [],
+    "d_enriched": "Digital platform connecting US businesses with essential services and operational support solutions",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "usa-manufactures",
+    "t": [],
+    "d_enriched": "| Name | Revenue 2021 |",
+    "d_source": "readme"
+  },
+  {
+    "d": "🐶  React hook for making isomorphic http requests",
+    "fork": true,
+    "l": null,
+    "n": "use-http",
+    "t": []
+  },
+  {
+    "d": "Documentation for those that use HHVM and write Hack and PHP code for HHVM. http://twitter.com/HHVMDocCommits",
+    "fork": true,
+    "l": "Hack",
+    "n": "user-documentation",
+    "t": []
+  },
+  {
+    "d": "The official mirror of the V8 Git repository",
+    "fork": true,
+    "l": "C++",
+    "n": "v8",
+    "t": []
+  },
+  {
+    "d": "you need pay for accessing valuable file",
+    "fork": false,
+    "l": "CSS",
+    "n": "value-info",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Python",
+    "n": "vercel-python-longcorn-openai",
+    "t": [],
+    "d_enriched": "https://vercel-python-dotku.vercel.app/docs",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "video-note",
+    "t": [],
+    "d_enriched": "A personal note book from videos",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "video-publisher",
+    "t": [],
+    "d_enriched": "2. YouTube",
+    "d_source": "readme"
+  },
+  {
+    "d": "Extract speech and visual content from videos into text",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "video-to-text",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "vite-tailwind",
+    "t": [],
+    "d_enriched": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+    "d_source": "readme"
+  },
+  {
+    "d": ":speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer",
+    "fork": true,
+    "l": "HTML",
+    "n": "voice-elements",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "volunteer-community",
+    "t": [],
+    "d_enriched": "> Prerequisites:",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "vp-magamilion",
+    "t": [],
+    "d_enriched": "A Flask API that converts CSV data from a New York State Magamillion data source to JSON format.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Prototype of a menu system in Virtual Reality",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "vr-menu-demo",
+    "t": []
+  },
+  {
+    "d": "VS Code extension that changes the built-in markdown preview to match Github's styling",
+    "fork": true,
+    "l": "CSS",
+    "n": "vscode-github-markdown-preview-style",
+    "t": []
+  },
+  {
+    "d": "Simple yet powerful library for building modern web interfaces.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "vue",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Vue",
+    "n": "vue-nuxt-todo",
+    "t": [],
+    "d_enriched": "Look at the Nuxt 3 documentation to learn more.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Vue",
+    "n": "vue-todo",
+    "t": [],
+    "d_enriched": "yarn install",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "Vue",
+    "n": "vue-todo-hackthon-v3",
+    "t": [],
+    "d_enriched": "Vue 3 introduce script setup, but it doesn't support by default with vue create,",
+    "d_source": "readme"
+  },
+  {
+    "d": "🐉 Material Component Framework for Vue",
+    "fork": true,
+    "l": "TypeScript",
+    "n": "vuetify",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "vuetify-test",
+    "t": [],
+    "d_enriched": "Material design interface components for building polished business applications",
+    "d_source": "claude"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "waitting-time",
+    "t": [],
+    "d_enriched": "Many companies services might have long waiting time on the customer support.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "weavy-demo",
+    "t": [],
+    "d_enriched": "Collaborative workspace with file sharing and team communication features",
+    "d_source": "claude"
+  },
+  {
+    "d": "本项目旨在为互联网开发提供一个公共的规范。本文档采用知识共享“署名 3.0 中国大陆”许可协议，您可以创作衍生产品，或者加入到你的商业创作中，但请署名原作者信息。",
+    "fork": false,
+    "l": null,
+    "n": "web-dev-standard",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "web3-store",
+    "t": [],
+    "d_enriched": "Decentralized marketplace enabling blockchain-based digital commerce",
+    "d_source": "claude"
+  },
+  {
+    "d": "Web Application Library",
+    "fork": true,
+    "l": "C++",
+    "n": "webapplib",
+    "t": []
+  },
+  {
+    "d": "A boilerplate for webpack and express combination.",
+    "fork": false,
+    "l": null,
+    "n": "webpack-express",
+    "t": []
+  },
+  {
+    "d": "A boilerplate for running a Webpack workflow in Node express",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "webpack-express-boilerplate",
+    "t": []
+  },
+  {
+    "d": "My web collection",
+    "fork": false,
+    "l": "PHP",
+    "n": "website-rank",
+    "t": [],
+    "d_enriched": "A website rank by Alexa.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Created with CodeSandbox",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "websocket-setState",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "weijingjaylin",
+    "t": [],
+    "d_enriched": "With over 10 years of experience in software engineering, 3+ years working experience in AI.",
+    "d_source": "readme"
+  },
+  {
+    "d": "A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",
+    "fork": true,
+    "l": "CSS",
+    "n": "weui",
+    "t": []
+  },
+  {
+    "d": "We Work Meteor, a job board and developer directory for Meteor specific work",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "wework",
+    "t": []
+  },
+  {
+    "d": "a store for wholesale",
+    "fork": false,
+    "l": "HTML",
+    "n": "wholesale",
+    "t": []
+  },
+  {
+    "d": "Official Public Python API for working with Wonder Workshop robots",
+    "fork": true,
+    "l": "Python",
+    "n": "WonderPy",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "wordpress-docker-compose",
+    "t": [],
+    "d_enriched": "docker-compose -f stack.yml up",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": null,
+    "n": "world",
+    "t": [],
+    "d_enriched": "> World is used to indicate a place or the area within the planet earth.",
+    "d_source": "readme"
+  },
+  {
+    "d": "World republic is a organization that share all public knowledge to generate the ultimate common domain intelligent for peaceful and respectful world.",
+    "fork": false,
+    "l": null,
+    "n": "world-republic",
+    "t": []
+  },
+  {
+    "d": "Reveal CSS animation as you scroll down a page",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "WOW",
+    "t": []
+  },
+  {
+    "d": "play wowza player with vue",
+    "fork": false,
+    "l": "Vue",
+    "n": "wowza-player-vue",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "wowza-secure-token",
+    "t": [],
+    "d_enriched": "Secure token generation for authenticated media streaming and content protection",
+    "d_source": "claude"
+  },
+  {
+    "d": "Wowza Streaming Engine Secure Token Generator",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "wowza-securetoken",
+    "t": []
+  },
+  {
+    "d": "Wordpress plugin:   Retrieving Geo-Information using one the Maxmind GeoIP2 databases. (BTW, We're looking for a new developer! yellowtree.de/jobs/)",
+    "fork": true,
+    "l": "PHP",
+    "n": "wp-geoip-detect",
+    "t": []
+  },
+  {
+    "d": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "ws",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "x-post-scheduler",
+    "t": [],
+    "d_enriched": "Your social marketing copilot AI.",
+    "d_source": "readme"
+  },
+  {
+    "d": "Automatically exported from code.google.com/p/x2js",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "x2js",
+    "t": []
+  },
+  {
+    "d": "x2js git mirror",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "x2js-1",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "xinmai-ecom",
+    "t": [],
+    "d_enriched": "E-commerce storefront solution for online retail and digital sales operations",
+    "d_source": "claude"
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "xinmai-hardware",
+    "t": [],
+    "d_enriched": "Hardware inventory and product catalog management system",
+    "d_source": "claude"
+  },
+  {
+    "d": "Converter utility between XML text and Javascript object / JSON text.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "xml-js",
+    "t": []
+  },
+  {
+    "d": "A modern, performant search aggregator that allows users to search across multiple platforms simultaneously. Built with Next.js 15 and TypeScript.",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "you.com-mini-search",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "TypeScript",
+    "n": "younico",
+    "t": [],
+    "d_enriched": "Personalized content platform connecting creators with their unique audience communities",
+    "d_source": "claude"
+  },
+  {
+    "d": "A fork from youtube music library",
+    "fork": false,
+    "l": null,
+    "n": "youtube-audio-library",
+    "t": []
+  },
+  {
+    "d": "Command-line program to download videos from YouTube.com and other video sites",
+    "fork": true,
+    "l": null,
+    "n": "youtube-dl",
+    "t": []
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "youtube-dl-gui",
+    "t": [],
+    "d_enriched": "Clone and run for a quick way to see Electron in action.",
+    "d_source": "readme"
+  },
+  {
+    "d": null,
+    "fork": false,
+    "l": "JavaScript",
+    "n": "youyimei-medical-mask",
+    "t": [],
+    "d_enriched": "E-commerce storefront for Youyimei medical-grade protective masks and healthcare supplies",
+    "d_source": "claude"
+  },
+  {
+    "d": "A library for building richly interactive web applications.",
+    "fork": true,
+    "l": "JavaScript",
+    "n": "yui3",
+    "t": []
+  },
+  {
+    "d": "https://dotku.github.io/dk-i18n-trading-calculator/",
+    "fork": false,
+    "l": "JavaScript",
+    "n": "zy-i18n-trading-calculator",
+    "t": []
+  },
+  {
+    "d": "ZY International Trade inc. is an international trading company located in Atlanta Georgia. We source and distribute high-quality medical supplies and personal protective equipment (PPE) globally.",
+    "fork": false,
+    "l": "HTML",
+    "n": "zy-international-trade",
+    "t": []
+  },
+  {
+    "d": "Created with StackBlitz ⚡️",
+    "fork": false,
+    "l": "TypeScript",
+    "n": "zy-sale-simulator",
+    "t": [],
+    "d_enriched": "Sales simulation tool for training and forecasting revenue scenarios",
+    "d_source": "claude"
+  }
+]

@@ -4,9 +4,15 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>DotKu — GitHub Repositories by GICS Sector</title>
-  <meta name="description" content="616 non-fork public repositories under github.com/dotku, categorized using the Global Industry Classification Standard (GICS)." />
+  <title data-i18n="repos.page.title">DotKu — GitHub Repositories by GICS Sector</title>
+  <meta name="description" data-i18n-attr="content" data-i18n="repos.page.description" content="865 public repositories under github.com/dotku (forks marked 🔀), categorized using the Global Industry Classification Standard (GICS)." />
   <link rel="canonical" href="https://dotku.github.io/repos.html" />
+  <link rel="alternate" hreflang="en" href="https://dotku.github.io/repos.html?lang=en" />
+  <link rel="alternate" hreflang="zh-CN" href="https://dotku.github.io/repos.html?lang=zh" />
+  <link rel="alternate" hreflang="zh-TW" href="https://dotku.github.io/repos.html?lang=zh-TW" />
+  <link rel="alternate" hreflang="es" href="https://dotku.github.io/repos.html?lang=es" />
+  <link rel="alternate" hreflang="ko" href="https://dotku.github.io/repos.html?lang=ko" />
+  <link rel="alternate" hreflang="ja" href="https://dotku.github.io/repos.html?lang=ja" />
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🌐%3C/text%3E%3C/svg%3E" />
 
   <script src="https://cdn.tailwindcss.com"></script>
@@ -30,13 +36,12 @@
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Sans+KR:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet" />
 
   <!-- ProveSource -->
   <script>
     !function(o,i){window.provesrc&&window.console&&console.error&&console.error("ProveSource is included twice in this page."),provesrc=window.provesrc={dq:[],display:function(){this.dq.push(arguments)}},o._provesrcAsyncInit=function(){provesrc.init({apiKey:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50SWQiOiI2NmEyOWQ0YzVhNGUyOTQ4YWViMTA5NTkiLCJpYXQiOjE3MjE5MzMxMzJ9.875FBZXfLdprnd7CYkRGA5xZT9Bwoq-hNtyFpRDjS34",v:"0.0.4"})};var r=i.createElement("script");r.type="text/javascript",r.async=!0,r["ch"+"ar"+"set"]="UTF-8",r.src="https://cdn.provesrc.com/provesrc.js";var e=i.getElementsByTagName("script")[0];e.parentNode.insertBefore(r,e)}(window,document);
   </script>
-  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-87TXG8J86J"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -45,7 +50,6 @@
     gtag('config', 'G-87TXG8J86J');
   </script>
   <script src="//code.tidio.co/uj7cin2xzgr8in931ayzpeoutj2zmklg.js" async></script>
-  <!-- Hotjar -->
   <script>
     (function(h,o,t,j,a,r){
       h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -59,7 +63,6 @@
 
   <style>
     html { scroll-behavior: smooth; }
-    /* Styled markdown container — keeps the landing-page look */
     #content h1 { font-size: 2.25rem; font-weight: 800; color: rgb(15 23 42); letter-spacing: -0.025em; margin: 2rem 0 1rem; }
     #content h2 { font-size: 1.875rem; font-weight: 800; color: rgb(15 23 42); margin: 3rem 0 1rem; padding-bottom: .5rem; border-bottom: 1px solid rgb(226 232 240); scroll-margin-top: 5rem; }
     #content h3 { font-size: 1.5rem; font-weight: 700; color: rgb(15 23 42); margin: 2.25rem 0 .75rem; scroll-margin-top: 5rem; }
@@ -79,16 +82,12 @@
     #content table td { padding: .5rem .75rem; border-bottom: 1px solid rgb(241 245 249); color: rgb(51 65 85); }
     #content table tr:hover td { background: rgb(248 250 252); }
     #content table a { color: rgb(28 95 240); font-weight: 600; }
-    /* Filter box highlight */
-    .repo-hit mark { background: #fef3c7; color: inherit; padding: 0; border-radius: 2px; }
-    /* Hide list items that don't match filter */
     #content li.filtered-out { display: none; }
     #content h2.section-hidden, #content h3.section-hidden, #content h4.section-hidden, #content h5.section-hidden { display: none; }
   </style>
 </head>
 <body class="font-sans text-slate-800 antialiased bg-white">
 
-<!-- Header — matches landing page -->
 <header class="sticky top-0 z-40 bg-white/80 backdrop-blur border-b border-slate-200">
   <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
     <a href="index.html" class="flex items-center gap-2 font-extrabold text-lg text-slate-900 shrink-0">
@@ -96,28 +95,43 @@
       DotKu
     </a>
     <nav class="hidden md:flex items-center gap-6 text-sm font-medium text-slate-600">
-      <a href="index.html#partners" class="hover:text-brand-600">Partners</a>
-      <a href="index.html#projects" class="hover:text-brand-600">Projects</a>
-      <a href="index.html#contact" class="hover:text-brand-600">Contact</a>
+      <a href="index.html#partners" class="hover:text-brand-600" data-i18n="nav.partners">Partners</a>
+      <a href="index.html#projects" class="hover:text-brand-600" data-i18n="nav.projects">Projects</a>
+      <a href="index.html#contact" class="hover:text-brand-600" data-i18n="nav.contact">Contact</a>
       <a href="https://github.com/dotku" target="_blank" rel="noopener" class="hover:text-brand-600">GitHub ↗</a>
     </nav>
-    <a href="index.html"
-       class="inline-flex items-center gap-1.5 rounded-lg border border-slate-300 hover:border-brand-400 px-3 py-2 text-sm font-semibold text-slate-700 bg-white">
-      ← Home
-    </a>
+    <div class="flex items-center gap-2">
+      <div class="relative">
+        <button id="lang-btn" type="button"
+                class="inline-flex items-center gap-1.5 rounded-lg border border-slate-300 hover:border-brand-400 px-3 py-2 text-sm font-semibold text-slate-700 bg-white"
+                aria-haspopup="listbox" aria-expanded="false">
+          <span aria-hidden="true">🌐</span>
+          <span id="lang-current">English</span>
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.06l3.71-3.83a.75.75 0 1 1 1.08 1.04l-4.25 4.39a.75.75 0 0 1-1.08 0L5.21 8.27a.75.75 0 0 1 .02-1.06z"/></svg>
+        </button>
+        <ul id="lang-menu"
+            class="hidden absolute right-0 mt-2 w-44 rounded-lg border border-slate-200 bg-white shadow-lg py-1 text-sm z-50"
+            role="listbox" aria-label="Language"></ul>
+      </div>
+      <a href="index.html"
+         class="inline-flex items-center gap-1.5 rounded-lg border border-slate-300 hover:border-brand-400 px-3 py-2 text-sm font-semibold text-slate-700 bg-white"
+         data-i18n="repos.back.home">
+        ← Home
+      </a>
+    </div>
   </div>
 </header>
 
-<!-- Page header / intro -->
 <section class="relative overflow-hidden border-b border-slate-200"
          style="background: radial-gradient(1200px 500px at 20% -10%, rgba(47,123,255,0.15), transparent 60%);">
   <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-14 md:py-20">
-    <p class="text-sm font-bold uppercase tracking-wider text-brand-600">Open source · GitHub</p>
-    <h1 class="mt-2 text-3xl sm:text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight">
+    <p class="text-sm font-bold uppercase tracking-wider text-brand-600" data-i18n="repos.hero.eyebrow">Open source · GitHub</p>
+    <h1 class="mt-2 text-3xl sm:text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight"
+        data-i18n-html="repos.hero.heading">
       Repositories by <span class="text-brand-600">GICS Sector</span>
     </h1>
-    <p class="mt-4 max-w-3xl text-lg text-slate-600">
-      616 non-fork public repositories under
+    <p class="mt-4 max-w-3xl text-lg text-slate-600" data-i18n-html="repos.hero.sub">
+      865 public repositories under
       <a href="https://github.com/dotku" target="_blank" rel="noopener" class="text-brand-600 font-semibold hover:underline">github.com/dotku</a>,
       categorized using the
       <a href="https://www.msci.com/our-solutions/indexes/gics" target="_blank" rel="noopener" class="text-brand-600 font-semibold hover:underline">Global Industry Classification Standard</a>
@@ -127,7 +141,9 @@
     <div class="mt-6 flex flex-wrap items-center gap-3">
       <label class="relative flex-1 min-w-[240px] max-w-md">
         <span class="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" aria-hidden="true">🔍</span>
-        <input id="filter" type="search" placeholder="Filter repos by name or description…"
+        <input id="filter" type="search"
+               data-i18n-attr="placeholder" data-i18n="repos.filter.placeholder"
+               placeholder="Filter repos by name or description…"
                class="w-full rounded-lg border border-slate-300 pl-10 pr-3 py-2.5 text-sm focus:border-brand-500 focus:ring-2 focus:ring-brand-200 focus:outline-none" />
       </label>
       <span id="filter-count" class="text-sm text-slate-500"></span>
@@ -138,7 +154,7 @@
 <main id="top">
   <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
     <article id="content">
-      <p class="text-slate-500" id="loading">Loading repositories…</p>
+      <p class="text-slate-500" id="loading" data-i18n="repos.loading">Loading repositories…</p>
     </article>
   </div>
 </main>
@@ -146,40 +162,187 @@
 <footer class="border-t border-slate-200 py-8 bg-white mt-20">
   <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm text-slate-500">
     <p>© <span id="year"></span> Weijing Jay Lin · DotKu</p>
-    <p>Categorized using <a href="https://www.msci.com/our-solutions/indexes/gics" class="hover:text-brand-600" target="_blank" rel="noopener">MSCI / S&amp;P GICS</a></p>
+    <p data-i18n-html="footer.gics">Categorized using <a href="https://www.msci.com/our-solutions/indexes/gics" class="hover:text-brand-600" target="_blank" rel="noopener">MSCI / S&amp;P GICS</a></p>
   </div>
 </footer>
 
+<script src="i18n.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
   document.getElementById('year').textContent = new Date().getFullYear();
 
-  (async function () {
-    const content = document.getElementById('content');
-    try {
-      const res = await fetch('README.md', { cache: 'no-store' });
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      let md = await res.text();
+  // Map English labels (as they appear in README.md) to i18n keys.
+  const SECTOR_KEY = {
+    'Energy': 'sector.en',
+    'Materials': 'sector.mat',
+    'Industrials': 'sector.ind',
+    'Consumer Discretionary': 'sector.cd',
+    'Consumer Staples': 'sector.cs',
+    'Health Care': 'sector.hc',
+    'Financials': 'sector.fin',
+    'Information Technology': 'sector.it',
+    'Communication Services': 'sector.com',
+    'Utilities': 'sector.util',
+    'Real Estate': 'sector.re',
+  };
+  const SECTOR_DESC_KEY = {};
+  Object.keys(SECTOR_KEY).forEach(name => {
+    SECTOR_DESC_KEY[name] = SECTOR_KEY[name] + '.desc';
+  });
 
-      // Start from the GICS section — drop the partner/company intro (that's on the homepage)
-      const idx = md.indexOf('## GitHub Repositories by GICS');
-      if (idx > 0) md = md.slice(idx);
+  const GROUP_KEY = {
+    'Energy': 'group.energy',
+    'Materials': 'group.materials',
+    'Capital Goods': 'group.capital_goods',
+    'Commercial & Professional Services': 'group.commercial',
+    'Transportation': 'group.transportation',
+    'Automobiles & Components': 'group.auto',
+    'Consumer Durables & Apparel': 'group.durables',
+    'Consumer Services': 'group.consumer_services',
+    'Consumer Discretionary Distribution & Retail': 'group.cd_retail',
+    'Food, Beverage & Tobacco': 'group.food_beverage',
+    'Consumer Staples Distribution & Retail': 'group.staples_retail',
+    'Household & Personal Products': 'group.household',
+    'Health Care Equipment & Services': 'group.hc_equip',
+    'Pharmaceuticals, Biotechnology & Life Sciences': 'group.pharma',
+    'Banks': 'group.banks',
+    'Financial Services': 'group.fin_services',
+    'Insurance': 'group.insurance',
+    'Software & Services': 'group.software',
+    'Technology Hardware & Equipment': 'group.hardware',
+    'Semiconductors & Semiconductor Equipment': 'group.semi',
+    'Telecommunication Services': 'group.telecom',
+    'Media & Entertainment': 'group.media_ent',
+    'Utilities': 'group.utilities',
+    'Equity Real Estate Investment Trusts (REITs)': 'group.re_reit',
+    'Real Estate Management & Development': 'group.re_mgmt',
+  };
+  const INDUSTRY_KEY = {
+    'Application Software': 'industry.app_software',
+    'Systems Software': 'industry.sys_software',
+    'Internet Services & Infrastructure': 'industry.internet_infra',
+    'IT Consulting & Other Services': 'industry.it_consulting',
+    'Technology Hardware, Storage & Peripherals': 'industry.tech_hw_storage',
+    'Communications Equipment': 'industry.comm_equip',
+    'Electronic Equipment, Instruments & Components': 'industry.electronic_equip',
+    'Media': 'industry.media',
+    'Entertainment': 'industry.entertainment',
+    'Interactive Media & Services': 'industry.interactive_media',
+  };
 
-      marked.setOptions({ gfm: true, breaks: false });
-      content.innerHTML = marked.parse(md);
+  // Track originals so we can retranslate on lang change.
+  const ORIG = new WeakMap();
 
-      // Open external links in new tab
-      content.querySelectorAll('a[href^="https://github.com/dotku/"]').forEach(a => {
-        a.target = '_blank';
-        a.rel = 'noopener';
+  function parseHeading(text) {
+    // Returns { label, countSuffix } e.g. "Energy (4)" -> { "Energy", " (4)" }
+    const m = text.match(/^(.*?)(\s*\(\d+\))?\s*$/);
+    if (!m) return { label: text, countSuffix: '' };
+    return { label: m[1].trim(), countSuffix: m[2] || '' };
+  }
+
+  function recordOriginals(root) {
+    root.querySelectorAll('h2, h3, h4, h5, em, th, table tbody td, table tbody strong').forEach(el => {
+      if (!ORIG.has(el)) ORIG.set(el, el.textContent);
+    });
+  }
+
+  function translateContent() {
+    const I = window.DotkuI18n;
+    if (!I) return;
+    const root = document.getElementById('content');
+
+    // Translate main H2 page heading: "GitHub Repositories by GICS Classification"
+    // Translate H3: could be "Overview" or a Sector name
+    // Translate H4 (sector): sector names like "Energy (4)"  (our README uses H3 for sector though)
+    // README.md structure (re-check): '## GitHub Repositories by GICS Classification', '### Overview', '### Energy (4)', '#### Capital Goods (10)', '##### Application Software (431)'
+    // After marked: h2, h3 (Overview + sectors), h4 (groups), h5 (industries/sub)
+
+    root.querySelectorAll('h2, h3, h4, h5').forEach(el => {
+      const orig = ORIG.get(el) || el.textContent;
+      const { label, countSuffix } = parseHeading(orig);
+
+      let translated = null;
+      if (label === 'GitHub Repositories by GICS Classification') {
+        translated = I.t('repos.page.heading');
+      } else if (label === 'Overview') {
+        translated = I.t('repos.overview.heading');
+      } else if (SECTOR_KEY[label]) {
+        translated = I.t(SECTOR_KEY[label]);
+      } else if (GROUP_KEY[label]) {
+        translated = I.t(GROUP_KEY[label]);
+      } else if (INDUSTRY_KEY[label]) {
+        translated = I.t(INDUSTRY_KEY[label]);
+      }
+      if (translated != null) {
+        el.textContent = translated + countSuffix;
+      } else {
+        el.textContent = orig;
+      }
+    });
+
+    // Italic descriptions under sector headings
+    root.querySelectorAll('em').forEach(el => {
+      const orig = ORIG.get(el) || el.textContent;
+      // Match against English descriptions
+      const DESCS = {
+        'Oil, gas, renewables, and energy equipment.': 'sector.en.desc',
+        'Mining, metals, chemicals, and construction materials.': 'sector.mat.desc',
+        'Capital goods, transportation & logistics, commercial and professional services.': 'sector.ind.desc',
+        'Automobiles, retail, apparel, restaurants, hotels, leisure and education services.': 'sector.cd.desc',
+        'Food, beverage, household and personal products.': 'sector.cs.desc',
+        'Medical devices, providers, pharma and biotech.': 'sector.hc.desc',
+        'Banks, capital markets, insurance, fintech and crypto.': 'sector.fin.desc',
+        'Software, IT services, hardware and semiconductors.': 'sector.it.desc',
+        'Media, entertainment, telecom, interactive media and social.': 'sector.com.desc',
+        'Electric, water, gas and renewable utilities.': 'sector.util.desc',
+        'REITs, property management and real-estate services.': 'sector.re.desc',
+      };
+      if (DESCS[orig]) {
+        el.textContent = I.t(DESCS[orig]);
+      } else {
+        el.textContent = orig;
+      }
+    });
+
+    // Overview table headers
+    root.querySelectorAll('thead th, table tr:first-child th').forEach(el => {
+      const orig = ORIG.get(el) || el.textContent;
+      const map = {
+        'Sector': 'table.sector',
+        'Industry Group': 'table.group',
+        '# Repos': 'table.count',
+      };
+      if (map[orig]) el.textContent = I.t(map[orig]);
+    });
+
+    // Overview table td cells — sector names (in <strong>), industry group names (plain),
+    // and the "Total" label.
+    root.querySelectorAll('table tbody tr').forEach(tr => {
+      const cells = tr.querySelectorAll('td');
+      cells.forEach(td => {
+        // Sector cell: <strong>Energy</strong> (5)  — translate the <strong> text only
+        const strong = td.querySelector('strong');
+        if (strong) {
+          const orig = ORIG.get(strong) || strong.textContent;
+          if (SECTOR_KEY[orig]) {
+            strong.textContent = I.t(SECTOR_KEY[orig]);
+          } else if (orig === 'Total') {
+            strong.textContent = I.t('table.total');
+          } else {
+            strong.textContent = orig;
+          }
+          return;
+        }
+        // Industry-group cell: plain text, e.g. "Capital Goods"
+        const orig = ORIG.get(td) || td.textContent;
+        if (GROUP_KEY[orig.trim()]) {
+          td.textContent = I.t(GROUP_KEY[orig.trim()]);
+        } else {
+          td.textContent = orig;
+        }
       });
-
-      // Count repos in each sector block so filter can hide empty sections
-      setupFilter();
-    } catch (e) {
-      content.innerHTML = '<p class="text-red-600">Failed to load README.md: ' + e.message + '</p>';
-    }
-  })();
+    });
+  }
 
   function setupFilter() {
     const input = document.getElementById('filter');
@@ -200,7 +363,6 @@
           li.classList.add('filtered-out');
         }
       });
-      // Hide headings whose following sibling lists are all filtered out
       headings.forEach(h => {
         let n = h.nextElementSibling;
         let hasVisibleContent = false;
@@ -218,16 +380,52 @@
         }
         h.classList.toggle('section-hidden', !!q && !hasVisibleContent);
       });
-      countEl.textContent = q
-        ? visible + ' of ' + totalItems + ' repos match'
-        : totalItems + ' repos total';
+      const I = window.DotkuI18n;
+      if (q) {
+        countEl.textContent = (I ? I.t('repos.filter.match') : '{n} of {total} repos match')
+          .replace('{n}', visible).replace('{total}', totalItems);
+      } else {
+        countEl.textContent = (I ? I.t('repos.filter.total') : '{n} repos total')
+          .replace('{n}', totalItems);
+      }
     }
     function tagRank(t) {
       return ({ H1:1, H2:2, H3:3, H4:4, H5:5, H6:6 })[t] || 99;
     }
     input.addEventListener('input', update);
+    window.DotkuI18n && window.DotkuI18n.onChange(update);
     update();
   }
+
+  (async function () {
+    const content = document.getElementById('content');
+    try {
+      const res = await fetch('README.md', { cache: 'no-store' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      let md = await res.text();
+      const idx = md.indexOf('## GitHub Repositories by GICS');
+      if (idx > 0) md = md.slice(idx);
+
+      marked.setOptions({ gfm: true, breaks: false });
+      content.innerHTML = marked.parse(md);
+
+      content.querySelectorAll('a[href^="https://github.com/dotku/"]').forEach(a => {
+        a.target = '_blank';
+        a.rel = 'noopener';
+      });
+
+      recordOriginals(content);
+      translateContent();
+      setupFilter();
+
+      // Retranslate on language switch
+      if (window.DotkuI18n) {
+        window.DotkuI18n.onChange(translateContent);
+      }
+    } catch (e) {
+      content.innerHTML = '<p class="text-red-600">Failed to load README.md: ' + e.message + '</p>';
+    }
+  })();
 </script>
 </body>
 </html>
