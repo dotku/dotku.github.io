@@ -1,7 +1,6 @@
 [
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "3d-printing",
     "t": [],
@@ -9,31 +8,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-    "fork": true,
-    "l": "Rust",
-    "n": "996.ICU",
-    "t": []
-  },
-  {
-    "d": "Samples using the Agent2Agent (A2A) Protocol",
-    "fork": true,
-    "l": null,
-    "n": "a2a-samples",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": true,
-    "l": "Python",
-    "n": "a2a_with_mcp",
-    "t": [],
-    "d_enriched": "Streamlines business-to-business connections through optimized APIs and int",
-    "d_source": "ollama"
-  },
-  {
-    "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "abonebeauty",
     "t": [],
@@ -42,28 +17,24 @@
   },
   {
     "d": "we will tech you everything you want to learn",
-    "fork": false,
     "l": null,
     "n": "academic",
     "t": []
   },
   {
     "d": "My Affiliate Referral Links",
-    "fork": false,
     "l": "HTML",
     "n": "affiliate-referral-network",
     "t": []
   },
   {
     "d": "In trading world, people purchase through relationship; instead of just money and goods.",
-    "fork": false,
     "l": null,
     "n": "agentbook",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ai",
     "t": [],
@@ -72,21 +43,18 @@
   },
   {
     "d": "My jorney to the AI industry.",
-    "fork": false,
     "l": "JavaScript",
     "n": "ai-academy",
     "t": []
   },
   {
     "d": "want to try out OpenAI Assistant feature",
-    "fork": false,
     "l": null,
     "n": "ai-assistant",
     "t": []
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "Astro",
     "n": "ai-business-suite",
     "t": [],
@@ -95,7 +63,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ai-conversation-tool",
     "t": [],
@@ -104,7 +71,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ai-fitness-website",
     "t": [],
@@ -113,7 +79,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "ai-freedom",
     "t": [],
@@ -122,7 +87,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ai-hpc",
     "t": [],
@@ -131,7 +95,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "ai-idea-hub",
     "t": [],
@@ -139,15 +102,7 @@
     "d_source": "readme"
   },
   {
-    "d": "AI image generator with Open AI",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "ai-image-gen",
-    "t": []
-  },
-  {
     "d": "ai generated logo",
-    "fork": false,
     "l": null,
     "n": "ai-logo",
     "t": [],
@@ -156,7 +111,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "ai-love-advisor",
     "t": [],
@@ -165,7 +119,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "ai-marketing",
     "t": [],
@@ -174,7 +127,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "ai-medical-demo",
     "t": [],
@@ -183,7 +135,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "ai-mini-rag-qwen",
     "t": [],
@@ -192,7 +143,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ai-ppt",
     "t": [],
@@ -201,7 +151,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "ai-restaurant",
     "t": [],
@@ -210,7 +159,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "ai-restrant-business-center",
     "t": [],
@@ -219,14 +167,12 @@
   },
   {
     "d": "the AI is booming right now, but what would be the best AI suitable for you?",
-    "fork": false,
     "l": "CSS",
     "n": "ai-reviews",
     "t": []
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "ai-robots-manager",
     "t": [],
@@ -235,14 +181,12 @@
   },
   {
     "d": "We talk only about AIs",
-    "fork": false,
     "l": null,
     "n": "ai-social",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "ai-train-infrance-sample",
     "t": [],
@@ -251,7 +195,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "ai-training-pdf2qas",
     "t": [],
@@ -260,28 +203,24 @@
   },
   {
     "d": "can AI generate a perfect website?",
-    "fork": false,
     "l": null,
     "n": "ai-website",
     "t": []
   },
   {
     "d": "The database of AI related content",
-    "fork": false,
     "l": null,
     "n": "aibase",
     "t": []
   },
   {
     "d": "create the listing website for all AI tools",
-    "fork": false,
     "l": null,
     "n": "aimarketcap",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "airport-pickup",
     "t": [],
@@ -290,7 +229,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "aladdin",
     "t": [],
@@ -299,14 +237,12 @@
   },
   {
     "d": "Sort the url by alexa",
-    "fork": false,
     "l": null,
     "n": "alexa-sort",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "algorithem",
     "t": [],
@@ -314,15 +250,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/",
-    "fork": true,
-    "l": "Python",
-    "n": "algorithm-exercise",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "amazon-direct",
     "t": [],
@@ -331,14 +259,12 @@
   },
   {
     "d": "an amazon navigation directory",
-    "fork": false,
     "l": null,
     "n": "amazon-navigation",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "amazon-promotion",
     "t": [],
@@ -346,15 +272,7 @@
     "d_source": "claude"
   },
   {
-    "d": "One framework. Mobile & desktop.",
-    "fork": true,
-    "l": "TypeScript",
-    "n": "angular",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "angular-2024",
     "t": [],
@@ -363,35 +281,24 @@
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "TypeScript",
     "n": "angular-chellenge",
     "t": []
   },
   {
-    "d": "AngularJS markdown directive using Showdown.js",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "angular-markdown-directive",
-    "t": []
-  },
-  {
     "d": "Daily Coding Chellenge",
-    "fork": false,
     "l": "HTML",
     "n": "angular-material-sign-up",
     "t": []
   },
   {
     "d": "daily challenge project",
-    "fork": false,
     "l": null,
     "n": "angular-phone-book-in-8-hr",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "angular-todolist",
     "t": [],
@@ -399,22 +306,7 @@
     "d_source": "claude"
   },
   {
-    "d": "i18n in your Angular apps, made easy.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "angular-translate",
-    "t": []
-  },
-  {
-    "d": "HTML enhanced for web apps",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "angular.js",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "anysocial",
     "t": [],
@@ -422,29 +314,7 @@
     "d_source": "claude"
   },
   {
-    "d": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.",
-    "fork": true,
-    "l": null,
-    "n": "anything-llm",
-    "t": []
-  },
-  {
-    "d": "MEAN stack website of restaurant franchise (food ordering/cart and payment (paypal payment gateway) , table reservation also)",
-    "fork": true,
-    "l": "CSS",
-    "n": "aonekitchen-restaurant",
-    "t": []
-  },
-  {
-    "d": "discuz接口",
-    "fork": true,
-    "l": "PHP",
-    "n": "appapi",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "archean",
     "t": [],
@@ -453,7 +323,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "article-generator",
     "t": [],
@@ -461,15 +330,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Static site generator for Node.js, Grunt.js, and Yeoman and Gulp. Render templates with Handlebars, Lo-Dash or any template engine. Used by Less.js / lesscss.org, Topcoat, Web Experience Toolkit, and hundreds of other projects to build sites, themes, components, documentation, blogs and gh-pages.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "assemble",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ativafit",
     "t": [],
@@ -478,7 +339,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "attendance-management-systems",
     "t": [],
@@ -487,7 +347,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "attendant-management-system",
     "t": [],
@@ -496,28 +355,12 @@
   },
   {
     "d": "A modern web platform connecting families with au pairs worldwide, supporting both English and Chinese languages.",
-    "fork": false,
     "l": "TypeScript",
     "n": "aupair",
     "t": []
   },
   {
-    "d": "Pre-built Auth UI for React",
-    "fork": true,
-    "l": null,
-    "n": "auth-ui",
-    "t": []
-  },
-  {
-    "d": "Repo for Vue Mastery's Token-Based Authentication course ",
-    "fork": true,
-    "l": null,
-    "n": "authentication_course",
-    "t": []
-  },
-  {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "auto-beverage",
     "t": [],
@@ -526,14 +369,12 @@
   },
   {
     "d": "A automatically trading app",
-    "fork": false,
     "l": null,
     "n": "auto-stock",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "autoclaw-data-scraper",
     "t": [],
@@ -542,7 +383,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "autoclaw-worker",
     "t": [],
@@ -550,15 +390,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "autosize",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "avatar",
     "t": [],
@@ -567,7 +399,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Java",
     "n": "AwesomeTSProject",
     "t": [],
@@ -575,15 +406,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Promise based HTTP client for the browser and node.js",
-    "fork": true,
-    "l": null,
-    "n": "axios",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "azure-identity-client-spa",
     "t": [],
@@ -592,7 +415,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "b2b2c",
     "t": [],
@@ -601,7 +423,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "baby-cry-translator",
     "t": [],
@@ -609,29 +430,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
-    "fork": true,
-    "l": null,
-    "n": "Babylon.js",
-    "t": []
-  },
-  {
-    "d": "Give your JS App some Backbone with Models, Views, Collections, and Events",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "backbone",
-    "t": []
-  },
-  {
-    "d": "A Backbone.js + jQuery Mobile sample app using AMD for separation of modules, Require.js for dependency management +  template externalisation and Underscore for templating",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "backbone-mobile-search",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "baichuan-plasma",
     "t": [],
@@ -640,7 +439,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "base",
     "t": [],
@@ -649,14 +447,12 @@
   },
   {
     "d": "I have lived in the bay area over 10 years, but be honest, I still don't know too much of it. I hope this project could help me learn more about the Bay Area, also help the local business grow.",
-    "fork": false,
     "l": null,
     "n": "bay-area",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "bayarea-courier-delivery",
     "t": [],
@@ -665,7 +461,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "bayarea-listing",
     "t": [],
@@ -674,7 +469,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "bayarea-mcn-platform",
     "t": [],
@@ -682,15 +476,7 @@
     "d_source": "claude"
   },
   {
-    "d": "成为专业程序员路上用到的各种优秀资料、神器及框架",
-    "fork": true,
-    "l": null,
-    "n": "be-a-professional-programmer",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "beauty-app-next",
     "t": [],
@@ -699,7 +485,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "beauty8",
     "t": [],
@@ -708,7 +493,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "belief",
     "t": [],
@@ -717,7 +501,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "best-crypto-mining-gpus",
     "t": [],
@@ -726,7 +509,6 @@
   },
   {
     "d": "a payment finder",
-    "fork": false,
     "l": null,
     "n": "best-international-payment",
     "t": [],
@@ -734,22 +516,13 @@
     "d_source": "readme"
   },
   {
-    "d": "An awesome README template to jumpstart your projects! ",
-    "fork": true,
-    "l": null,
-    "n": "Best-README-Template",
-    "t": []
-  },
-  {
     "d": "use nextjs to create betavee website",
-    "fork": false,
     "l": "TypeScript",
     "n": "betavee-nextjs",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "billionaire",
     "t": [],
@@ -758,7 +531,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "biointellitech",
     "t": [],
@@ -766,43 +538,13 @@
     "d_source": "claude"
   },
   {
-    "d": "Bitcoin Core integration/staging tree",
-    "fork": true,
-    "l": "C++",
-    "n": "bitcoin",
-    "t": []
-  },
-  {
-    "d": "Bitcoin.org website",
-    "fork": true,
-    "l": "CSS",
-    "n": "bitcoin.org",
-    "t": []
-  },
-  {
-    "d": "Bitcoin-related functions implemented in pure JavaScript",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "bitcoinjs-lib",
-    "t": []
-  },
-  {
-    "d": "A small Java bittorrent library, powering BitLet.org",
-    "fork": true,
-    "l": "Java",
-    "n": "bitlet",
-    "t": []
-  },
-  {
     "d": "We utilize your business entity and pay you up to $2,000/yr. (US Only)",
-    "fork": false,
     "l": "HTML",
     "n": "biz-park",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "bjvcall",
     "t": [],
@@ -811,7 +553,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "PHP",
     "n": "blog",
     "t": [],
@@ -819,36 +560,13 @@
     "d_source": "readme"
   },
   {
-    "d": ":books: Freely available programming books",
-    "fork": true,
-    "l": null,
-    "n": "books",
-    "t": []
-  },
-  {
-    "d": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-    "fork": true,
-    "l": "CSS",
-    "n": "bootstrap",
-    "t": []
-  },
-  {
     "d": "a customize bootstrap theme for internationalization",
-    "fork": false,
     "l": "CSS",
     "n": "bootstrap-intl",
     "t": []
   },
   {
-    "d": "An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2 and v3) ",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "bootstrap-table",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "brevo-smtp",
     "t": [],
@@ -857,7 +575,6 @@
   },
   {
     "d": "向多个平台推送内容",
-    "fork": false,
     "l": null,
     "n": "bundle-push",
     "t": [],
@@ -865,22 +582,13 @@
     "d_source": "readme"
   },
   {
-    "d": "bunny1 is a tool that lets you write smart bookmarks in python and then   share them across all your browsers and with a group of people or the   whole world. It was developed at Facebook and is widely used there.",
-    "fork": true,
-    "l": "Python",
-    "n": "bunny1",
-    "t": []
-  },
-  {
     "d": "a public resource library to help you running a business.",
-    "fork": false,
     "l": null,
     "n": "business-public",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "buy-me-a-coffee",
     "t": [],
@@ -888,15 +596,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Caffe2 is a lightweight, modular, and scalable deep learning framework.",
-    "fork": true,
-    "l": "Jupyter Notebook",
-    "n": "caffe2",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "calendar",
     "t": [],
@@ -905,28 +605,18 @@
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "JavaScript",
     "n": "can-recycler",
     "t": []
   },
   {
     "d": "Find the top software engineers.",
-    "fork": false,
     "l": null,
     "n": "candidates",
     "t": []
   },
   {
-    "d": "Properly capitalize article and blog titles",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "capitalize-title",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "car",
     "t": [],
@@ -935,14 +625,12 @@
   },
   {
     "d": "杰圆职场教育是一个专门提供职业规划指导和职业发展服务的平台。我们拥有专业的职业规划顾问团队，提供个性化的求职策略制定，丰富的企业资源网络，持续的职业发展跟踪，灵活的咨询时间安排和优质的售后服务保障。",
-    "fork": false,
     "l": "TypeScript",
     "n": "career-education",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "career-growth",
     "t": [],
@@ -951,7 +639,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "carku",
     "t": [],
@@ -960,14 +647,12 @@
   },
   {
     "d": "a tiny url creator for carku promption",
-    "fork": false,
     "l": null,
     "n": "carku-tinyurl",
     "t": []
   },
   {
     "d": "一个简单的招聘程序",
-    "fork": false,
     "l": "HTML",
     "n": "cbahr",
     "t": [],
@@ -975,24 +660,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Our goal is to operate this CDN in a peer reviewed fashion.",
-    "fork": true,
-    "l": null,
-    "n": "cdnjs",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": true,
-    "l": null,
-    "n": "cell-measurement",
-    "t": [],
-    "d_enriched": "Accurately measures and analyzes cellular data for optimized business perfo",
-    "d_source": "ollama"
-  },
-  {
-    "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "chaterp",
     "t": [],
@@ -1001,7 +669,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "cheap-phones",
     "t": [],
@@ -1010,14 +677,12 @@
   },
   {
     "d": "An app for people create check-in App for specified use case, eg. Vitamin Taken Check-in.",
-    "fork": false,
     "l": "PHP",
     "n": "check-in",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "chef",
     "t": [],
@@ -1025,15 +690,7 @@
     "d_source": "claude"
   },
   {
-    "d": "最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。  ",
-    "fork": true,
-    "l": "Python",
-    "n": "chinese-poetry",
-    "t": []
-  },
-  {
     "d": "我编写的一些编年史",
-    "fork": false,
     "l": "HTML",
     "n": "chronicle",
     "t": [],
@@ -1041,29 +698,13 @@
     "d_source": "readme"
   },
   {
-    "d": "可运行的Claude Code源码",
-    "fork": true,
-    "l": null,
-    "n": "Claude-Code",
-    "t": []
-  },
-  {
-    "d": "Deploy Node.js projects to AWS Lambda and API Gateway easily",
-    "fork": true,
-    "l": null,
-    "n": "claudia",
-    "t": []
-  },
-  {
     "d": "A cloud note web app",
-    "fork": false,
     "l": null,
     "n": "cloud-pen",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "cloud-server",
     "t": [],
@@ -1072,35 +713,24 @@
   },
   {
     "d": "allow multiple could to move the files around",
-    "fork": false,
     "l": null,
     "n": "cloud-sync",
     "t": []
   },
   {
     "d": "DKWholesale in Chinese Version",
-    "fork": false,
     "l": null,
     "n": "cn.dkwholesale.us",
     "t": []
   },
   {
     "d": "cyber network navigator",
-    "fork": false,
     "l": null,
     "n": "cnnavigator",
     "t": []
   },
   {
-    "d": "CodeIgniter 3.0 简体中文手册",
-    "fork": true,
-    "l": "HTML",
-    "n": "codeigniter-user-guide",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "com-betavee",
     "t": [],
@@ -1109,7 +739,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "commercelayer-sanity-template",
     "t": [],
@@ -1118,7 +747,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "commodity-trading",
     "t": [],
@@ -1127,7 +755,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": null,
     "n": "community",
     "t": [],
@@ -1135,15 +762,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Dependency Manager for PHP",
-    "fork": true,
-    "l": null,
-    "n": "composer",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "constructor-conculator",
     "t": [],
@@ -1152,7 +771,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "consultant",
     "t": [],
@@ -1160,15 +778,7 @@
     "d_source": "readme"
   },
   {
-    "d": "ConvertToUTF8 package for editing and saving files encoded in Big5, GBK, Shift_JIS, etc.",
-    "fork": true,
-    "l": "CoffeeScript",
-    "n": "convert-to-utf8",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "cors-test",
     "t": [],
@@ -1177,14 +787,12 @@
   },
   {
     "d": "something google can't help 1/n: couple match",
-    "fork": false,
     "l": null,
     "n": "couple-match",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "coway-sanfranciscobayarea",
     "t": [],
@@ -1192,15 +800,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Set up a modern web app by running one command.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "create-react-app",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "credit-cards",
     "t": [],
@@ -1209,14 +809,12 @@
   },
   {
     "d": "A lightweight CRM system focused on business development and referrals.  一个轻量级的，专注于业务发展和推荐的客户关系管理系统。",
-    "fork": false,
     "l": "TypeScript",
     "n": "crm-business-development-system",
     "t": []
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "crostil-ai.github.io",
     "t": [],
@@ -1225,7 +823,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "crowd",
     "t": [],
@@ -1234,7 +831,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "crowdfunding",
     "t": [],
@@ -1243,14 +839,12 @@
   },
   {
     "d": "I think coin market cap doesn't have enough history data for coins, maybe I can create one :)",
-    "fork": false,
     "l": null,
     "n": "crypto-currencies-history",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "crypto-exchange-ai",
     "t": [],
@@ -1259,7 +853,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "crypto-miners",
     "t": [],
@@ -1268,7 +861,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "crypto-payment",
     "t": [],
@@ -1277,21 +869,18 @@
   },
   {
     "d": "a website to display crypto price",
-    "fork": false,
     "l": null,
     "n": "crypto-price",
     "t": []
   },
   {
     "d": "my algorithm on crypto invest",
-    "fork": false,
     "l": null,
     "n": "crypto-recommend",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "crypto-tech",
     "t": [],
@@ -1300,7 +889,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "crypto-trading-simulation",
     "t": [],
@@ -1309,49 +897,24 @@
   },
   {
     "d": "A program close the application by Ctrl+Q on windows",
-    "fork": false,
     "l": null,
     "n": "ctrl-q",
     "t": []
   },
   {
     "d": "customer waiting time",
-    "fork": false,
     "l": null,
     "n": "customer-support-rank",
     "t": []
   },
   {
-    "d": "A JavaScript visualization library for HTML and SVG.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "d3",
-    "t": []
-  },
-  {
-    "d": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-    "fork": true,
-    "l": null,
-    "n": "dashy",
-    "t": []
-  },
-  {
     "d": "Data science has several domain; which one make the most?",
-    "fork": false,
     "l": null,
     "n": "data-science",
     "t": []
   },
   {
-    "d": "Cheat Sheets",
-    "fork": true,
-    "l": null,
-    "n": "Data-Science--Cheat-Sheet",
-    "t": []
-  },
-  {
     "d": "database view",
-    "fork": false,
     "l": "PHP",
     "n": "dbviwer",
     "t": [],
@@ -1359,15 +922,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Maps of Washington DC area public geodata",
-    "fork": true,
-    "l": null,
-    "n": "dc-maps",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "dealership",
     "t": [],
@@ -1376,7 +931,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "deepseek",
     "t": [],
@@ -1385,7 +939,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "deepseek-chat-example",
     "t": [],
@@ -1394,7 +947,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "deepseek-proxy",
     "t": [],
@@ -1403,7 +955,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "deepseek-solutions",
     "t": [],
@@ -1412,7 +963,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "demo-flask",
     "t": [],
@@ -1421,7 +971,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "demo-next.js",
     "t": [],
@@ -1430,7 +979,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "design-systems",
     "t": [],
@@ -1439,7 +987,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "destiny-number",
     "t": [],
@@ -1447,15 +994,7 @@
     "d_source": "claude"
   },
   {
-    "d": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
-    "fork": true,
-    "l": "Python",
-    "n": "Detectron",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "dev-node",
     "t": [],
@@ -1464,7 +1003,6 @@
   },
   {
     "d": "科技前沿特供微信开发文档",
-    "fork": false,
     "l": "TypeScript",
     "n": "dev-weixin",
     "t": [],
@@ -1472,43 +1010,19 @@
     "d_source": "readme"
   },
   {
-    "d": "PHP File Scanner",
-    "fork": true,
-    "l": "PHP",
-    "n": "DirectoryScanner",
-    "t": []
-  },
-  {
-    "d": "Discover Meteor 中文版",
-    "fork": true,
-    "l": "HTML",
-    "n": "DiscoverMeteor_zh",
-    "t": []
-  },
-  {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": null,
     "n": "discuz-appapi-demo",
     "t": []
   },
   {
     "d": "The center of UCenters",
-    "fork": false,
     "l": null,
     "n": "DiscuzHub",
     "t": []
   },
   {
-    "d": "基于DiscuzX 的镜像",
-    "fork": true,
-    "l": null,
-    "n": "DiscuzX",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "distributors",
     "t": [],
@@ -1517,7 +1031,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "dk-drone",
     "t": [],
@@ -1526,14 +1039,12 @@
   },
   {
     "d": "a product exchange platform",
-    "fork": false,
     "l": null,
     "n": "dk-exchange",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "dk-grid",
     "t": [],
@@ -1542,7 +1053,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "dk-power-station",
     "t": [],
@@ -1551,7 +1061,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "dk-purchase-order",
     "t": [],
@@ -1560,7 +1069,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "dk-unincore-signup",
     "t": [],
@@ -1569,7 +1077,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "dk-wholesale",
     "t": [],
@@ -1578,7 +1085,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "dkwholesale-wig",
     "t": [],
@@ -1586,22 +1092,7 @@
     "d_source": "readme"
   },
   {
-    "d": "CakePHP CookBook",
-    "fork": true,
-    "l": "Makefile",
-    "n": "docs",
-    "t": []
-  },
-  {
-    "d": "🃏 A magical documentation site generator.",
-    "fork": true,
-    "l": null,
-    "n": "docsify",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "donation",
     "t": [],
@@ -1610,7 +1101,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "dongguan-houjie-yusheng-shoes",
     "t": [],
@@ -1618,43 +1108,27 @@
     "d_source": "readme"
   },
   {
+    "d": null,
+    "l": "TypeScript",
+    "n": "dotku-studio",
+    "t": [],
+    "d_enriched": "Creative studio platform for digital design, branding, and multimedia content production services",
+    "d_source": "claude"
+  },
+  {
     "d": "dotku's github main page",
-    "fork": false,
     "l": "HTML",
     "n": "dotku.github.io",
     "t": []
   },
   {
     "d": "My personal front end code library",
-    "fork": false,
     "l": "CSS",
     "n": "dpatch",
     "t": []
   },
   {
-    "d": "The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.",
-    "fork": true,
-    "l": null,
-    "n": "dub",
-    "t": []
-  },
-  {
-    "d": "Dubbo is a distributed, high performance RPC framework enpowering applications with service import/export capabilities.",
-    "fork": true,
-    "l": "Java",
-    "n": "dubbo",
-    "t": []
-  },
-  {
-    "d": "DukePHP 是基于 ThinkPHP 3.2 的维护版本",
-    "fork": true,
-    "l": "PHP",
-    "n": "dukephp",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "dummy-chat",
     "t": [],
@@ -1663,7 +1137,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "dummy-react-tree-view",
     "t": [],
@@ -1672,7 +1145,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "dummy-tools",
     "t": [],
@@ -1680,15 +1152,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Asynchronous Javascript templating for the browser and server",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "dustjs",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "e-commerce",
     "t": [],
@@ -1696,15 +1160,7 @@
     "d_source": "readme"
   },
   {
-    "d": "An open source project for chinese plate recognition. It aims to be Easy, Flexible, and Accurate. Welcome to contribute your expertise !",
-    "fork": true,
-    "l": "C++",
-    "n": "EasyPR",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ebike",
     "t": [],
@@ -1713,7 +1169,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ecard-service",
     "t": [],
@@ -1721,22 +1176,13 @@
     "d_source": "readme"
   },
   {
-    "d": "A powerful charting and visualization library for browser",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "echarts",
-    "t": []
-  },
-  {
     "d": "selling iphone devices",
-    "fork": false,
     "l": null,
     "n": "ecom-iphone",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ecommerce",
     "t": [],
@@ -1744,29 +1190,13 @@
     "d_source": "readme"
   },
   {
-    "d": "💰 🌱  E-commerce store built with Next.js and Stripe checkout",
-    "fork": true,
-    "l": null,
-    "n": "ecommerce-nextjs-stripe-checkout",
-    "t": []
-  },
-  {
     "d": "An app to enhance the SEO feature for ECWid platform.",
-    "fork": false,
     "l": "HTML",
     "n": "ecseo",
     "t": []
   },
   {
-    "d": "Next.js Commerce — Ecwid by Lightspeed",
-    "fork": true,
-    "l": null,
-    "n": "ecwid-nextjs-commerce",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "editorial-committee",
     "t": [],
@@ -1775,7 +1205,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "education-fund",
     "t": [],
@@ -1784,7 +1213,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "education-index",
     "t": [],
@@ -1793,14 +1221,12 @@
   },
   {
     "d": "Education could be trackable. Education might not make you a super rich, but it would help you to achieve your success and your dream.",
-    "fork": false,
     "l": null,
     "n": "education-manager",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "eggshell-media",
     "t": [],
@@ -1808,36 +1234,13 @@
     "d_source": "readme"
   },
   {
-    "d": "Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "electron-packager",
-    "t": []
-  },
-  {
     "d": "an app that can receive the print command from server",
-    "fork": false,
     "l": "TypeScript",
     "n": "electron-printer",
     "t": []
   },
   {
-    "d": "A Foundation for Scalable Cross-Platform Apps",
-    "fork": true,
-    "l": null,
-    "n": "electron-react-boilerplate",
-    "t": []
-  },
-  {
-    "d": "ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation",
-    "fork": true,
-    "l": "C++",
-    "n": "ELF",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "email_test",
     "t": [],
@@ -1845,36 +1248,13 @@
     "d_source": "readme"
   },
   {
-    "d": "GitHub Action to generate embeddings from the markdown files in your repository.",
-    "fork": true,
-    "l": "TypeScript",
-    "n": "embeddings-generator",
-    "t": []
-  },
-  {
-    "d": "Ember.js - A JavaScript framework for creating ambitious web applications",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "ember.js",
-    "t": []
-  },
-  {
     "d": "To lower the fee, build my own GUI miner.",
-    "fork": false,
     "l": null,
     "n": "eminer",
     "t": []
   },
   {
-    "d": "Your Personal Companion Robot",
-    "fork": true,
-    "l": null,
-    "n": "Emo",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "en",
     "t": [],
@@ -1882,15 +1262,7 @@
     "d_source": "claude"
   },
   {
-    "d": "a Node.js Realtime BaaS like Firebase by Socket.io and MongoDB",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "end",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "entrepreneur",
     "t": [],
@@ -1898,15 +1270,7 @@
     "d_source": "readme"
   },
   {
-    "d": "ECMAScript 6: Feature Overview & Comparison",
-    "fork": true,
-    "l": "HTML",
-    "n": "es6-features",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "esg",
     "t": [],
@@ -1914,15 +1278,7 @@
     "d_source": "readme"
   },
   {
-    "d": "a JavaScript library of core Ethereum functions ",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "ethereumjs-lib",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "evata",
     "t": [],
@@ -1930,29 +1286,7 @@
     "d_source": "claude"
   },
   {
-    "d": "A tutorial on how to build an Excel Custom Function Add-In using the new Office JavaScript API.",
-    "fork": true,
-    "l": null,
-    "n": "excel-custom-function-add-in",
-    "t": []
-  },
-  {
-    "d": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-    "fork": true,
-    "l": null,
-    "n": "expo",
-    "t": []
-  },
-  {
-    "d": "A workflow with full live reload for webpack&express application.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "express-webpack-full-live-reload-example",
-    "t": []
-  },
-  {
     "d": "file extension list",
-    "fork": false,
     "l": null,
     "n": "ext",
     "t": [],
@@ -1961,7 +1295,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "extensions",
     "t": [],
@@ -1969,24 +1302,13 @@
     "d_source": "claude"
   },
   {
-    "d": null,
-    "fork": true,
-    "l": null,
-    "n": "fad-react-bootstrap-table2",
-    "t": [],
-    "d_enriched": "Empower your business with dynamic, responsive data visualization and manag",
-    "d_source": "ollama"
-  },
-  {
     "d": "most farmers doesn't know how to plan their farm, this is a social share platform that allow farmers understand how other ppl farm as your planing reference.",
-    "fork": false,
     "l": null,
     "n": "farmers-planer",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "fas",
     "t": [],
@@ -1995,7 +1317,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "fashion-classifier",
     "t": [],
@@ -2003,15 +1324,7 @@
     "d_source": "readme"
   },
   {
-    "d": "A fast JSON parser/generator for Java.  ",
-    "fork": true,
-    "l": "Java",
-    "n": "fastjson",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "PHP",
     "n": "fengjieinc-wordpress-4",
     "t": [],
@@ -2019,15 +1332,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Standards either proposed or approved by the Framework Interop Group",
-    "fork": true,
-    "l": null,
-    "n": "fig-standards",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "PHP",
     "n": "fighton_php",
     "t": [],
@@ -2036,7 +1341,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "fin-book",
     "t": [],
@@ -2045,7 +1349,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "finance",
     "t": [],
@@ -2054,7 +1357,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "firebase-analytics-demo",
     "t": [],
@@ -2063,35 +1365,18 @@
   },
   {
     "d": "Personal Protective Equipment Database",
-    "fork": false,
     "l": "HTML",
     "n": "firebase-ppedb",
     "t": []
   },
   {
     "d": "A better tool to manage the firebase storage",
-    "fork": false,
     "l": null,
     "n": "firebase-storage-manager",
     "t": []
   },
   {
-    "d": "Codelab for building a WebRTC Video chat application using Firebase Cloudstore.",
-    "fork": true,
-    "l": null,
-    "n": "FirebaseRTC",
-    "t": []
-  },
-  {
-    "d": "Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3",
-    "fork": true,
-    "l": "PHP",
-    "n": "fis",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "flea-market",
     "t": [],
@@ -2100,7 +1385,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "fleet-professional-service",
     "t": [],
@@ -2108,43 +1392,25 @@
     "d_source": "claude"
   },
   {
-    "d": "Drag & drop UI to build your customized LLM flow",
-    "fork": true,
-    "l": null,
-    "n": "Flowise",
-    "t": []
-  },
-  {
     "d": "my first flutter app",
-    "fork": false,
     "l": "C++",
     "n": "fluent-app",
     "t": []
   },
   {
-    "d": "Application Architecture for Building User Interfaces",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "flux",
-    "t": []
-  },
-  {
     "d": "Focus Matrix is a lightweight, privacy-first task management tool based on the Eisenhower Matrix to help you prioritize what truly matters — all stored locally in your browser.",
-    "fork": false,
     "l": "TypeScript",
     "n": "focus-matrix",
     "t": []
   },
   {
     "d": "Anyone could join this community and share what their prediction on future event, no mater you use math, computer science, mediation or other methods. We are looking for high accurate rate predication person.",
-    "fork": false,
     "l": null,
     "n": "forecasters",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "foresight",
     "t": [],
@@ -2152,15 +1418,7 @@
     "d_source": "claude"
   },
   {
-    "d": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "foundation-sites",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "fpga",
     "t": [],
@@ -2168,29 +1426,13 @@
     "d_source": "readme"
   },
   {
-    "d": "ThinkPHP Framework",
-    "fork": true,
-    "l": null,
-    "n": "framework",
-    "t": []
-  },
-  {
-    "d": "Full Featured HTML Framework For Building iOS & Android Apps",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "Framework7",
-    "t": []
-  },
-  {
     "d": "I will develop the feature you requested for free (but I charge if that's private or customized feature).",
-    "fork": false,
     "l": null,
     "n": "free-software-development-service",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "free-webhost",
     "t": [],
@@ -2199,7 +1441,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "freecdn",
     "t": [],
@@ -2207,43 +1448,19 @@
     "d_source": "readme"
   },
   {
-    "d": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "FreeCodeCamp",
-    "t": []
-  },
-  {
-    "d": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
-    "fork": true,
-    "l": null,
-    "n": "Front-end-Developer-Interview-Questions-And-Answers",
-    "t": []
-  },
-  {
-    "d": "2018 edition of our front-end development handbook",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "front-end-handbook-2018",
-    "t": []
-  },
-  {
     "d": "福建文化网是一个致力于展示和传播福建省丰富文化遗产的在线平台。本网站由福建省文化厅主办，福建省图书馆承办与制作。",
-    "fork": false,
     "l": "TypeScript",
     "n": "fujian-culture",
     "t": []
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "TypeScript",
     "n": "full-stack",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "fundraising",
     "t": [],
@@ -2252,7 +1469,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "funplus-store",
     "t": [],
@@ -2261,21 +1477,18 @@
   },
   {
     "d": "the official website for funplus tech",
-    "fork": false,
     "l": "HTML",
     "n": "funplustech",
     "t": []
   },
   {
     "d": "Guangdong Fuying International Supply Chain Management Co., Ltd.",
-    "fork": false,
     "l": "HTML",
     "n": "fuying-international-supply-chain",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "game-education",
     "t": [],
@@ -2284,7 +1497,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "game-exchange-box",
     "t": [],
@@ -2293,7 +1505,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "gemma-n3-tests",
     "t": [],
@@ -2301,22 +1512,13 @@
     "d_source": "readme"
   },
   {
-    "d": "Yeoman generator for ThinkPHP | ThinkPHP的Yeoman自动构建工具",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "generator-thinkphp",
-    "t": []
-  },
-  {
     "d": "Automatically exported from code.google.com/p/geoplugin",
-    "fork": false,
     "l": null,
     "n": "geoplugin",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "get-rich",
     "t": [],
@@ -2325,7 +1527,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "gh-user-stat-scatter-chart",
     "t": [],
@@ -2333,22 +1534,13 @@
     "d_source": "readme"
   },
   {
-    "d": "A Javascript library to parse and manipulate GICS codes",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "gics",
-    "t": []
-  },
-  {
     "d": "Aerospace & Defense, Building Products, Construction & Engineering, Electrical Equipment, Industrial Conglomerates, Machinery, Trading Companies & Distributors",
-    "fork": false,
     "l": null,
     "n": "gics-2010-capital-goods",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "gics-2020-commercial-and-professional-services",
     "t": [],
@@ -2357,7 +1549,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "git-test",
     "t": [],
@@ -2366,14 +1557,12 @@
   },
   {
     "d": "A github based notebook",
-    "fork": false,
     "l": null,
     "n": "gitbook",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "github-cms",
     "t": [],
@@ -2382,42 +1571,18 @@
   },
   {
     "d": "Use githubDB as database",
-    "fork": false,
     "l": null,
     "n": "github-database-practice",
     "t": []
   },
   {
-    "d": "🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).",
-    "fork": true,
-    "l": null,
-    "n": "github-rank",
-    "t": []
-  },
-  {
     "d": "I want to redirect URL from something like visiting https://github.com/dotku/tech/tree/master/saas by using https://ghr.tld/username/reponame/folder-file-url.ext",
-    "fork": false,
     "l": "CSS",
     "n": "github-redirector",
     "t": []
   },
   {
-    "d": "A Lightweight Cloud based JSON Database with a MongoDB like API for Node.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "githubDB",
-    "t": []
-  },
-  {
-    "d": "A collection of useful .gitignore templates",
-    "fork": true,
-    "l": null,
-    "n": "gitignore",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "global",
     "t": [],
@@ -2426,14 +1591,12 @@
   },
   {
     "d": "A simple sample for creating global node cli",
-    "fork": false,
     "l": "JavaScript",
     "n": "global-node-cli-sample",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "gloves",
     "t": [],
@@ -2441,36 +1604,7 @@
     "d_source": "readme"
   },
   {
-    "d": "the easiest way to use Google Maps",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "gmaps",
-    "t": []
-  },
-  {
-    "d": "Official Go implementation of the Ethereum protocol",
-    "fork": true,
-    "l": "Go",
-    "n": "go-ethereum",
-    "t": []
-  },
-  {
-    "d": "Yet another open source forum written in Golang, React and PostgreSQL.",
-    "fork": true,
-    "l": "Go",
-    "n": "godiscourse",
-    "t": []
-  },
-  {
-    "d": "JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "GoJS",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "golden-data-set",
     "t": [],
@@ -2478,29 +1612,19 @@
     "d_source": "claude"
   },
   {
-    "d": "爬取amazon/bestbuy/costco/6pm 的商品详情",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "goods-crawling",
-    "t": []
-  },
-  {
     "d": "A git for preparing to get into to Google",
-    "fork": false,
     "l": null,
     "n": "google-challenge",
     "t": []
   },
   {
     "d": "Google Drive shared folder won't be able to search now, let me create one with search feature.",
-    "fork": false,
     "l": null,
     "n": "google-drive-share-search",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "google-firebase-login-demo",
     "t": [],
@@ -2509,21 +1633,12 @@
   },
   {
     "d": "Automatically exported from code.google.com/p/google-styleguide",
-    "fork": false,
     "l": "Python",
     "n": "google-styleguide",
     "t": []
   },
   {
-    "d": "Google translate api ported to Deno",
-    "fork": true,
-    "l": null,
-    "n": "google-translate-api",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "goose-tools",
     "t": [],
@@ -2531,22 +1646,7 @@
     "d_source": "readme"
   },
   {
-    "d": "This quick-start app is built in PHP and lets you get started with the Google+ platform in a few minutes.",
-    "fork": true,
-    "l": "HTML",
-    "n": "gplus-quickstart-php",
-    "t": []
-  },
-  {
-    "d": "Clone of OpenAI's ChatGPT and Playground environments to enable experimenting with API keys.",
-    "fork": true,
-    "l": null,
-    "n": "gpt4-playground",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "gpulaw-attorney-services",
     "t": [],
@@ -2555,7 +1655,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "gpulaw-crypto",
     "t": [],
@@ -2564,7 +1663,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "gpulaw-legal-marketplace",
     "t": [],
@@ -2573,7 +1671,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "gpulaw_cn",
     "t": [],
@@ -2582,7 +1679,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "gpulaw_hk",
     "t": [],
@@ -2591,7 +1687,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "gr-lawyer-ai-assistant-system",
     "t": [],
@@ -2600,21 +1695,12 @@
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "HTML",
     "n": "graphql-client-demo",
     "t": []
   },
   {
-    "d": "An example code structure for a GraphQL-powered mobile app. Contains client and server code.",
-    "fork": true,
-    "l": null,
-    "n": "GraphQL-example",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "grok-image-community",
     "t": [],
@@ -2623,14 +1709,12 @@
   },
   {
     "d": "My gtd list, hopefully sync with Apple task",
-    "fork": false,
     "l": null,
     "n": "gtd",
     "t": []
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "guangzhou-youwo-psychology",
     "t": [],
@@ -2639,7 +1723,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "guplaw",
     "t": [],
@@ -2648,7 +1731,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "hailai-trading",
     "t": [],
@@ -2656,15 +1738,7 @@
     "d_source": "readme"
   },
   {
-    "d": "130+ handlebars helpers in ~20 categories. Can be used with Assemble, Ghost, YUI, express.js etc.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "handlebars-helpers",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "haroctech",
     "t": [],
@@ -2672,29 +1746,7 @@
     "d_source": "readme"
   },
   {
-    "d": "A project base for building modern JavaScript applications",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "heisenberg",
-    "t": []
-  },
-  {
-    "d": "The official PHP buildpack for Heroku.",
-    "fork": true,
-    "l": "Shell",
-    "n": "heroku-buildpack-php",
-    "t": []
-  },
-  {
-    "d": "A virtual machine designed for executing programs written in Hack and PHP. ",
-    "fork": true,
-    "l": "C++",
-    "n": "hhvm",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "hippa-free-chat",
     "t": [],
@@ -2703,35 +1755,18 @@
   },
   {
     "d": "I'm trying to create a timeline for history of computer",
-    "fork": false,
     "l": null,
     "n": "history-of-computer",
     "t": []
   },
   {
-    "d": "Repo for ChatGPT clone tutorial in Next.js using Humanloop.",
-    "fork": true,
-    "l": null,
-    "n": "hl-chatgpt-clone-typescript",
-    "t": []
-  },
-  {
-    "d": "A minimal web-UI for talking to Ollama (and OpenAI) servers",
-    "fork": true,
-    "l": "TypeScript",
-    "n": "hollama",
-    "t": []
-  },
-  {
     "d": "A origin based social network",
-    "fork": false,
     "l": null,
     "n": "hometown",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "hr",
     "t": [],
@@ -2740,14 +1775,12 @@
   },
   {
     "d": "Human Robot Interaction development",
-    "fork": false,
     "l": null,
     "n": "hri-development",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "huishang-garments",
     "t": [],
@@ -2756,7 +1789,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "ielts-bootcamp",
     "t": [],
@@ -2765,14 +1797,12 @@
   },
   {
     "d": "step by step to teach you something that school did teach.",
-    "fork": false,
     "l": null,
     "n": "income-advisor",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "industrial-advisor",
     "t": [],
@@ -2781,7 +1811,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "industry",
     "t": [],
@@ -2789,29 +1818,19 @@
     "d_source": "readme"
   },
   {
-    "d": "Scalable datastore for metrics, events, and real-time analytics",
-    "fork": true,
-    "l": "Go",
-    "n": "influxdb",
-    "t": []
-  },
-  {
     "d": "focusing the best way to find the info that client need",
-    "fork": false,
     "l": null,
     "n": "info-match-ai",
     "t": []
   },
   {
     "d": "compare different culture and help worldwide understanding",
-    "fork": false,
     "l": null,
     "n": "international-festivals",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "internet-service",
     "t": [],
@@ -2820,7 +1839,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "interview",
     "t": [],
@@ -2829,7 +1847,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "interview-java",
     "t": [],
@@ -2838,14 +1855,12 @@
   },
   {
     "d": "My interview question reviews",
-    "fork": false,
     "l": null,
     "n": "interview-review",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "investment",
     "t": [],
@@ -2854,7 +1869,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "investors",
     "t": [],
@@ -2863,7 +1877,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "involution-index",
     "t": [],
@@ -2872,7 +1885,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ios-fixers-list",
     "t": [],
@@ -2881,7 +1893,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ios-todo",
     "t": [],
@@ -2890,28 +1901,18 @@
   },
   {
     "d": "A temporary share point for iOS",
-    "fork": false,
     "l": null,
     "n": "ios-wechat-share",
     "t": []
   },
   {
     "d": "Automatically exported from code.google.com/p/iphone-photo-picker",
-    "fork": false,
     "l": "Objective-C",
     "n": "iphone-photo-picker",
     "t": []
   },
   {
-    "d": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
-    "fork": true,
-    "l": "Python",
-    "n": "ipython",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "iris-fortune",
     "t": [],
@@ -2920,7 +1921,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "japanese-cosmetics",
     "t": [],
@@ -2929,7 +1929,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "jasmine-on-grunt-practice",
     "t": [],
@@ -2938,21 +1937,18 @@
   },
   {
     "d": "There are two demo, one is simple calculator and other one would split the math input and deal the calculation.",
-    "fork": false,
     "l": "Java",
     "n": "java-demo-calculator",
     "t": []
   },
   {
     "d": "a demo from a iteye blog",
-    "fork": false,
     "l": "Java",
     "n": "java-demo-jetty-war",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "Java",
     "n": "java-event",
     "t": [],
@@ -2961,14 +1957,12 @@
   },
   {
     "d": "Sample Code for Java",
-    "fork": false,
     "l": "Java",
     "n": "java-sample",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "java-spring-demo-guestbook",
     "t": [],
@@ -2977,28 +1971,18 @@
   },
   {
     "d": "Create a JavaScript repo which simulate the data structure",
-    "fork": false,
     "l": "JavaScript",
     "n": "javascript-java-chllenge",
     "t": []
   },
   {
     "d": "A dev note for javascript-vs-java",
-    "fork": false,
     "l": null,
     "n": "javascript-vs-java",
     "t": []
   },
   {
-    "d": "30 Day Vanilla JS Challenge",
-    "fork": true,
-    "l": "HTML",
-    "n": "JavaScript30",
-    "t": []
-  },
-  {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "jit-order-tracking-system",
     "t": [],
@@ -3007,14 +1991,12 @@
   },
   {
     "d": "thinkphp 上的网友 将军 写的 file class",
-    "fork": false,
     "l": "PHP",
     "n": "jj-file",
     "t": []
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "job-finding-tracking-system",
     "t": [],
@@ -3023,14 +2005,12 @@
   },
   {
     "d": "Finding a desired job is not just for covering the living cost, but it is also a invest for your future, and your dream.",
-    "fork": false,
     "l": "JavaScript",
     "n": "job-hunt",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "job-hunt-tracker",
     "t": [],
@@ -3039,14 +2019,12 @@
   },
   {
     "d": "A job seeker's interview arrangement guide",
-    "fork": false,
     "l": null,
     "n": "job-seeker",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "job-xiaomi",
     "t": [],
@@ -3055,7 +2033,6 @@
   },
   {
     "d": "share the jobs",
-    "fork": false,
     "l": null,
     "n": "jobs",
     "t": [],
@@ -3064,14 +2041,12 @@
   },
   {
     "d": "It might be just a json file...",
-    "fork": false,
     "l": "HTML",
     "n": "jq-project-lister",
     "t": []
   },
   {
     "d": "I realized that HTML5 Video is cached ready by preload feature by default.        It is faster to load file directly from browser compare to download to the local. So I created        this project to load the web videos.",
-    "fork": false,
     "l": "HTML",
     "n": "js-media-player",
     "t": [
@@ -3081,49 +2056,32 @@
   },
   {
     "d": "want to able to check the version support",
-    "fork": false,
     "l": null,
     "n": "js-version",
     "t": []
   },
   {
-    "d": "Simple Json to standard HTML table converter in fastest way",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "Json-to-HTML-Table",
-    "t": []
-  },
-  {
     "d": "A fake json file https://my-json-server.typicode.com/dotku/jsonPlaceholder",
-    "fork": false,
     "l": null,
     "n": "jsonPlaceholder",
     "t": []
   },
   {
-    "d": "A simple jQuery plugin to get your JSON data on a table.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "jsonTable",
-    "t": []
-  },
-  {
-    "d": "Wrapper jsPDF for React",
-    "fork": true,
-    "l": null,
-    "n": "jspdf-react",
-    "t": []
+    "d": null,
+    "l": "MDX",
+    "n": "jy-news",
+    "t": [],
+    "d_enriched": "News and media publication platform delivering curated journalism and current events coverage",
+    "d_source": "claude"
   },
   {
     "d": "website for jaytech llc",
-    "fork": false,
     "l": "JavaScript",
     "n": "jytech",
     "t": []
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "jytech-recruiting-interns",
     "t": [],
@@ -3132,7 +2090,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "kandi-store",
     "t": [],
@@ -3141,7 +2098,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "kids-drawing",
     "t": [],
@@ -3150,7 +2106,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "kids-game",
     "t": [],
@@ -3159,7 +2114,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "kubernates-demo",
     "t": [],
@@ -3168,7 +2122,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "lab-actions-npm-install",
     "t": [],
@@ -3177,21 +2130,18 @@
   },
   {
     "d": "A place for playing with angularjs",
-    "fork": false,
     "l": "PHP",
     "n": "lab-angular",
     "t": []
   },
   {
     "d": "A lab repo for Apollo GraphQL",
-    "fork": false,
     "l": "JavaScript",
     "n": "lab-apollo-graphql",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "EJS",
     "n": "lab-codespaces",
     "t": [],
@@ -3200,7 +2150,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "lab-docusaurus",
     "t": [],
@@ -3209,7 +2158,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "lab-expo",
     "t": [],
@@ -3218,14 +2166,12 @@
   },
   {
     "d": "A place for studying Node.js Express",
-    "fork": false,
     "l": "JavaScript",
     "n": "lab-express",
     "t": []
   },
   {
     "d": "研究 GitHub 的一些东西",
-    "fork": false,
     "l": null,
     "n": "lab-github",
     "t": [],
@@ -3234,14 +2180,12 @@
   },
   {
     "d": "A laboratory for Heroku hosting",
-    "fork": false,
     "l": "JavaScript",
     "n": "lab-heroku-node",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "lab-heroku-php",
     "t": [],
@@ -3250,7 +2194,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "lab-javascript",
     "t": [],
@@ -3259,7 +2202,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "lab-react",
     "t": [],
@@ -3268,7 +2210,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "lab-react-navigation",
     "t": [],
@@ -3277,7 +2218,6 @@
   },
   {
     "d": "研究 Ruby 的地方",
-    "fork": false,
     "l": null,
     "n": "lab-ruby",
     "t": [],
@@ -3286,14 +2226,12 @@
   },
   {
     "d": "A study process to ThinkPHP framework",
-    "fork": false,
     "l": "PHP",
     "n": "lab-thinkphp",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "langchain-examples",
     "t": [],
@@ -3302,7 +2240,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "langchain-lab",
     "t": [],
@@ -3311,7 +2248,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Dockerfile",
     "n": "langflow",
     "t": [],
@@ -3320,14 +2256,12 @@
   },
   {
     "d": "paypal dev demo based on laravel",
-    "fork": false,
     "l": null,
     "n": "laravel_paypal",
     "t": []
   },
   {
     "d": "study babel",
-    "fork": false,
     "l": "JavaScript",
     "n": "learn-babel",
     "t": [],
@@ -3336,7 +2270,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "learn-babylon",
     "t": [],
@@ -3345,7 +2278,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "learn-flask",
     "t": [],
@@ -3354,21 +2286,18 @@
   },
   {
     "d": "你可以 pork 本 repo 来实践学习 git 的使用",
-    "fork": false,
     "l": null,
     "n": "learn-git",
     "t": []
   },
   {
     "d": "Github is a version control service provider, but it is not just Git",
-    "fork": false,
     "l": null,
     "n": "learn-github",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "Jupyter Notebook",
     "n": "learn-jupyter",
     "t": [],
@@ -3377,7 +2306,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Jupyter Notebook",
     "n": "learn-llama",
     "t": [],
@@ -3386,7 +2314,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "learn-node-java",
     "t": [],
@@ -3395,7 +2322,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "learn-python",
     "t": [],
@@ -3404,14 +2330,12 @@
   },
   {
     "d": "source via https://github.com/ruanyf/react-demos",
-    "fork": false,
     "l": "JavaScript",
     "n": "learn-reactjs",
     "t": []
   },
   {
     "d": "learning redux",
-    "fork": false,
     "l": "JavaScript",
     "n": "learn-redux",
     "t": [],
@@ -3419,22 +2343,13 @@
     "d_source": "claude"
   },
   {
-    "d": "A simple, single file implementation of Redux for quick learning ",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "Learn-Redux-1",
-    "t": []
-  },
-  {
     "d": "Robot Operation System Study",
-    "fork": false,
     "l": null,
     "n": "learn-ros",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "learn-typescript",
     "t": [],
@@ -3443,7 +2358,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "learn-webpack",
     "t": [],
@@ -3452,7 +2366,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "learning-chinese-literature",
     "t": [],
@@ -3461,7 +2374,6 @@
   },
   {
     "d": "刷题又不难，不为自己的懒惰找借口",
-    "fork": false,
     "l": "JavaScript",
     "n": "leetcode-js",
     "t": [],
@@ -3470,21 +2382,18 @@
   },
   {
     "d": "My frontend libraries",
-    "fork": false,
     "l": "JavaScript",
     "n": "lib",
     "t": []
   },
   {
     "d": "How to live better and wealth?",
-    "fork": false,
     "l": "HTML",
     "n": "lifestyle",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "linkedin-auto-apply-agent-extension",
     "t": [],
@@ -3493,7 +2402,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "linkedin-job-application-agent",
     "t": [],
@@ -3501,15 +2409,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Full reference of linkedin answers for skill assessments, linkedin test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-poin, excel ...) ответы на квиз, LinkedIn quiz lösungen, linkedin quiz las respuestas",
-    "fork": true,
-    "l": null,
-    "n": "linkedin-skill-assessments-quizzes",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "liquidation",
     "t": [],
@@ -3518,7 +2418,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "little-smart-brother",
     "t": [],
@@ -3527,7 +2426,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "live-p2p-chat",
     "t": [],
@@ -3536,7 +2434,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "liveagain-ai",
     "t": [],
@@ -3544,22 +2441,13 @@
     "d_source": "claude"
   },
   {
-    "d": "Inference code for LLaMA models",
-    "fork": true,
-    "l": null,
-    "n": "llama",
-    "t": []
-  },
-  {
     "d": "A finance management advisor",
-    "fork": false,
     "l": null,
     "n": "llama-saving",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "local-tour",
     "t": [],
@@ -3568,7 +2456,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "lounge-franchise-opportunities",
     "t": [],
@@ -3577,7 +2464,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "lunar-year",
     "t": [],
@@ -3585,52 +2471,13 @@
     "d_source": "claude"
   },
   {
-    "d": null,
-    "fork": true,
-    "l": "Jupyter Notebook",
-    "n": "machinelearning",
-    "t": [],
-    "d_enriched": "Transforming business data into strategic insights using advanced machine l",
-    "d_source": "ollama"
-  },
-  {
-    "d": "The first native Mac GUI for Bitcoin, Litecoin and Alt Coin mining",
-    "fork": true,
-    "l": null,
-    "n": "MacMiner",
-    "t": []
-  },
-  {
-    "d": "Simple parser to allow addition of HTML attributes when writting markdown",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "markdown-attr",
-    "t": []
-  },
-  {
     "d": "A markdown automatic",
-    "fork": false,
     "l": null,
     "n": "markdown-directive",
     "t": []
   },
   {
-    "d": "Easily add classes to your markdown",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "markdown-it-classy",
-    "t": []
-  },
-  {
-    "d": "A Markdown parser for javascript",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "markdown-js",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "marketing",
     "t": [],
@@ -3639,7 +2486,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "marketing-bluetwelve-studio",
     "t": [],
@@ -3648,21 +2494,18 @@
   },
   {
     "d": "compare the best marketplaces you can sell your products.",
-    "fork": false,
     "l": "HTML",
     "n": "marketplaces-rank",
     "t": []
   },
   {
     "d": "create a usa mask stock map",
-    "fork": false,
     "l": null,
     "n": "mask-map-usa",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "mask-wholesale",
     "t": [],
@@ -3670,29 +2513,13 @@
     "d_source": "readme"
   },
   {
-    "d": "React components that implement Google's Material Design.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "material-ui",
-    "t": []
-  },
-  {
-    "d": "Material Design components for Angular 2",
-    "fork": true,
-    "l": "TypeScript",
-    "n": "material2",
-    "t": []
-  },
-  {
     "d": "Multi-Channel Network",
-    "fork": false,
     "l": null,
     "n": "mcn-platform",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "mcpm",
     "t": [],
@@ -3701,21 +2528,12 @@
   },
   {
     "d": "tell me who are you?",
-    "fork": false,
     "l": null,
     "n": "me",
     "t": []
   },
   {
-    "d": "MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "mean",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "meaningful-months",
     "t": [],
@@ -3724,7 +2542,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "media",
     "t": [],
@@ -3733,7 +2550,6 @@
   },
   {
     "d": "a media studio",
-    "fork": false,
     "l": "TypeScript",
     "n": "media-studio",
     "t": [],
@@ -3742,7 +2558,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "medical-insurance-picker",
     "t": [],
@@ -3750,15 +2565,7 @@
     "d_source": "claude"
   },
   {
-    "d": "💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "medis",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "medtravel-china",
     "t": [],
@@ -3767,7 +2574,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "member-super-rentals",
     "t": [],
@@ -3776,49 +2582,30 @@
   },
   {
     "d": "A membership based e-commerce platform",
-    "fork": false,
     "l": "CSS",
     "n": "membership-commerce",
     "t": []
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "HTML",
     "n": "metamedia",
     "t": []
   },
   {
     "d": "a online social media platform",
-    "fork": false,
     "l": null,
     "n": "metaverse",
     "t": []
   },
   {
-    "d": "Meteor, the JavaScript App Platform",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "meteor",
-    "t": []
-  },
-  {
     "d": "A meteor demo project ",
-    "fork": false,
     "l": "CSS",
     "n": "meteor-dotku",
     "t": []
   },
   {
-    "d": "Meteor中文版示例程序 | Meteor Demo in Chinese",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "MeteorDemo",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "mfdrama",
     "t": [],
@@ -3827,7 +2614,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "micheal-travel",
     "t": [],
@@ -3835,24 +2621,7 @@
     "d_source": "readme"
   },
   {
-    "d": "The Discover Meteor book's example app. ",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "Microscope",
-    "t": []
-  },
-  {
-    "d": null,
-    "fork": true,
-    "l": null,
-    "n": "microsearch",
-    "t": [],
-    "d_enriched": "Empower precise information retrieval for your business with microsearch.",
-    "d_source": "ollama"
-  },
-  {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "milan-pet",
     "t": [],
@@ -3861,7 +2630,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "MDX",
     "n": "mintlify-docs",
     "t": [],
@@ -3870,7 +2638,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "mlm-sales-system",
     "t": [],
@@ -3879,7 +2646,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "mobile-phone-plan-picker",
     "t": [],
@@ -3887,22 +2653,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Simple, scalable state management.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "mobx",
-    "t": []
-  },
-  {
-    "d": "MobX 中文文档",
-    "fork": true,
-    "l": "HTML",
-    "n": "MobX-Docs-CN",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "model-exchange",
     "t": [],
@@ -3911,7 +2662,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "mogutech",
     "t": [],
@@ -3919,15 +2669,7 @@
     "d_source": "readme"
   },
   {
-    "d": "The MongoDB Database",
-    "fork": true,
-    "l": "C++",
-    "n": "mongo",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "mongodb-atlas-demo",
     "t": [],
@@ -3936,7 +2678,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "monkey-king",
     "t": [],
@@ -3945,7 +2686,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "mythology",
     "t": [],
@@ -3953,33 +2693,7 @@
     "d_source": "readme"
   },
   {
-    "d": "🔍 A truly minimal replacement for Create-React-App.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "nano-react-app",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": true,
-    "l": "JavaScript",
-    "n": "native-webrtc",
-    "t": [],
-    "d_enriched": "Empower real-time communication across devices with Native WebRTC solutions",
-    "d_source": "ollama"
-  },
-  {
-    "d": null,
-    "fork": true,
-    "l": "Python",
-    "n": "ncbirth",
-    "t": [],
-    "d_enriched": "Track and analyze North Carolina birth data to inform public health strateg",
-    "d_source": "ollama"
-  },
-  {
-    "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "next-appointment-app",
     "t": [],
@@ -3988,7 +2702,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "next-few-days",
     "t": [],
@@ -3997,7 +2710,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "next-mdx",
     "t": [],
@@ -4005,15 +2717,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS ORM, Intl App Router, Mdx Docs User Actions Kit, SaaS Commerce Shop Pricing Payments, Dark Mode, Modern Full Stack, Free ▲ more stars → more features",
-    "fork": true,
-    "l": null,
-    "n": "next-react-stripe-store",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "next-transation",
     "t": [],
@@ -4022,16 +2726,6 @@
   },
   {
     "d": null,
-    "fork": true,
-    "l": null,
-    "n": "NextChat",
-    "t": [],
-    "d_enriched": "Transforming communication for businesses with intuitive, user-centric chat",
-    "d_source": "ollama"
-  },
-  {
-    "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "nextjs-fastapi-starter",
     "t": [],
@@ -4039,29 +2733,13 @@
     "d_source": "readme"
   },
   {
-    "d": "Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.",
-    "fork": true,
-    "l": null,
-    "n": "nextjs-openai-doc-search",
-    "t": []
-  },
-  {
     "d": "an angular based events project",
-    "fork": false,
     "l": "HTML",
     "n": "ng-events",
     "t": []
   },
   {
-    "d": "Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "ng-file-upload",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "ng6",
     "t": [],
@@ -4069,15 +2747,7 @@
     "d_source": "readme"
   },
   {
-    "d": "A simple, flexible, responsive, retina-ready jQuery lightbox plugin.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "Nivo-Lightbox",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "no-experience-required-income",
     "t": [],
@@ -4086,14 +2756,12 @@
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "JavaScript",
     "n": "node-command-ls",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "node-file-upload",
     "t": [],
@@ -4102,7 +2770,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "node-file-upload-2",
     "t": [],
@@ -4111,28 +2778,12 @@
   },
   {
     "d": "create a human resource application by using node",
-    "fork": false,
     "l": null,
     "n": "node-hr",
     "t": []
   },
   {
-    "d": "Bridge API to connect with existing Java APIs.",
-    "fork": true,
-    "l": "C++",
-    "n": "node-java",
-    "t": []
-  },
-  {
-    "d": ":closed_book:《Node.js 包教不包会》",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "node-lessons",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "node-samples",
     "t": [],
@@ -4141,49 +2792,12 @@
   },
   {
     "d": "A repo to try out Node.js",
-    "fork": false,
     "l": "JavaScript",
     "n": "node-study",
     "t": []
   },
   {
-    "d": "A comprehensive Node.js tutorial for beginners",
-    "fork": true,
-    "l": "CSS",
-    "n": "NodeBeginnerBook",
-    "t": []
-  },
-  {
-    "d": ":baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "nodeclub",
-    "t": []
-  },
-  {
-    "d": "用node做一个命令行式的qq客户端！",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "nodeqq",
-    "t": []
-  },
-  {
-    "d": "An open IDE for web and native mobile development, built on top of Atom ",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "nuclide",
-    "t": []
-  },
-  {
-    "d": "A reusable charting library written in d3.js",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "nvd3",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "nvidia",
     "t": [],
@@ -4191,22 +2805,7 @@
     "d_source": "readme"
   },
   {
-    "d": "The unofficial OfferUp API.",
-    "fork": true,
-    "l": null,
-    "n": "offerup",
-    "t": []
-  },
-  {
-    "d": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",
-    "fork": true,
-    "l": null,
-    "n": "ollama",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "ollama-python-api",
     "t": [],
@@ -4215,7 +2814,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "ollama-web",
     "t": [],
@@ -4223,78 +2821,49 @@
     "d_source": "readme"
   },
   {
-    "d": "a content manager framework base on thinkphp3.2",
-    "fork": true,
-    "l": "PHP",
-    "n": "onethink",
-    "t": []
-  },
-  {
     "d": "A practice project with redux",
-    "fork": false,
     "l": "JavaScript",
     "n": "online-date-with-redux",
     "t": []
   },
   {
     "d": "there are many free webinars runs automatically and keep generate incomes... and it is actually just selling course... what's the real cost behind it? It could be infinity!!!",
-    "fork": false,
     "l": null,
     "n": "online-education",
     "t": []
   },
   {
     "d": "Open Company Database",
-    "fork": false,
     "l": "JavaScript",
     "n": "open-cb",
     "t": []
   },
   {
     "d": "A open sourced chat bot",
-    "fork": false,
     "l": null,
     "n": "open-chatbot",
     "t": []
   },
   {
-    "d": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-    "fork": true,
-    "l": null,
-    "n": "open-webui",
-    "t": []
-  },
-  {
     "d": "Demo Website: http://fnmili.com",
-    "fork": false,
     "l": "HTML",
     "n": "openfml",
     "t": []
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "HTML",
     "n": "openPhoneNumbersCSB",
     "t": []
   },
   {
     "d": "A open sourced search engine",
-    "fork": false,
     "l": null,
     "n": "opensearch",
     "t": []
   },
   {
-    "d": "OperatorNext is an AI-powered intelligent browser automation platform that understands and executes complex browser tasks through natural language processing.",
-    "fork": true,
-    "l": null,
-    "n": "OperatorNext",
-    "t": []
-  },
-  {
     "d": "有 300MB",
-    "fork": false,
     "l": "HTML",
     "n": "oracle-java-tutorial",
     "t": [],
@@ -4303,7 +2872,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "orgchart",
     "t": [],
@@ -4312,7 +2880,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "os",
     "t": [],
@@ -4321,7 +2888,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "overseas-chinese-kol-leaders",
     "t": [],
@@ -4329,15 +2895,7 @@
     "d_source": "readme"
   },
   {
-    "d": "jQuery Responsive Carousel.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "OwlCarousel2",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "paper",
     "t": [],
@@ -4345,22 +2903,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Better Markdown Parser in PHP",
-    "fork": true,
-    "l": "PHP",
-    "n": "parsedown",
-    "t": []
-  },
-  {
-    "d": "Validate your forms, frontend, without writing a single line of javascript",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "Parsley.js",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "payment",
     "t": [],
@@ -4369,14 +2912,12 @@
   },
   {
     "d": "one click subscribe/pay or unsubscribe from varied services",
-    "fork": false,
     "l": null,
     "n": "payment-automation",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "payment-gateways-rank",
     "t": [],
@@ -4385,14 +2926,12 @@
   },
   {
     "d": "Try to make tool to easily grab the build the pc builder with a certain budget.",
-    "fork": false,
     "l": null,
     "n": "pc-builder",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "pcb-quote",
     "t": [],
@@ -4401,7 +2940,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "pcb-tech",
     "t": [],
@@ -4410,7 +2948,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "pcbtech-header",
     "t": [],
@@ -4419,28 +2956,24 @@
   },
   {
     "d": "A quick way to create an article",
-    "fork": false,
     "l": "JavaScript",
     "n": "pen",
     "t": []
   },
   {
     "d": "Use github as storage for pen project",
-    "fork": false,
     "l": null,
     "n": "pen-storage-github",
     "t": []
   },
   {
     "d": "a community questing as for ChatGPT",
-    "fork": false,
     "l": null,
     "n": "people-ask",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "personal-detail-tool",
     "t": [],
@@ -4448,22 +2981,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Open software engineering platform and fun adventure game",
-    "fork": true,
-    "l": "PHP",
-    "n": "phabricator",
-    "t": []
-  },
-  {
-    "d": "Go AI program which implements the AlphaGo Zero paper",
-    "fork": true,
-    "l": "C++",
-    "n": "PhoenixGo",
-    "t": []
-  },
-  {
     "d": "partner with carku bettery power",
-    "fork": false,
     "l": null,
     "n": "phone-bettery-charging-rent-kiosks-station-map",
     "t": [
@@ -4477,70 +2995,30 @@
   },
   {
     "d": "I'm trying to list some unknown phones, please share yours and welcome to indicate those phone number if you can.",
-    "fork": false,
     "l": null,
     "n": "phonecall",
     "t": []
   },
   {
     "d": "A project lister view by reading the directories.",
-    "fork": false,
     "l": "PHP",
     "n": "php-project-lister",
     "t": []
   },
   {
     "d": "get the class from shopnc",
-    "fork": false,
     "l": "PHP",
     "n": "php-validate",
     "t": []
   },
   {
     "d": "Just a file managment tool",
-    "fork": false,
     "l": null,
     "n": "php_dkDir",
     "t": []
   },
   {
-    "d": " phpBB Development: phpBB is a popular open-source bulletin board written in PHP. This repository also contains the history of version 2.",
-    "fork": true,
-    "l": null,
-    "n": "phpbb",
-    "t": []
-  },
-  {
-    "d": "PHP Wrapper for the Flickr API",
-    "fork": true,
-    "l": "PHP",
-    "n": "phpflickr",
-    "t": []
-  },
-  {
-    "d": "The classic email sending library for PHP",
-    "fork": true,
-    "l": "PHP",
-    "n": "PHPMailer",
-    "t": []
-  },
-  {
-    "d": "The PHP Unit Testing framework.",
-    "fork": true,
-    "l": "PHP",
-    "n": "phpunit",
-    "t": []
-  },
-  {
-    "d": "Pico is a stupidly simple, blazing fast, flat file CMS.",
-    "fork": true,
-    "l": "PHP",
-    "n": "Pico",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "pipeline-inspection",
     "t": [],
@@ -4548,36 +3026,13 @@
     "d_source": "readme"
   },
   {
-    "d": "The public-facing website for http://plnkr.co",
-    "fork": true,
-    "l": "CoffeeScript",
-    "n": "plunker_www",
-    "t": []
-  },
-  {
-    "d": "A simple HTML5, YouTube and Vimeo player",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "plyr",
-    "t": []
-  },
-  {
     "d": "Both Facebook and Twitter are blocked by China. I wish there would be a worldwide political friendly social website.",
-    "fork": false,
     "l": null,
     "n": "political-friendly-social",
     "t": []
   },
   {
-    "d": "A library to make creating CSS polyfills much easier.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "polyfill",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "portfolio",
     "t": [],
@@ -4585,43 +3040,25 @@
     "d_source": "readme"
   },
   {
-    "d": "PostHTML is a tool to transform HTML/XML with JS plugins. By http://theprotein.io team",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "posthtml",
-    "t": []
-  },
-  {
     "d": "Personal Protective Equipment (PPE) Communities Center",
-    "fork": false,
     "l": "HTML",
     "n": "ppex",
     "t": []
   },
   {
     "d": "A platform to manage PPE exchange market.",
-    "fork": false,
     "l": null,
     "n": "ppexm",
     "t": []
   },
   {
-    "d": "Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "prepack",
-    "t": []
-  },
-  {
     "d": "A pre booking tool alternative for turo",
-    "fork": false,
     "l": "HTML",
     "n": "prero",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "procurement-ppe",
     "t": [],
@@ -4630,7 +3067,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "product",
     "t": [],
@@ -4639,7 +3075,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "programming-direction",
     "t": [],
@@ -4647,22 +3082,13 @@
     "d_source": "readme"
   },
   {
-    "d": "PromptPET: A comprehensive toolkit for Prompt Engineering, offering advanced tools for crafting, refining, and optimizing prompts and flow engineering processes",
-    "fork": true,
-    "l": null,
-    "n": "PromptPET",
-    "t": []
-  },
-  {
     "d": "I think nowaday, we use data to help us predict the market, but everyone owns different source of the data. Who owns the best data and do the best job on their analyzing? Who is the most accurate prophet?",
-    "fork": false,
     "l": null,
     "n": "prophecy",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "psychology",
     "t": [],
@@ -4670,15 +3096,7 @@
     "d_source": "readme"
   },
   {
-    "d": "baidu cdn static files",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "public",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "python-flask-restful-api-demo",
     "t": [],
@@ -4686,22 +3104,13 @@
     "d_source": "readme"
   },
   {
-    "d": "Schedule a Python script with GitHub Actions",
-    "fork": true,
-    "l": "Python",
-    "n": "python-github-action-template",
-    "t": []
-  },
-  {
     "d": "A sample project on Python, React and AWS tech stack",
-    "fork": false,
     "l": null,
     "n": "python-react-aws",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "python-react-rag",
     "t": [],
@@ -4710,7 +3119,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "python-vercel",
     "t": [],
@@ -4719,7 +3127,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "qixing",
     "t": [],
@@ -4728,7 +3135,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "qixing-next",
     "t": [],
@@ -4737,14 +3143,12 @@
   },
   {
     "d": "new version  of qixing next",
-    "fork": false,
     "l": "TypeScript",
     "n": "qixing-next-app",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "qrcode",
     "t": [],
@@ -4752,36 +3156,13 @@
     "d_source": "readme"
   },
   {
-    "d": "Quickly create GitHub gists",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "quick-gist",
-    "t": []
-  },
-  {
     "d": "a quickly way to write your PO",
-    "fork": false,
     "l": null,
     "n": "quick-po",
     "t": []
   },
   {
-    "d": "Angular 2 QuickStart - source from the documentation",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "quickstart",
-    "t": []
-  },
-  {
-    "d": "Firebase Quickstart Samples for Web",
-    "fork": true,
-    "l": "HTML",
-    "n": "quickstart-js",
-    "t": []
-  },
-  {
     "d": "a reference link",
-    "fork": false,
     "l": "HTML",
     "n": "r",
     "t": [],
@@ -4790,7 +3171,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "rag-demo",
     "t": [],
@@ -4799,7 +3179,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "ragie-application-demo",
     "t": [],
@@ -4807,22 +3186,13 @@
     "d_source": "claude"
   },
   {
-    "d": "一个随机生成中文名的模块",
-    "fork": true,
-    "l": null,
-    "n": "randomCname",
-    "t": []
-  },
-  {
     "d": "There are many scammers, it is hard to stop them. Usually, the fraud fund might be small (less than $10K) and the police might not even take seriously of the criminal case report. We should work together to stop them.",
-    "fork": false,
     "l": "HTML",
     "n": "rate-the-business",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ratemymanager",
     "t": [],
@@ -4830,15 +3200,7 @@
     "d_source": "readme"
   },
   {
-    "d": ":tophat: A universal React-compatible render engine.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "rax",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "react-appointment-app",
     "t": [],
@@ -4846,92 +3208,37 @@
     "d_source": "claude"
   },
   {
-    "d": "Bootstrap 3 components built with React",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "react-bootstrap",
-    "t": []
-  },
-  {
     "d": "A tool for react component testing",
-    "fork": false,
     "l": null,
     "n": "react-component-tester",
     "t": []
   },
   {
-    "d": "a collection of simple demos of React.js",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "react-demos",
-    "t": []
-  },
-  {
-    "d": "React bindings for Firebase",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "react-firebase",
-    "t": []
-  },
-  {
-    "d": "GoJS React integration",
-    "fork": true,
-    "l": "TypeScript",
-    "n": "react-gojs",
-    "t": []
-  },
-  {
-    "d": "Declarative hotkey and focus area management for React",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "react-hotkeys",
-    "t": []
-  },
-  {
     "d": "create an AI based HTML component",
-    "fork": false,
     "l": null,
     "n": "react-html-ai-tag",
     "t": []
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "HTML",
     "n": "react-login",
     "t": []
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "HTML",
     "n": "react-login-csb",
     "t": []
   },
   {
     "d": "Use React to create a todo list for practice",
-    "fork": false,
     "l": null,
     "n": "react-material-todo",
     "t": []
   },
   {
-    "d": "React wrapper for medium-editor",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "react-medium-editor",
-    "t": []
-  },
-  {
-    "d": "🚀 tiny & fast lib for react native image viewer pan and zoom",
-    "fork": true,
-    "l": "TypeScript",
-    "n": "react-native-image-viewer",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "react-native-lab",
     "t": [],
@@ -4939,15 +3246,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Material Design for React Native (Android & iOS)",
-    "fork": true,
-    "l": null,
-    "n": "react-native-paper",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "react-native-store",
     "t": [],
@@ -4955,22 +3254,7 @@
     "d_source": "claude"
   },
   {
-    "d": "React Router 官方文档中文翻译",
-    "fork": true,
-    "l": null,
-    "n": "react-router-cn",
-    "t": []
-  },
-  {
-    "d": "Drag-and-drop sortable component for nested data and hierarchies",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "react-sortable-tree",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "react-ssr-example",
     "t": [],
@@ -4979,7 +3263,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "JavaScript",
     "n": "react-todo-list",
     "t": [],
@@ -4987,22 +3270,7 @@
     "d_source": "readme"
   },
   {
-    "d": "React Tree View Component. Data-Driven, Fast, Efficient and Customisable.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "react-treebeard",
-    "t": []
-  },
-  {
-    "d": "The React documentation website",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "reactjs.org",
-    "t": []
-  },
-  {
     "d": "A personal things",
-    "fork": false,
     "l": null,
     "n": "readme",
     "t": [],
@@ -5011,7 +3279,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "readyrx-lab-testing",
     "t": [],
@@ -5020,7 +3287,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "real-estate",
     "t": [],
@@ -5029,7 +3295,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "realtime-chat-app",
     "t": [],
@@ -5038,42 +3303,24 @@
   },
   {
     "d": "Is there anyway civil could contribute on recycling product and protect environment?",
-    "fork": false,
     "l": null,
     "n": "recycle-and-donation",
     "t": []
   },
   {
-    "d": "Predictable state container for JavaScript apps",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "redux",
-    "t": []
-  },
-  {
-    "d": "Redux 中文文档",
-    "fork": true,
-    "l": null,
-    "n": "redux-in-chinese",
-    "t": []
-  },
-  {
     "d": "ReduxQL is a dispatch based query framework",
-    "fork": false,
     "l": "JavaScript",
     "n": "ReduxQL",
     "t": []
   },
   {
     "d": "provide china registration service",
-    "fork": false,
     "l": null,
     "n": "registration-china",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "regular-action-example",
     "t": [],
@@ -5082,7 +3329,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "regular-expression",
     "t": [],
@@ -5091,7 +3337,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "relationship",
     "t": [],
@@ -5100,21 +3345,12 @@
   },
   {
     "d": "Use websocket as interface for RESTful API",
-    "fork": false,
     "l": null,
     "n": "restfulsocket",
     "t": []
   },
   {
-    "d": "A PHP REST server for providing a very light-weight REST API.",
-    "fork": true,
-    "l": "PHP",
-    "n": "RestServer",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "resume-ai",
     "t": [],
@@ -5123,7 +3359,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "revenue-simulation",
     "t": [],
@@ -5132,14 +3367,12 @@
   },
   {
     "d": "a loading screen demo using react native",
-    "fork": false,
     "l": "TypeScript",
     "n": "rn-loading-screen",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "robot",
     "t": [],
@@ -5148,7 +3381,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "ronghe-electronic",
     "t": [],
@@ -5157,7 +3389,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "ros-ai",
     "t": [],
@@ -5166,7 +3397,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "C++",
     "n": "ros-hello-world",
     "t": [],
@@ -5174,22 +3404,13 @@
     "d_source": "claude"
   },
   {
-    "d": "High performance nodejs framework",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "rrestjs",
-    "t": []
-  },
-  {
     "d": "the rtr app for quick submiting",
-    "fork": false,
     "l": null,
     "n": "rtr",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "sample-data-set",
     "t": [],
@@ -5197,15 +3418,7 @@
     "d_source": "readme"
   },
   {
-    "d": "WebRTC Web demos and samples",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "samples",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "san-francisco",
     "t": [],
@@ -5214,7 +3427,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "san-francisco-bay-area-solar-panel",
     "t": [],
@@ -5222,29 +3434,13 @@
     "d_source": "readme"
   },
   {
-    "d": "Code to demonstrate principles behind blockchains",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "SavjeeCoin",
-    "t": []
-  },
-  {
-    "d": "Open sourced Bootstrap themed Angular 9 starter project.",
-    "fork": true,
-    "l": null,
-    "n": "sb-clean-blog-angular",
-    "t": []
-  },
-  {
     "d": "don't know what they are doing...",
-    "fork": false,
     "l": null,
     "n": "scam-list",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "school",
     "t": [],
@@ -5252,15 +3448,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Screenshot extension for Google Chrome",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "screenshot-extension",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "sdg-ai-business-card",
     "t": [],
@@ -5268,15 +3456,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Simple, secure tokens for authentication, access keys, sessions etc.",
-    "fork": true,
-    "l": null,
-    "n": "secure-token",
-    "t": []
-  },
-  {
     "d": "fork ans sell",
-    "fork": false,
     "l": null,
     "n": "sell",
     "t": [],
@@ -5284,15 +3464,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Semantic is a UI component framework based around useful principles from natural language.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "Semantic-UI",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "sentence-improvement-cn",
     "t": [],
@@ -5300,22 +3472,13 @@
     "d_source": "claude"
   },
   {
-    "d": "The Sequelize CLI",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "sequelize-cli-typescript",
-    "t": []
-  },
-  {
     "d": "a solution for react onChange/onChangeText for float number",
-    "fork": false,
     "l": "JavaScript",
     "n": "setNumber",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "sf-drycleaning-alliance",
     "t": [],
@@ -5324,7 +3487,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "sf-tcm-association",
     "t": [],
@@ -5333,7 +3495,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "sfbayarea-appraisal",
     "t": [],
@@ -5342,7 +3503,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "share-car",
     "t": [],
@@ -5351,7 +3511,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Jupyter Notebook",
     "n": "sharing-github",
     "t": [],
@@ -5360,7 +3519,6 @@
   },
   {
     "d": "A marketing service ",
-    "fork": false,
     "l": null,
     "n": "SheepCom",
     "t": [],
@@ -5369,7 +3527,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "shop-agent",
     "t": [],
@@ -5378,7 +3535,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "shopdineguide-app",
     "t": [],
@@ -5387,14 +3543,12 @@
   },
   {
     "d": "用于搭建 cnNewyork.com 研究 shopnc (33hao v3-b11)",
-    "fork": false,
     "l": "PHP",
     "n": "shopnc",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "PHP",
     "n": "ShopNC-B2B2C",
     "t": [],
@@ -5403,7 +3557,6 @@
   },
   {
     "d": "ShopNC 友情链接",
-    "fork": false,
     "l": "CSS",
     "n": "shopnc-friendship-links",
     "t": [],
@@ -5412,14 +3565,12 @@
   },
   {
     "d": "the goal is to create a shop for personal usage",
-    "fork": false,
     "l": "PHP",
     "n": "shopnc-minion",
     "t": []
   },
   {
     "d": "ShopNC 批量推荐更新",
-    "fork": false,
     "l": "PHP",
     "n": "shopnc-patch-bundle-rcm",
     "t": [],
@@ -5428,21 +3579,18 @@
   },
   {
     "d": "基于溢汇商城版本修改的 ShopNC，2014 年版本",
-    "fork": false,
     "l": "PHP",
     "n": "shopnc-yhmall",
     "t": []
   },
   {
     "d": "基于运维舫共享的好商城(201511)版本制作",
-    "fork": false,
     "l": "PHP",
     "n": "shopnc_cnnewyork",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "shopping-agent",
     "t": [],
@@ -5451,7 +3599,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "shopping-review",
     "t": [],
@@ -5459,15 +3606,7 @@
     "d_source": "readme"
   },
   {
-    "d": "A Markdown to HTML converter written in Javascript",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "showdown",
-    "t": []
-  },
-  {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "sienovo-cn",
     "t": [],
@@ -5476,7 +3615,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "MDX",
     "n": "sienovo-intl",
     "t": [],
@@ -5485,7 +3623,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "sih-office-desk",
     "t": [],
@@ -5494,7 +3631,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "silicon-valley",
     "t": [],
@@ -5503,7 +3639,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "silicon-valley-frontend",
     "t": [],
@@ -5512,7 +3647,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "simple-b2b2c",
     "t": [],
@@ -5521,7 +3655,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "simple-cam-app",
     "t": [],
@@ -5529,15 +3662,7 @@
     "d_source": "readme"
   },
   {
-    "d": "A simple php douban oauth2 client",
-    "fork": true,
-    "l": "PHP",
-    "n": "simple-douban-oauth2",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "simple-redirector",
     "t": [],
@@ -5546,28 +3671,12 @@
   },
   {
     "d": "weave trading company",
-    "fork": false,
     "l": "HTML",
     "n": "sinjo-industrial-co",
     "t": []
   },
   {
-    "d": "A simple demo used SkyRTC",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "SkyRTC-demo",
-    "t": []
-  },
-  {
-    "d": "Run a raffle on a blockchain using Smart Contracts and cryptocurrencies",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "smart-raffle",
-    "t": []
-  },
-  {
     "d": "a sms service",
-    "fork": false,
     "l": null,
     "n": "sms",
     "t": [],
@@ -5576,7 +3685,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "social-commerce",
     "t": [],
@@ -5585,7 +3693,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "social-medial-signals-monitor",
     "t": [],
@@ -5594,7 +3701,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "software-architect-interview-questions-and-answers",
     "t": [],
@@ -5603,21 +3709,18 @@
   },
   {
     "d": "my personal interview preparation sharing",
-    "fork": false,
     "l": null,
     "n": "software-engineer-interview",
     "t": []
   },
   {
     "d": "A automatically job spider.",
-    "fork": false,
     "l": null,
     "n": "software-engineer-job-hunter",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "software-outsource",
     "t": [],
@@ -5625,43 +3728,19 @@
     "d_source": "readme"
   },
   {
-    "d": "The Solidity Contract-Oriented Programming Language",
-    "fork": true,
-    "l": "C++",
-    "n": "solidity",
-    "t": []
-  },
-  {
     "d": "a micro frontend component",
-    "fork": false,
     "l": null,
     "n": "something-went-wrong",
     "t": []
   },
   {
-    "d": "Takes a json-file and return a copy of the same file, but sorted",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "sort-json",
-    "t": []
-  },
-  {
     "d": "someone who spam me would log over here",
-    "fork": false,
     "l": null,
     "n": "spam",
     "t": []
   },
   {
-    "d": "The Sphinx documentation generator",
-    "fork": true,
-    "l": null,
-    "n": "sphinx",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "spiders",
     "t": [],
@@ -5669,15 +3748,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Spring integration for MyBatis 3",
-    "fork": true,
-    "l": "Java",
-    "n": "spring",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "Java",
     "n": "spring-boot-web-cors-free",
     "t": [],
@@ -5685,15 +3756,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Main repository of Strongly-Typed Javascript - Java to Javascript transpiler",
-    "fork": true,
-    "l": "Java",
-    "n": "st-js",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "standard-ppewholesale-us",
     "t": [],
@@ -5701,15 +3764,7 @@
     "d_source": "readme"
   },
   {
-    "d": "A full page image slider Bootstrap HTML template created by Start Bootstrap",
-    "fork": true,
-    "l": "HTML",
-    "n": "startbootstrap-full-slider",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "startups",
     "t": [],
@@ -5717,22 +3772,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Website containing the complete listing of static site generators",
-    "fork": true,
-    "l": "CoffeeScript",
-    "n": "staticsitegenerators-website",
-    "t": []
-  },
-  {
-    "d": "The blockchain for Smart Media Tokens (SMTs) and decentralized applications.",
-    "fork": true,
-    "l": "C++",
-    "n": "steem",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "storage-comparison",
     "t": [],
@@ -5741,7 +3781,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "storybook_taskbox",
     "t": [],
@@ -5749,38 +3788,13 @@
     "d_source": "claude"
   },
   {
-    "d": "Instant and elegant Markdown documents in the browser",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "strapdown",
-    "t": []
-  },
-  {
     "d": "general information share platform",
-    "fork": false,
     "l": "TypeScript",
     "n": "stream",
     "t": []
   },
   {
     "d": null,
-    "fork": true,
-    "l": "Python",
-    "n": "streamlit-apps",
-    "t": [],
-    "d_enriched": "Empower real-time data analysis and decision-making with our Streamlit-powe",
-    "d_source": "ollama"
-  },
-  {
-    "d": "Example Streamlit app that you can fork to test out share.streamlit.io",
-    "fork": true,
-    "l": null,
-    "n": "streamlit-example",
-    "t": []
-  },
-  {
-    "d": null,
-    "fork": false,
     "l": "Python",
     "n": "streamlit-matplotlib",
     "t": [],
@@ -5789,14 +3803,12 @@
   },
   {
     "d": "DotKu Studio Official Website",
-    "fork": false,
     "l": "HTML",
     "n": "studio",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "styled-components-chat",
     "t": [],
@@ -5805,7 +3817,6 @@
   },
   {
     "d": "A subscriber system",
-    "fork": false,
     "l": "JavaScript",
     "n": "subscriber",
     "t": [],
@@ -5814,7 +3825,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "subscription-service",
     "t": [],
@@ -5823,7 +3833,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "sunfront",
     "t": [],
@@ -5832,7 +3841,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "supabase-brodcast-demo",
     "t": [],
@@ -5841,21 +3849,18 @@
   },
   {
     "d": "a service center for e-commerce business",
-    "fork": false,
     "l": null,
     "n": "supply-chain-management",
     "t": []
   },
   {
     "d": "a php framework based on ThinkPHP, combined with angularJS and bootstrap",
-    "fork": false,
     "l": "PHP",
     "n": "tabphp",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "tap2eat",
     "t": [],
@@ -5864,7 +3869,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "tasks-limo",
     "t": [],
@@ -5873,7 +3877,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "tatwong",
     "t": [],
@@ -5881,29 +3884,19 @@
     "d_source": "claude"
   },
   {
-    "d": "ThinkCMFX ,based on ThinkPHP 3.2.3, it is same with ThinkCMF",
-    "fork": true,
-    "l": "PHP",
-    "n": "tcshop",
-    "t": []
-  },
-  {
     "d": "How to build a successful team?",
-    "fork": false,
     "l": null,
     "n": "team",
     "t": []
   },
   {
     "d": "I might want to write a book about dev tech",
-    "fork": false,
     "l": "Hack",
     "n": "tech",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "HTML",
     "n": "techfront",
     "t": [],
@@ -5912,7 +3905,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "techfront-ai",
     "t": [],
@@ -5921,7 +3913,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "techfront-ai-proxy",
     "t": [],
@@ -5929,15 +3920,7 @@
     "d_source": "readme"
   },
   {
-    "d": "OpenAI/ChatGPT Proxy",
-    "fork": true,
-    "l": "TypeScript",
-    "n": "techfront-openai-proxy",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "TechTree",
     "t": [],
@@ -5946,7 +3929,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "tencentyun-bucket-manager",
     "t": [],
@@ -5955,7 +3937,6 @@
   },
   {
     "d": "基于腾讯云搭建的图片存储服务",
-    "fork": false,
     "l": "PHP",
     "n": "tencentyun-elite",
     "t": [],
@@ -5964,7 +3945,6 @@
   },
   {
     "d": "基于腾讯云万象优图的服务搭建的管理后台",
-    "fork": false,
     "l": "PHP",
     "n": "tencentyun-image-admin",
     "t": [],
@@ -5972,24 +3952,13 @@
     "d_source": "readme"
   },
   {
-    "d": null,
-    "fork": true,
-    "l": "PHP",
-    "n": "tencentyun-image-php",
-    "t": [],
-    "d_enriched": "Streamline image management for businesses with robust PHP solutions.",
-    "d_source": "ollama"
-  },
-  {
     "d": "Customization Development Based on Discuz_X3.2",
-    "fork": false,
     "l": "PHP",
     "n": "tensoDiscuz_X3.2",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "tensorflow-gpu",
     "t": [],
@@ -5998,7 +3967,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "test",
     "t": [],
@@ -6006,57 +3974,31 @@
     "d_source": "claude"
   },
   {
-    "d": "A tool to help test CORS requests",
-    "fork": true,
-    "l": null,
-    "n": "test-cors.org",
-    "t": []
-  },
-  {
     "d": "the testing work for thinkphp 5",
-    "fork": false,
     "l": "PHP",
     "n": "testThink5",
     "t": []
   },
   {
-    "d": "A colab gradio web UI for running Large Language Models",
-    "fork": true,
-    "l": null,
-    "n": "text-generation-webui-colab",
-    "t": []
-  },
-  {
-    "d": "ThinkPHP5 全新设计的基于PHP5.4的ThinkPHP分支版本",
-    "fork": true,
-    "l": "PHP",
-    "n": "think",
-    "t": []
-  },
-  {
     "d": "用于测试 thinkphp-controller",
-    "fork": false,
     "l": "PHP",
     "n": "thinkphp-controller",
     "t": []
   },
   {
     "d": "A English Translation Guide for ThinkPHP PHP Framework",
-    "fork": false,
     "l": "Less",
     "n": "thinkphp-english-manual",
     "t": []
   },
   {
     "d": "I'm trying to create a sub module of thinkphp document, since github won't allow make branch as sub folder.",
-    "fork": false,
     "l": null,
     "n": "thinkphp-guide-3.2.3",
     "t": []
   },
   {
     "d": "thinkphp-model test",
-    "fork": false,
     "l": "PHP",
     "n": "thinkphp-model",
     "t": [],
@@ -6065,28 +4007,24 @@
   },
   {
     "d": "还没有空去研究 ThinkPHP 5，自己写了一个基于 ThinkPHP 3.2 的 API  ",
-    "fork": false,
     "l": "PHP",
     "n": "thinkphp-restful-api",
     "t": []
   },
   {
     "d": "A user moduler based on thinkphp",
-    "fork": false,
     "l": "PHP",
     "n": "thinkphp-user",
     "t": []
   },
   {
     "d": "一个基于 Thinkphp 的建议验证码登录实例",
-    "fork": false,
     "l": "PHP",
     "n": "thinkphp-verify-login",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "PHP",
     "n": "thinkphp_bootstrap",
     "t": [],
@@ -6095,35 +4033,18 @@
   },
   {
     "d": "Paypal demo for ThinkPHP",
-    "fork": false,
     "l": null,
     "n": "thinkphp_paypal",
     "t": []
   },
   {
-    "d": "ThinkPHPWithBootstrap",
-    "fork": true,
-    "l": "PHP",
-    "n": "ThinkPHPWithBootstrap",
-    "t": []
-  },
-  {
-    "d": "基于ThinkPHP的各大开放平台 Open API SDK 扩展。",
-    "fork": true,
-    "l": "PHP",
-    "n": "ThinkSDK",
-    "t": []
-  },
-  {
     "d": "Tenso service based on ThinkPHP framework",
-    "fork": false,
     "l": "PHP",
     "n": "thinktenso",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "three-character-classic",
     "t": [],
@@ -6132,23 +4053,6 @@
   },
   {
     "d": null,
-    "fork": true,
-    "l": "JavaScript",
-    "n": "three-fbx-loader",
-    "t": [],
-    "d_enriched": "Streamlines complex FBX asset integration for seamless 3D model deployment",
-    "d_source": "ollama"
-  },
-  {
-    "d": "JavaScript 3D library.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "three.js",
-    "t": []
-  },
-  {
-    "d": null,
-    "fork": false,
     "l": null,
     "n": "threejs-books",
     "t": [
@@ -6161,7 +4065,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "CSS",
     "n": "timeline",
     "t": [],
@@ -6170,21 +4073,12 @@
   },
   {
     "d": "JavaScript doesn't provide abbreviations list, and moment.js might be overkill for my project, so I create a package and get the data from https://en.wikipedia.org/wiki/List_of_time_zone_abbreviations.",
-    "fork": false,
     "l": "JavaScript",
     "n": "timezone-abbreviations",
     "t": []
   },
   {
-    "d": "List of timezones",
-    "fork": true,
-    "l": null,
-    "n": "timezones-list",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "tinic",
     "t": [],
@@ -6193,7 +4087,6 @@
   },
   {
     "d": "TikTok shop link",
-    "fork": false,
     "l": "TypeScript",
     "n": "tklink",
     "t": [],
@@ -6202,7 +4095,6 @@
   },
   {
     "d": "A food solution",
-    "fork": false,
     "l": null,
     "n": "todays-special",
     "t": [],
@@ -6211,7 +4103,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "todomvc",
     "t": [],
@@ -6219,22 +4110,7 @@
     "d_source": "readme"
   },
   {
-    "d": "An extension to GeoJSON that encodes topology.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "topojson",
-    "t": []
-  },
-  {
-    "d": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",
-    "fork": true,
-    "l": "Python",
-    "n": "tornado",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "toyokou-tenso_japan",
     "t": [],
@@ -6243,7 +4119,6 @@
   },
   {
     "d": "定制修改记录",
-    "fork": false,
     "l": "HTML",
     "n": "tp-shop",
     "t": [],
@@ -6252,28 +4127,24 @@
   },
   {
     "d": "A Wordpress API System based on ThinkPHP 5",
-    "fork": false,
     "l": "PHP",
     "n": "tpapi_wordpress",
     "t": []
   },
   {
     "d": "shop system base on thinkphp",
-    "fork": false,
     "l": "PHP",
     "n": "tpshop",
     "t": []
   },
   {
     "d": "topshop development note",
-    "fork": false,
     "l": null,
     "n": "tpshop-dev-note",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "trace3-football",
     "t": [],
@@ -6282,14 +4153,12 @@
   },
   {
     "d": "Transcription for youtube",
-    "fork": false,
     "l": null,
     "n": "transcription",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "PHP",
     "n": "translation_center",
     "t": [],
@@ -6297,31 +4166,13 @@
     "d_source": "readme"
   },
   {
-    "d": "PHP Transmission API client",
-    "fork": true,
-    "l": "PHP",
-    "n": "transmission-php",
-    "t": []
-  },
-  {
     "d": "A easy way to log your trip",
-    "fork": false,
     "l": null,
     "n": "trip-list",
     "t": []
   },
   {
     "d": null,
-    "fork": true,
-    "l": "JavaScript",
-    "n": "truffle_eth_class2",
-    "t": [],
-    "d_enriched": "Transforming Ethereum token management for businesses with intuitive JavaSc",
-    "d_source": "ollama"
-  },
-  {
-    "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "try-react-native-photo-editor",
     "t": [],
@@ -6330,7 +4181,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Vue",
     "n": "tso-vue-project",
     "t": [],
@@ -6339,7 +4189,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "tsoai-documentation",
     "t": [],
@@ -6347,15 +4196,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Spring Security and Angular:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.",
-    "fork": true,
-    "l": null,
-    "n": "tut-spring-security-and-angular-js",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "twillio-consent",
     "t": [],
@@ -6364,21 +4205,12 @@
   },
   {
     "d": "Let's take twitter back again?!",
-    "fork": false,
     "l": null,
     "n": "twitter",
     "t": []
   },
   {
-    "d": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-    "fork": true,
-    "l": "TypeScript",
-    "n": "TypeScript",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "unincore-markets-selector",
     "t": [],
@@ -6387,7 +4219,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "union-et-printing",
     "t": [],
@@ -6396,7 +4227,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "union-french-cleaners",
     "t": [],
@@ -6405,7 +4235,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "universal-alien-search-organization",
     "t": [],
@@ -6414,14 +4243,12 @@
   },
   {
     "d": "Help universe getting better regardless gender, race, age... etc.",
-    "fork": false,
     "l": null,
     "n": "universe-engineering",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "unixtime",
     "t": [],
@@ -6429,15 +4256,7 @@
     "d_source": "claude"
   },
   {
-    "d": "A project that demonstrates how to use URLSession to make a JSON GET and POST request.",
-    "fork": true,
-    "l": null,
-    "n": "URLSessionJSONRequests",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "us-business-service",
     "t": [],
@@ -6446,7 +4265,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "usa-manufactures",
     "t": [],
@@ -6454,36 +4272,13 @@
     "d_source": "readme"
   },
   {
-    "d": "🐶  React hook for making isomorphic http requests",
-    "fork": true,
-    "l": null,
-    "n": "use-http",
-    "t": []
-  },
-  {
-    "d": "Documentation for those that use HHVM and write Hack and PHP code for HHVM. http://twitter.com/HHVMDocCommits",
-    "fork": true,
-    "l": "Hack",
-    "n": "user-documentation",
-    "t": []
-  },
-  {
-    "d": "The official mirror of the V8 Git repository",
-    "fork": true,
-    "l": "C++",
-    "n": "v8",
-    "t": []
-  },
-  {
     "d": "you need pay for accessing valuable file",
-    "fork": false,
     "l": "CSS",
     "n": "value-info",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "Python",
     "n": "vercel-python-longcorn-openai",
     "t": [],
@@ -6492,7 +4287,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "video-note",
     "t": [],
@@ -6501,7 +4295,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "video-publisher",
     "t": [],
@@ -6510,14 +4303,12 @@
   },
   {
     "d": "Extract speech and visual content from videos into text",
-    "fork": false,
     "l": "TypeScript",
     "n": "video-to-text",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "vite-tailwind",
     "t": [],
@@ -6525,15 +4316,7 @@
     "d_source": "readme"
   },
   {
-    "d": ":speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer",
-    "fork": true,
-    "l": "HTML",
-    "n": "voice-elements",
-    "t": []
-  },
-  {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "volunteer-community",
     "t": [],
@@ -6542,7 +4325,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "vp-magamilion",
     "t": [],
@@ -6550,29 +4332,7 @@
     "d_source": "readme"
   },
   {
-    "d": "Prototype of a menu system in Virtual Reality",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "vr-menu-demo",
-    "t": []
-  },
-  {
-    "d": "VS Code extension that changes the built-in markdown preview to match Github's styling",
-    "fork": true,
-    "l": "CSS",
-    "n": "vscode-github-markdown-preview-style",
-    "t": []
-  },
-  {
-    "d": "Simple yet powerful library for building modern web interfaces.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "vue",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "Vue",
     "n": "vue-nuxt-todo",
     "t": [],
@@ -6581,7 +4341,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Vue",
     "n": "vue-todo",
     "t": [],
@@ -6590,7 +4349,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "Vue",
     "n": "vue-todo-hackthon-v3",
     "t": [],
@@ -6598,15 +4356,7 @@
     "d_source": "readme"
   },
   {
-    "d": "🐉 Material Component Framework for Vue",
-    "fork": true,
-    "l": "TypeScript",
-    "n": "vuetify",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "vuetify-test",
     "t": [],
@@ -6615,7 +4365,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "waitting-time",
     "t": [],
@@ -6624,7 +4373,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "weavy-demo",
     "t": [],
@@ -6633,14 +4381,12 @@
   },
   {
     "d": "本项目旨在为互联网开发提供一个公共的规范。本文档采用知识共享“署名 3.0 中国大陆”许可协议，您可以创作衍生产品，或者加入到你的商业创作中，但请署名原作者信息。",
-    "fork": false,
     "l": null,
     "n": "web-dev-standard",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "web3-store",
     "t": [],
@@ -6648,29 +4394,13 @@
     "d_source": "claude"
   },
   {
-    "d": "Web Application Library",
-    "fork": true,
-    "l": "C++",
-    "n": "webapplib",
-    "t": []
-  },
-  {
     "d": "A boilerplate for webpack and express combination.",
-    "fork": false,
     "l": null,
     "n": "webpack-express",
     "t": []
   },
   {
-    "d": "A boilerplate for running a Webpack workflow in Node express",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "webpack-express-boilerplate",
-    "t": []
-  },
-  {
     "d": "My web collection",
-    "fork": false,
     "l": "PHP",
     "n": "website-rank",
     "t": [],
@@ -6679,14 +4409,12 @@
   },
   {
     "d": "Created with CodeSandbox",
-    "fork": false,
     "l": "JavaScript",
     "n": "websocket-setState",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "weijingjaylin",
     "t": [],
@@ -6694,36 +4422,13 @@
     "d_source": "readme"
   },
   {
-    "d": "A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",
-    "fork": true,
-    "l": "CSS",
-    "n": "weui",
-    "t": []
-  },
-  {
-    "d": "We Work Meteor, a job board and developer directory for Meteor specific work",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "wework",
-    "t": []
-  },
-  {
     "d": "a store for wholesale",
-    "fork": false,
     "l": "HTML",
     "n": "wholesale",
     "t": []
   },
   {
-    "d": "Official Public Python API for working with Wonder Workshop robots",
-    "fork": true,
-    "l": "Python",
-    "n": "WonderPy",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "wordpress-docker-compose",
     "t": [],
@@ -6732,7 +4437,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": null,
     "n": "world",
     "t": [],
@@ -6741,28 +4445,18 @@
   },
   {
     "d": "World republic is a organization that share all public knowledge to generate the ultimate common domain intelligent for peaceful and respectful world.",
-    "fork": false,
     "l": null,
     "n": "world-republic",
     "t": []
   },
   {
-    "d": "Reveal CSS animation as you scroll down a page",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "WOW",
-    "t": []
-  },
-  {
     "d": "play wowza player with vue",
-    "fork": false,
     "l": "Vue",
     "n": "wowza-player-vue",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "wowza-secure-token",
     "t": [],
@@ -6770,29 +4464,7 @@
     "d_source": "claude"
   },
   {
-    "d": "Wowza Streaming Engine Secure Token Generator",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "wowza-securetoken",
-    "t": []
-  },
-  {
-    "d": "Wordpress plugin:   Retrieving Geo-Information using one the Maxmind GeoIP2 databases. (BTW, We're looking for a new developer! yellowtree.de/jobs/)",
-    "fork": true,
-    "l": "PHP",
-    "n": "wp-geoip-detect",
-    "t": []
-  },
-  {
-    "d": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "ws",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "x-post-scheduler",
     "t": [],
@@ -6801,21 +4473,12 @@
   },
   {
     "d": "Automatically exported from code.google.com/p/x2js",
-    "fork": false,
     "l": "JavaScript",
     "n": "x2js",
     "t": []
   },
   {
-    "d": "x2js git mirror",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "x2js-1",
-    "t": []
-  },
-  {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "xinmai-ecom",
     "t": [],
@@ -6824,7 +4487,6 @@
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "xinmai-hardware",
     "t": [],
@@ -6832,22 +4494,13 @@
     "d_source": "claude"
   },
   {
-    "d": "Converter utility between XML text and Javascript object / JSON text.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "xml-js",
-    "t": []
-  },
-  {
     "d": "A modern, performant search aggregator that allows users to search across multiple platforms simultaneously. Built with Next.js 15 and TypeScript.",
-    "fork": false,
     "l": "TypeScript",
     "n": "you.com-mini-search",
     "t": []
   },
   {
     "d": null,
-    "fork": false,
     "l": "TypeScript",
     "n": "younico",
     "t": [],
@@ -6855,22 +4508,21 @@
     "d_source": "claude"
   },
   {
+    "d": null,
+    "l": "TypeScript",
+    "n": "youpin",
+    "t": [],
+    "d_enriched": "Product review and recommendation platform helping users discover and compare quality goods",
+    "d_source": "claude"
+  },
+  {
     "d": "A fork from youtube music library",
-    "fork": false,
     "l": null,
     "n": "youtube-audio-library",
     "t": []
   },
   {
-    "d": "Command-line program to download videos from YouTube.com and other video sites",
-    "fork": true,
-    "l": null,
-    "n": "youtube-dl",
-    "t": []
-  },
-  {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "youtube-dl-gui",
     "t": [],
@@ -6879,7 +4531,6 @@
   },
   {
     "d": null,
-    "fork": false,
     "l": "JavaScript",
     "n": "youyimei-medical-mask",
     "t": [],
@@ -6887,29 +4538,19 @@
     "d_source": "claude"
   },
   {
-    "d": "A library for building richly interactive web applications.",
-    "fork": true,
-    "l": "JavaScript",
-    "n": "yui3",
-    "t": []
-  },
-  {
     "d": "https://dotku.github.io/dk-i18n-trading-calculator/",
-    "fork": false,
     "l": "JavaScript",
     "n": "zy-i18n-trading-calculator",
     "t": []
   },
   {
     "d": "ZY International Trade inc. is an international trading company located in Atlanta Georgia. We source and distribute high-quality medical supplies and personal protective equipment (PPE) globally.",
-    "fork": false,
     "l": "HTML",
     "n": "zy-international-trade",
     "t": []
   },
   {
     "d": "Created with StackBlitz ⚡️",
-    "fork": false,
     "l": "TypeScript",
     "n": "zy-sale-simulator",
     "t": [],
