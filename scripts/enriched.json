@@ -4272,6 +4272,14 @@
     "d_source": "readme"
   },
   {
+    "d": null,
+    "l": "TypeScript",
+    "n": "usproglove-marketing-ai",
+    "t": [],
+    "d_enriched": "AI-powered marketing automation platform for US Pro Glove brand campaigns and customer engagement",
+    "d_source": "claude"
+  },
+  {
     "d": "you need pay for accessing valuable file",
     "l": "CSS",
     "n": "value-info",
@@ -4505,14 +4513,6 @@
     "n": "younico",
     "t": [],
     "d_enriched": "Personalized content platform connecting creators with their unique audience communities",
-    "d_source": "claude"
-  },
-  {
-    "d": null,
-    "l": "TypeScript",
-    "n": "youpin",
-    "t": [],
-    "d_enriched": "Product review and recommendation platform helping users discover and compare quality goods",
     "d_source": "claude"
   },
   {

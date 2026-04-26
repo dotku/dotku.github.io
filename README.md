@@ -73,8 +73,8 @@ Below are my open-source projects under [github.com/dotku](https://github.com/do
 | Sector | Industry Group | # Repos |
 | --- | --- | ---: |
 | **Energy** (5) | Energy | 5 |
-| **Industrials** (45) | Capital Goods | 13 |
-|  | Commercial & Professional Services | 29 |
+| **Industrials** (46) | Capital Goods | 13 |
+|  | Commercial & Professional Services | 30 |
 |  | Transportation | 3 |
 | **Consumer Discretionary** (51) | Automobiles & Components | 1 |
 |  | Consumer Durables & Apparel | 5 |
@@ -84,7 +84,7 @@ Below are my open-source projects under [github.com/dotku](https://github.com/do
 | **Health Care** (17) | Health Care Equipment & Services | 16 |
 |  | Pharmaceuticals, Biotechnology & Life Sciences | 1 |
 | **Financials** (38) | Financial Services | 38 |
-| **Information Technology** (413) | Software & Services | 411 |
+| **Information Technology** (412) | Software & Services | 410 |
 |  | Technology Hardware & Equipment | 1 |
 |  | Semiconductors & Semiconductor Equipment | 1 |
 | **Communication Services** (48) | Telecommunication Services | 3 |
@@ -103,7 +103,7 @@ _Oil, gas, renewables, and energy equipment._
 - [san-francisco-bay-area-solar-panel](https://github.com/dotku/san-francisco-bay-area-solar-panel) — Power Transfer System $6000~$8000
 - [sunfront](https://github.com/dotku/sunfront) — Sunshine-themed frontend interface for weather or solar energy visualization
 
-### Industrials (45)
+### Industrials (46)
 _Capital goods, transportation & logistics, commercial and professional services._
 
 #### Capital Goods (13)
@@ -122,7 +122,7 @@ _Capital goods, transportation & logistics, commercial and professional services
 - [tensorflow-gpu](https://github.com/dotku/tensorflow-gpu) — GPU-accelerated machine learning pipeline for high-performance model training
 - [usa-manufactures](https://github.com/dotku/usa-manufactures) — | Name | Revenue 2021 |
 
-#### Commercial & Professional Services (29)
+#### Commercial & Professional Services (30)
 
 - [ai-marketing](https://github.com/dotku/ai-marketing) — Intelligent marketing automation platform for campaign optimization and audience engagement
 - [autoclaw-data-scraper](https://github.com/dotku/autoclaw-data-scraper) — Daily trade intelligence scraper powered by GitHub Actions.
@@ -151,6 +151,7 @@ _Capital goods, transportation & logistics, commercial and professional services
 - [thinkphp-english-manual](https://github.com/dotku/thinkphp-english-manual) — A English Translation Guide for ThinkPHP PHP Framework
 - [translation_center](https://github.com/dotku/translation_center) — #Translation Center
 - [union-et-printing](https://github.com/dotku/union-et-printing) — Commercial printing services platform for business cards, marketing materials, and custom orders
+- [usproglove-marketing-ai](https://github.com/dotku/usproglove-marketing-ai) — AI-powered marketing automation platform for US Pro Glove brand campaigns and customer engagement
 - [x-post-scheduler](https://github.com/dotku/x-post-scheduler) — Your social marketing copilot AI.
 - [zy-sale-simulator](https://github.com/dotku/zy-sale-simulator) — Sales simulation tool for training and forecasting revenue scenarios
 
@@ -303,10 +304,10 @@ _Banks, capital markets, insurance, fintech and crypto._
 - [web3-store](https://github.com/dotku/web3-store) — Decentralized marketplace enabling blockchain-based digital commerce
 - [zy-i18n-trading-calculator](https://github.com/dotku/zy-i18n-trading-calculator) — https://dotku.github.io/dk-i18n-trading-calculator/
 
-### Information Technology (413)
+### Information Technology (412)
 _Software, IT services, hardware and semiconductors._
 
-#### Software & Services (411)
+#### Software & Services (410)
 
 ##### Internet Services & Infrastructure (21)
 
@@ -332,7 +333,7 @@ _Software, IT services, hardware and semiconductors._
 - [tencentyun-bucket-manager](https://github.com/dotku/tencentyun-bucket-manager) — Management dashboard for Tencent Cloud object storage buckets and file operations
 - [vercel-python-longcorn-openai](https://github.com/dotku/vercel-python-longcorn-openai) — https://vercel-python-dotku.vercel.app/docs
 
-##### Application Software (380)
+##### Application Software (379)
 
 - [academic](https://github.com/dotku/academic) — we will tech you everything you want to learn
 - [affiliate-referral-network](https://github.com/dotku/affiliate-referral-network) — My Affiliate Referral Links
@@ -713,7 +714,6 @@ _Software, IT services, hardware and semiconductors._
 - [x2js](https://github.com/dotku/x2js) — Automatically exported from code.google.com/p/x2js
 - [you.com-mini-search](https://github.com/dotku/you.com-mini-search) — A modern, performant search aggregator that allows users to search across multiple platforms simultaneously. Built with Next.js 15 and TypeScript.
 - [younico](https://github.com/dotku/younico) — Personalized content platform connecting creators with their unique audience communities
-- [youpin](https://github.com/dotku/youpin) — Product review and recommendation platform helping users discover and compare quality goods
 
 ##### Systems Software (10)
 
