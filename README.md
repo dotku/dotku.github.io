@@ -66,15 +66,15 @@ I'm a business solution provider in San Francisco Bay Area. My work and the [hun
 
 ## GitHub Repositories by GICS Classification
 
-Below are my open-source projects under [github.com/dotku](https://github.com/dotku), categorized using the [Global Industry Classification Standard (GICS)](https://www.msci.com/our-solutions/indexes/gics) — the taxonomy MSCI and S&P use for global equity markets. The hierarchy is **Sector (11) → Industry Group (25) → Industry (74)**; the third level is shown inside Information Technology and Media & Entertainment where repo density warrants it. Auto-generated from 619 public repositories. Forks of upstream open-source projects are marked with 🔀 and listed last within each group.
+Below are my open-source projects under [github.com/dotku](https://github.com/dotku), categorized using the [Global Industry Classification Standard (GICS)](https://www.msci.com/our-solutions/indexes/gics) — the taxonomy MSCI and S&P use for global equity markets. The hierarchy is **Sector (11) → Industry Group (25) → Industry (74)**; the third level is shown inside Information Technology and Media & Entertainment where repo density warrants it. Auto-generated from 620 public repositories. Forks of upstream open-source projects are marked with 🔀 and listed last within each group.
 
 ### Overview
 
 | Sector | Industry Group | # Repos |
 | --- | --- | ---: |
 | **Energy** (5) | Energy | 5 |
-| **Industrials** (46) | Capital Goods | 13 |
-|  | Commercial & Professional Services | 30 |
+| **Industrials** (45) | Capital Goods | 13 |
+|  | Commercial & Professional Services | 29 |
 |  | Transportation | 3 |
 | **Consumer Discretionary** (51) | Automobiles & Components | 1 |
 |  | Consumer Durables & Apparel | 5 |
@@ -84,13 +84,13 @@ Below are my open-source projects under [github.com/dotku](https://github.com/do
 | **Health Care** (17) | Health Care Equipment & Services | 16 |
 |  | Pharmaceuticals, Biotechnology & Life Sciences | 1 |
 | **Financials** (38) | Financial Services | 38 |
-| **Information Technology** (412) | Software & Services | 410 |
+| **Information Technology** (414) | Software & Services | 412 |
 |  | Technology Hardware & Equipment | 1 |
 |  | Semiconductors & Semiconductor Equipment | 1 |
 | **Communication Services** (48) | Telecommunication Services | 3 |
 |  | Media & Entertainment | 45 |
 | **Real Estate** (1) | Real Estate Management & Development | 1 |
-| **Total** | | **619** |
+| **Total** | | **620** |
 
 ### Energy (5)
 _Oil, gas, renewables, and energy equipment._
@@ -103,7 +103,7 @@ _Oil, gas, renewables, and energy equipment._
 - [san-francisco-bay-area-solar-panel](https://github.com/dotku/san-francisco-bay-area-solar-panel) — Power Transfer System $6000~$8000
 - [sunfront](https://github.com/dotku/sunfront) — Sunshine-themed frontend interface for weather or solar energy visualization
 
-### Industrials (46)
+### Industrials (45)
 _Capital goods, transportation & logistics, commercial and professional services._
 
 #### Capital Goods (13)
@@ -122,7 +122,7 @@ _Capital goods, transportation & logistics, commercial and professional services
 - [tensorflow-gpu](https://github.com/dotku/tensorflow-gpu) — GPU-accelerated machine learning pipeline for high-performance model training
 - [usa-manufactures](https://github.com/dotku/usa-manufactures) — | Name | Revenue 2021 |
 
-#### Commercial & Professional Services (30)
+#### Commercial & Professional Services (29)
 
 - [ai-marketing](https://github.com/dotku/ai-marketing) — Intelligent marketing automation platform for campaign optimization and audience engagement
 - [autoclaw-data-scraper](https://github.com/dotku/autoclaw-data-scraper) — Daily trade intelligence scraper powered by GitHub Actions.
@@ -147,7 +147,6 @@ _Capital goods, transportation & logistics, commercial and professional services
 - [sdg-ai-business-card](https://github.com/dotku/sdg-ai-business-card) — An AI-powered digital business card for Jay Lin, Marketing Manager at BannerShop Inc.
 - [SheepCom](https://github.com/dotku/SheepCom) — A marketing service
 - [sienovo-cn](https://github.com/dotku/sienovo-cn) — 基于先进的人工智能技术，为政府机构提供全方位的数字化转型解决方案。
-- [sienovo-intl](https://github.com/dotku/sienovo-intl) — International business solutions and cross-border commerce platform for global enterprises
 - [thinkphp-english-manual](https://github.com/dotku/thinkphp-english-manual) — A English Translation Guide for ThinkPHP PHP Framework
 - [translation_center](https://github.com/dotku/translation_center) — #Translation Center
 - [union-et-printing](https://github.com/dotku/union-et-printing) — Commercial printing services platform for business cards, marketing materials, and custom orders
@@ -304,10 +303,10 @@ _Banks, capital markets, insurance, fintech and crypto._
 - [web3-store](https://github.com/dotku/web3-store) — Decentralized marketplace enabling blockchain-based digital commerce
 - [zy-i18n-trading-calculator](https://github.com/dotku/zy-i18n-trading-calculator) — https://dotku.github.io/dk-i18n-trading-calculator/
 
-### Information Technology (412)
+### Information Technology (414)
 _Software, IT services, hardware and semiconductors._
 
-#### Software & Services (410)
+#### Software & Services (412)
 
 ##### Internet Services & Infrastructure (21)
 
@@ -333,7 +332,7 @@ _Software, IT services, hardware and semiconductors._
 - [tencentyun-bucket-manager](https://github.com/dotku/tencentyun-bucket-manager) — Management dashboard for Tencent Cloud object storage buckets and file operations
 - [vercel-python-longcorn-openai](https://github.com/dotku/vercel-python-longcorn-openai) — https://vercel-python-dotku.vercel.app/docs
 
-##### Application Software (379)
+##### Application Software (381)
 
 - [academic](https://github.com/dotku/academic) — we will tech you everything you want to learn
 - [affiliate-referral-network](https://github.com/dotku/affiliate-referral-network) — My Affiliate Referral Links
@@ -387,6 +386,7 @@ _Software, IT services, hardware and semiconductors._
 - [cheap-phones](https://github.com/dotku/cheap-phones) — Are you looking for refrebushied, used phones?
 - [check-in](https://github.com/dotku/check-in) — An app for people create check-in App for specified use case, eg. Vitamin Taken Check-in.
 - [chronicle](https://github.com/dotku/chronicle) — 世界之大无奇不有，梳理世界发展历史主线，供未来发展参考，无论是为了谋求个人自身发展，还是统筹大局，建立一个发展规划和脉络，相信都能带来一些有用的，有价值的信息，就像中国的一句古话，“前知五百年，后知五百年”，以史为鉴。
+- [claude-rag](https://github.com/dotku/claude-rag)
 - [com-betavee](https://github.com/dotku/com-betavee) — Corporate web presence and digital brand platform for Betavee
 - [consultant](https://github.com/dotku/consultant) — I provide consultant service, if you have any question on tech or business, feel free to contact me over email weijingjaylin@gmail.com.
 - [cors-test](https://github.com/dotku/cors-test) — There is a cors-test.org, but I don't trust it, since it is hosted in GAE (Google App Engine) with server.
@@ -490,6 +490,7 @@ _Software, IT services, hardware and semiconductors._
 - [jj-file](https://github.com/dotku/jj-file) — thinkphp 上的网友 将军 写的 file class
 - [job-hunt](https://github.com/dotku/job-hunt) — Finding a desired job is not just for covering the living cost, but it is also a invest for your future, and your dream.
 - [job-hunt-tracker](https://github.com/dotku/job-hunt-tracker) — > When I realized that I had applied for a lot of jobs during my last stretch of unemployment,
+- [job-matching](https://github.com/dotku/job-matching) — a react based job matching platform
 - [job-seeker](https://github.com/dotku/job-seeker) — A job seeker's interview arrangement guide
 - [job-xiaomi](https://github.com/dotku/job-xiaomi) — 参考 mcpconfig.json 设置 MCP 服务器。
 - [jobs](https://github.com/dotku/jobs) — share the jobs
