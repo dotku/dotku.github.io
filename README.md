@@ -66,15 +66,15 @@ I'm a business solution provider in San Francisco Bay Area. My work and the [hun
 
 ## GitHub Repositories by GICS Classification
 
-Below are my open-source projects under [github.com/dotku](https://github.com/dotku), categorized using the [Global Industry Classification Standard (GICS)](https://www.msci.com/our-solutions/indexes/gics) — the taxonomy MSCI and S&P use for global equity markets. The hierarchy is **Sector (11) → Industry Group (25) → Industry (74)**; the third level is shown inside Information Technology and Media & Entertainment where repo density warrants it. Auto-generated from 620 public repositories. Forks of upstream open-source projects are marked with 🔀 and listed last within each group.
+Below are my open-source projects under [github.com/dotku](https://github.com/dotku), categorized using the [Global Industry Classification Standard (GICS)](https://www.msci.com/our-solutions/indexes/gics) — the taxonomy MSCI and S&P use for global equity markets. The hierarchy is **Sector (11) → Industry Group (25) → Industry (74)**; the third level is shown inside Information Technology and Media & Entertainment where repo density warrants it. Auto-generated from 621 public repositories. Forks of upstream open-source projects are marked with 🔀 and listed last within each group.
 
 ### Overview
 
 | Sector | Industry Group | # Repos |
 | --- | --- | ---: |
 | **Energy** (5) | Energy | 5 |
-| **Industrials** (45) | Capital Goods | 13 |
-|  | Commercial & Professional Services | 29 |
+| **Industrials** (46) | Capital Goods | 13 |
+|  | Commercial & Professional Services | 30 |
 |  | Transportation | 3 |
 | **Consumer Discretionary** (51) | Automobiles & Components | 1 |
 |  | Consumer Durables & Apparel | 5 |
@@ -90,7 +90,7 @@ Below are my open-source projects under [github.com/dotku](https://github.com/do
 | **Communication Services** (48) | Telecommunication Services | 3 |
 |  | Media & Entertainment | 45 |
 | **Real Estate** (1) | Real Estate Management & Development | 1 |
-| **Total** | | **620** |
+| **Total** | | **621** |
 
 ### Energy (5)
 _Oil, gas, renewables, and energy equipment._
@@ -103,7 +103,7 @@ _Oil, gas, renewables, and energy equipment._
 - [san-francisco-bay-area-solar-panel](https://github.com/dotku/san-francisco-bay-area-solar-panel) — Power Transfer System $6000~$8000
 - [sunfront](https://github.com/dotku/sunfront) — Sunshine-themed frontend interface for weather or solar energy visualization
 
-### Industrials (45)
+### Industrials (46)
 _Capital goods, transportation & logistics, commercial and professional services._
 
 #### Capital Goods (13)
@@ -122,7 +122,7 @@ _Capital goods, transportation & logistics, commercial and professional services
 - [tensorflow-gpu](https://github.com/dotku/tensorflow-gpu) — GPU-accelerated machine learning pipeline for high-performance model training
 - [usa-manufactures](https://github.com/dotku/usa-manufactures) — | Name | Revenue 2021 |
 
-#### Commercial & Professional Services (29)
+#### Commercial & Professional Services (30)
 
 - [ai-marketing](https://github.com/dotku/ai-marketing) — Intelligent marketing automation platform for campaign optimization and audience engagement
 - [autoclaw-data-scraper](https://github.com/dotku/autoclaw-data-scraper) — Daily trade intelligence scraper powered by GitHub Actions.
@@ -147,6 +147,7 @@ _Capital goods, transportation & logistics, commercial and professional services
 - [sdg-ai-business-card](https://github.com/dotku/sdg-ai-business-card) — An AI-powered digital business card for Jay Lin, Marketing Manager at BannerShop Inc.
 - [SheepCom](https://github.com/dotku/SheepCom) — A marketing service
 - [sienovo-cn](https://github.com/dotku/sienovo-cn) — 基于先进的人工智能技术，为政府机构提供全方位的数字化转型解决方案。
+- [sienovo-intl](https://github.com/dotku/sienovo-intl)
 - [thinkphp-english-manual](https://github.com/dotku/thinkphp-english-manual) — A English Translation Guide for ThinkPHP PHP Framework
 - [translation_center](https://github.com/dotku/translation_center) — #Translation Center
 - [union-et-printing](https://github.com/dotku/union-et-printing) — Commercial printing services platform for business cards, marketing materials, and custom orders
