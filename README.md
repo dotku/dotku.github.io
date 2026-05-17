@@ -66,7 +66,7 @@ I'm a business solution provider in San Francisco Bay Area. My work and the [hun
 
 ## GitHub Repositories by GICS Classification
 
-Below are my open-source projects under [github.com/dotku](https://github.com/dotku), categorized using the [Global Industry Classification Standard (GICS)](https://www.msci.com/our-solutions/indexes/gics) — the taxonomy MSCI and S&P use for global equity markets. The hierarchy is **Sector (11) → Industry Group (25) → Industry (74)**; the third level is shown inside Information Technology and Media & Entertainment where repo density warrants it. Auto-generated from 621 public repositories. Forks of upstream open-source projects are marked with 🔀 and listed last within each group.
+Below are my open-source projects under [github.com/dotku](https://github.com/dotku), categorized using the [Global Industry Classification Standard (GICS)](https://www.msci.com/our-solutions/indexes/gics) — the taxonomy MSCI and S&P use for global equity markets. The hierarchy is **Sector (11) → Industry Group (25) → Industry (74)**; the third level is shown inside Information Technology and Media & Entertainment where repo density warrants it. Auto-generated from 623 public repositories. Forks of upstream open-source projects are marked with 🔀 and listed last within each group.
 
 ### Overview
 
@@ -83,14 +83,14 @@ Below are my open-source projects under [github.com/dotku](https://github.com/do
 | **Consumer Staples** (1) | Food, Beverage & Tobacco | 1 |
 | **Health Care** (17) | Health Care Equipment & Services | 16 |
 |  | Pharmaceuticals, Biotechnology & Life Sciences | 1 |
-| **Financials** (38) | Financial Services | 38 |
-| **Information Technology** (414) | Software & Services | 412 |
+| **Financials** (39) | Financial Services | 39 |
+| **Information Technology** (415) | Software & Services | 413 |
 |  | Technology Hardware & Equipment | 1 |
 |  | Semiconductors & Semiconductor Equipment | 1 |
 | **Communication Services** (48) | Telecommunication Services | 3 |
 |  | Media & Entertainment | 45 |
 | **Real Estate** (1) | Real Estate Management & Development | 1 |
-| **Total** | | **621** |
+| **Total** | | **623** |
 
 ### Energy (5)
 _Oil, gas, renewables, and energy equipment._
@@ -260,10 +260,10 @@ _Medical devices, providers, pharma and biotech._
 
 - [biointellitech](https://github.com/dotku/biointellitech) — Corporate site for BioIntelliTech biotechnology solutions and intelligent life sciences services
 
-### Financials (38)
+### Financials (39)
 _Banks, capital markets, insurance, fintech and crypto._
 
-#### Financial Services (38)
+#### Financial Services (39)
 
 - [agentbook](https://github.com/dotku/agentbook) — In trading world, people purchase through relationship; instead of just money and goods.
 - [auto-stock](https://github.com/dotku/auto-stock) — A automatically trading app
@@ -280,6 +280,7 @@ _Banks, capital markets, insurance, fintech and crypto._
 - [crypto-recommend](https://github.com/dotku/crypto-recommend) — my algorithm on crypto invest
 - [crypto-tech](https://github.com/dotku/crypto-tech) — https://goo.gl/maps/myE7oK62DbNzPkie7
 - [crypto-trading-simulation](https://github.com/dotku/crypto-trading-simulation) — This project simulateted 3 most common strategies in the investment industry.
+- [demo-sarl](https://github.com/dotku/demo-sarl) — Neutral demonstration landing page for the demo.sarl domain — Next.js 16, i18n (en/fr), Stripe Payment Link donations.
 - [finance](https://github.com/dotku/finance) — Since there are several finance related project. I create a new org called DotFin to manage the projects.
 - [game-exchange-box](https://github.com/dotku/game-exchange-box) — It is a trading platform that each player exchange their items.
 - [get-rich](https://github.com/dotku/get-rich) — People concider as financial free if their basic spending is balanced out their earning without
@@ -304,12 +305,12 @@ _Banks, capital markets, insurance, fintech and crypto._
 - [web3-store](https://github.com/dotku/web3-store) — Decentralized marketplace enabling blockchain-based digital commerce
 - [zy-i18n-trading-calculator](https://github.com/dotku/zy-i18n-trading-calculator) — https://dotku.github.io/dk-i18n-trading-calculator/
 
-### Information Technology (414)
+### Information Technology (415)
 _Software, IT services, hardware and semiconductors._
 
-#### Software & Services (412)
+#### Software & Services (413)
 
-##### Internet Services & Infrastructure (21)
+##### Internet Services & Infrastructure (22)
 
 - [azure-identity-client-spa](https://github.com/dotku/azure-identity-client-spa) — Secure user authentication and identity management for enterprise applications
 - [cloud-pen](https://github.com/dotku/cloud-pen) — A cloud note web app
@@ -324,6 +325,7 @@ _Software, IT services, hardware and semiconductors._
 - [lab-codespaces](https://github.com/dotku/lab-codespaces) — This is a quick node project template for demoing Codespaces. It is based off of the Azure node sample. It's great!!!
 - [lab-heroku-node](https://github.com/dotku/lab-heroku-node) — A laboratory for Heroku hosting
 - [lab-heroku-php](https://github.com/dotku/lab-heroku-php) — PHP application deployment environment for cloud hosting on Heroku
+- [lodestar](https://github.com/dotku/lodestar) — Lodestar — AI-native sustainment platform for the U.S. Department of Defense. Concept-stage investment brief with interactive AI demo via Vercel AI Gateway. Hosted on lodestar.demo.sarl.
 - [ollama-python-api](https://github.com/dotku/ollama-python-api) — A self-hosted API gateway for Ollama with API key authentication, per-tier rate limiting, usage tracking, and a real-time monitoring dashboard.
 - [python-react-aws](https://github.com/dotku/python-react-aws) — A sample project on Python, React and AWS tech stack
 - [python-vercel](https://github.com/dotku/python-vercel) — Serverless Python application deployment and hosting solution

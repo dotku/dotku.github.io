@@ -984,6 +984,12 @@
     "d_source": "claude"
   },
   {
+    "d": "Neutral demonstration landing page for the demo.sarl domain — Next.js 16, i18n (en/fr), Stripe Payment Link donations.",
+    "l": "TypeScript",
+    "n": "demo-sarl",
+    "t": []
+  },
+  {
     "d": null,
     "l": null,
     "n": "design-systems",
@@ -2465,6 +2471,12 @@
     "t": [],
     "d_enriched": "Local tourism guide and attraction discovery platform for travelers",
     "d_source": "claude"
+  },
+  {
+    "d": "Lodestar — AI-native sustainment platform for the U.S. Department of Defense. Concept-stage investment brief with interactive AI demo via Vercel AI Gateway. Hosted on lodestar.demo.sarl.",
+    "l": "TypeScript",
+    "n": "lodestar",
+    "t": []
   },
   {
     "d": null,
