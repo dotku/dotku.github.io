@@ -422,6 +422,14 @@
       if (window.DotkuI18n) {
         window.DotkuI18n.onChange(translateContent);
       }
+
+      // Content renders async, so the browser's native anchor-scroll (which
+      // fires before README.md finishes loading) has nothing to jump to yet.
+      // Do it ourselves once the heading actually exists in the DOM.
+      if (location.hash) {
+        const target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+        if (target) requestAnimationFrame(() => target.scrollIntoView());
+      }
     } catch (e) {
       content.innerHTML = '<p class="text-red-600">Failed to load README.md: ' + e.message + '</p>';
     }
